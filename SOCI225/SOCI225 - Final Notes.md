@@ -10,7 +10,7 @@ title: SOCI225 - Final Notes
 - Annette Lareau: “Cultural Knowledge and Social Inequality”
 - Movie: The Up Series (1964-today)
 
-## Bordieu
+## Bordieu: Capital
 
 - 3 fundamental types of capital:
 	1. Economic ~ Financial assets; converted into currency
@@ -28,7 +28,7 @@ title: SOCI225 - Final Notes
 	3. Institutionalized state ~ form of objectification BUT it confers  entirely original property on the cultural capital which it is presumed to guarantee, qualification which can be exchanged on the labor market for monetary value
 - Social capital = membership in a group, collectivity-owned capital, "the profits which accrue from membership in a group are the basic of the solidarity which makes them possible", exchange, mutual knowledge, 	recognition, presence of a spokesperson who is the head of the group
 
-## Lareau
+## Lareau: Class & Childhood Development
 
 - Links Bordieu (unevenness of rewards)
 - Most academic studies focus on academic skill and big significant moments, Lareau's study is longitudinal (like Up series) in order to better capture the evolution of every participant over the years from childhood to adulthood
@@ -61,7 +61,9 @@ title: SOCI225 - Final Notes
 - Movie: Atanarnajuat (The Fast Runner) (2001)
 - Short Clip: Nanook of the North (1922)
 
-## Hall
+## Hall: Ideology & Media
+
+> Ideology ~ Group of shared ideas that are beliefs, opinions, and attitudes of a given society
 
 - Representation is problematic because ideologies are problematic ideologies are "the framework through which (societies) represent, interpret, understand, and "make sense" of some aspect of social existence" (Hall 2003:89)
 - Media = transformation and production of ideologies; representation of the social world, images, descriptions, explanation, frames for understanding how the world is/works
@@ -75,10 +77,17 @@ title: SOCI225 - Final Notes
 - Mistakes the media makes: trying to remedy "race relations" but speaking as if black people are the only problem, stereotypes such as "the adventurous white man", "the slave-figure" (which is childlike and limited), "the native" (savage, barbaric, primitive)
 - Ambivalent; "the double vision of the white eye through which they are seen"; to this day certain ethnicities are still perceived as "primitive"
 
-## Raheja
+## Raheja: Visual Sovereignty
+
+> Visual Sovereignty ~ having control over your representation within visual media
+
+- A way to reclaim self-representations in visual platforms
+- Different meanings for different audiences
+- Using Inuit aesthetics and storytelling (example: Atanarjuat)
+- Challenges the audience to think differently about Inuit
+  - puts the viewer inside the action and inside the shoes of the Inuit
 
 - "Disempowering structures of cinematic dominance and stereotype"
-- Atarnajuat (The Fast Runner) was released in 2000 and is the first full-length feature film made by an entirely Inuit crew
 - **Visual sovereignty** = "creative act of self-representation that has the potential to both undermine stereotypes of indigenous peoples and to strengthen what Rovert Warrior has called the "intellectual health" of communities in the wake of genocide and colonialism."; it is reclaiming governance, control, self-representation in any and all visual platforms in order to accurately portray one's people
 	- **Essentially control over ones visual reprentation in the media; In the case of Atarnajuat this is achieved through a full cast of Inuit that have complete control over their own portrayal in their own film**
 - Participation of indigenous people in order to achieve self-representation = key to empowerment
@@ -91,8 +100,7 @@ title: SOCI225 - Final Notes
 
 ## Film Context: Atanarjuat
 
-- 2001, Canadian film
-- Produced by an entirely Inuit collective (Isuma Igloolik Productions)
+- Atarnajuat (The Fast Runner) was released in 2000 and is the first full-length feature film made by an entirely Inuit crew
 - Won Caméra d’or at Cannes (2001)
 - Filmed in Nunavut
 - Filming techniques and line delivery different than how Hollywood portrays Native Americans; this shows the difference between the western and the indigenous lens
@@ -100,6 +108,12 @@ title: SOCI225 - Final Notes
 - Neither the protagonist nor the antagonist are wholly "good" or "evil"; "shamanistic narrative framework"; "pre-European invasion"; violence vs. humor
 
 > "(...) incorporates and reworks ethnographic elements to offer up a corrective cultural narrative to combat a century of anthropological monographs and documents"
+
+## Film Context: Nanook of the North
+
+- While highly praised it presents alot of missinformation to sell the view as the "primative" indian, hunting with spears and disconnected from the modern world. Examples of this include:
+  - Suggesting the Inuit only hunt with harpoon while they would have been using guns
+  - Using language to suggest how mystifyied the eskimo are of the "white man" (saying they call the trading post the "big igloo")
 
 - "Nanooks smile" = example of an ethnocentric portrayal of Native American people’s; Nanook is seen as a savage because he doesn’t understand technology but Native American viewers interpret his smile completely differently (not childish, but implying sort of an inside joke)
 
@@ -111,7 +125,7 @@ title: SOCI225 - Final Notes
 - Karin Martin: “Becoming a Gendered Body: Practices of Preschools”
 - Movie: Billy Elliot (2000)
 
-## West & Zimmerman
+## West & Zimmerman: Doing Gender
 
 - "The purpose of this article is to advance a new understanding of gender as a routine accomplishment embedded in everyday interaction. To do so entails a critical assessment of existing perspectives on sex and gender and the introduction of important distinction among sex, sex category, and gender"
 - Distinction between sex, category, gender:
@@ -131,7 +145,7 @@ title: SOCI225 - Final Notes
 - Division of labor, such as household chores, is also done according to sex
 - "Gender is a powerful ideological device, which produces, reproduces, and legitimates the choices and limits that are predicated on sex category" (p.147); there are legitimate existing gender hierarchies which enable or prevent people from doing certain things
 
-## Martin
+## Martin: Gendered Bodies
 
 - Body movements depend on gender (girls are constricted in certain movements such as uncrossing legs)
 - "Gendered (along with "raced" and "classed") bodies create particular contexts for social relations as they signal, manage, and negotiate information about power and status"
@@ -173,7 +187,7 @@ title: SOCI225 - Final Notes
 - Peter Evans	& William Sewell: "The Neo-liberal era: Ideology, Policy, and Social Effects"
 - Movie: Slumdog Millionaire (2008)
 
-## Davis
+## Davis: Slums
 
 - The rise of the middle class is not attributed to the redistribution of wealth but rather by taking even more money from the poor
 - United Nations Habitat Office: 1 billion people living in slums globally
@@ -189,7 +203,7 @@ title: SOCI225 - Final Notes
 	- Problem: insufficient resources (wealth redistribution and jobs are a big challenge)
 - "Urban employment is equal to climate change as a fundamental challenge for our future"
 
-## Evans & Sewell
+## Evans & Sewell: Neoliberalism & Globalization
 
 - Neoliberalism: "(...) a rapidly integrating world market regulated by global rules administered by economic governance institutions like the World Trade Organization and disciplined by instantaneous global exchanged for currencies, securities, and bonds." (p.35)
 - "Neoliberalism is in the first instance a theory of political economic practices that proposes that human wellbeing can best be advanced by liberating individual entrepreneurial freedom and skills within an institution framework characterized by strong private property rights, free markets, and free trade." (Harvey 2005:2)
@@ -225,7 +239,7 @@ title: SOCI225 - Final Notes
 - Jean Baudrillard: “Consumer Society”
 - Movie: Merchants of Cool (2001), Generation Like (2014)
 
-## Schor
+## Schor: Consumption
 
 - Consumption = identity; Americans used to buy things in order to impress/keep up with their neighbours but now items they buy are part of their identity
 - Material dissatisfaction comes from the fact that lifestyle aspirations are founded on people who make much more money than the average person; advertising and media perpetuates as they are the ones directing us towards these lifestyle aspirations
@@ -243,7 +257,7 @@ title: SOCI225 - Final Notes
 
 ## Baudrillard
 
-- Consumption and affluence are now part of human nature; humans value objects over realtionships; objects surround us and they form a system of meaning, a language
+- Consumption and affluence are now part of human nature; humans value objects over relationships; objects surround us and they form a system of meaning, a language
 - Accumulation/profusion/luxury = ideals; displays or collections reaveal status
 - Objects = arranged in paths to entice customers; always invite consumption through complimentary products; no longer need to have a utility, they are desirable just to own
 - Shopping malls: the 7-day a week accessability and the new credit cards further the consumption process even more
