@@ -1,10 +1,3 @@
----
-tags: [Notebooks/ANTH202]
-title: ANTH202 - Final Notes
-created: '2019-11-05T23:59:26.336Z'
-modified: '2019-11-28T22:53:24.830Z'
----
-
 # ANTH202 - Final Notes
 
 # Illness, Health & Disease

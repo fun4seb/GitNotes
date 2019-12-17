@@ -1,11 +1,4 @@
----
-tags: [Notebooks/SOCI225]
-title: SOCI225 - Week 6
-created: '2019-10-07T15:48:23.718Z'
-modified: '2019-10-19T22:44:44.946Z'
----
-
- # SOCI225 - Week 6
+# SOCI225 - Week 6
 
 ## Intro
 

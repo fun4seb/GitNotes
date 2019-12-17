@@ -1,10 +1,3 @@
----
-tags: [Notebooks/ANTH202]
-title: ANTH202 - Week 4
-created: '2019-09-24T22:01:20.095Z'
-modified: '2019-09-24T22:37:59.406Z'
----
-
 # ANTH202 - Week 4
 
 ## Making a living

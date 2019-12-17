@@ -1,7 +1,3 @@
----
-title: SOCI225 - Final Notes
----
-
 # Week 7: Class & Inequality	
 
 ## Content

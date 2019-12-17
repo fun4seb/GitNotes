@@ -1,10 +1,3 @@
----
-tags: [Notebooks/SOCI212]
-title: SOCI212 - Final Notes
-created: '2019-11-28T22:52:52.720Z'
-modified: '2019-12-08T21:47:38.753Z'
----
-
 # SOCI212 - Final Notes
 
 ## Final Exam Topics

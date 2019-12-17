@@ -1,10 +1,3 @@
----
-tags: [Notebooks/ANTH202]
-title: ANTH202 - Week 3
-created: '2019-09-17T21:54:47.648Z'
-modified: '2019-09-17T22:43:47.950Z'
----
-
 # ANTH202 - Week 3
 
 ## The Great Apes

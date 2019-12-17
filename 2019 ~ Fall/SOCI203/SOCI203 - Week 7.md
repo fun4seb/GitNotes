@@ -1,10 +1,3 @@
----
-tags: [Notebooks/SOCI203]
-title: SOCI203 - Week 7
-created: '2019-10-17T22:17:43.894Z'
-modified: '2019-10-17T23:31:58.950Z'
----
-
 # SOCI203 - Week 7
 
 # Intro

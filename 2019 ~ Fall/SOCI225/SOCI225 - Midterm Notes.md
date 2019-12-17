@@ -1,10 +1,3 @@
----
-tags: [Notebooks/SOCI225]
-title: SOCI225 - Midterm Notes
-created: '2019-10-19T21:05:15.582Z'
-modified: '2019-10-21T15:30:27.772Z'
----
-
 # SOCI225 - Midterm Notes
 
 # Key Information

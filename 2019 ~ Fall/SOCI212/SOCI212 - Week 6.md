@@ -1,10 +1,3 @@
----
-tags: [Notebooks/SOCI212]
-title: SOCI212 - Week 6
-created: '2019-10-09T22:11:37.837Z'
-modified: '2019-10-09T22:58:11.226Z'
----
-
 # SOCI212 - Week 6
 
 ## From Last Class

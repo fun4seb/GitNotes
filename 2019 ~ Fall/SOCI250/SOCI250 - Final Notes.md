@@ -1,10 +1,3 @@
----
-tags: [Notebooks/SOCI250]
-title: SOCI250 - Final Notes
-created: '2019-11-28T22:53:50.175Z'
-modified: '2019-12-11T21:50:49.664Z'
----
-
 # SOCI250 - Final Notes
 
 # Information

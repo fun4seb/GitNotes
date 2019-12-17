@@ -1,10 +1,3 @@
----
-tags: [Notebooks/SOCI250]
-title: SOCI250 - Consumer Culture
-created: '2019-11-15T20:13:21.375Z'
-modified: '2019-11-15T20:36:20.051Z'
----
-
 # SOCI250 - Consumer Culture
 
 # Process of Commoditization

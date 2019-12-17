@@ -1,10 +1,3 @@
----
-tags: [Notebooks/ANTH202]
-title: ANTH202 - Midterm Notes
-created: '2019-10-01T22:02:01.889Z'
-modified: '2019-10-18T20:51:25.942Z'
----
-
 # ANTH202 - Midterm Notes
 
 # Stuff to Cover

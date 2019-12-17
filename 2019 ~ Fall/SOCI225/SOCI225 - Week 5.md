@@ -1,10 +1,3 @@
----
-tags: [Notebooks/SOCI225]
-title: SOCI225 - Week 5
-created: '2019-09-30T15:49:27.747Z'
-modified: '2019-10-19T22:44:01.834Z'
----
-
 # SOCI225 - Week 5
 
 ## Film Analysis #1

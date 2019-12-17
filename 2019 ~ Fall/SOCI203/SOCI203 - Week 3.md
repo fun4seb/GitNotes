@@ -1,10 +1,3 @@
----
-tags: [Notebooks, Notebooks/SOCI203]
-title: SOCI203 - Week 3
-created: '2019-09-19T22:06:04.350Z'
-modified: '2019-09-19T23:44:46.912Z'
----
-
 # SOCI203 - Week 3
 
 ## Hunter-Gatherer Societies

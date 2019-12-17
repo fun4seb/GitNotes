@@ -1,10 +1,3 @@
----
-tags: [Notebooks/SOCI250]
-title: SOCI250 - Midterm Notes
-created: '2019-10-09T02:33:48.959Z'
-modified: '2019-10-18T20:51:07.628Z'
----
-
 # SOCI250 - Midterm Notes
 
 # Big Three (Marx, Durkheim, Weber)

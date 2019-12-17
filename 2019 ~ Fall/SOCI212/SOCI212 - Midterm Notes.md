@@ -1,10 +1,3 @@
----
-tags: [Notebooks/SOCI212]
-title: SOCI212 - Midterm Notes
-created: '2019-10-18T20:50:43.254Z'
-modified: '2019-10-23T21:22:12.725Z'
----
-
 # SOCI212 - Midterm Notes
 
 # Types of Variables and their Characteristics

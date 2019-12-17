@@ -1,10 +1,3 @@
----
-tags: [Notebooks/SOCI225]
-title: SOCI225 - Week 8
-created: '2019-11-04T16:53:57.287Z'
-modified: '2019-11-04T17:49:00.269Z'
----
-
 # SOCI225 - Week 8
 
 # Key Lecture Questions

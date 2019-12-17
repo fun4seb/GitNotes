@@ -1,10 +1,3 @@
----
-tags: [Notebooks/SOCI250]
-title: SOCI250 - Week 5
-created: '2019-09-04T20:51:22.748Z'
-modified: '2019-10-04T20:55:38.397Z'
----
-
 # SOCI250 - Week 5
 
 ## Key lecture questions

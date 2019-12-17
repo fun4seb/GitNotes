@@ -1,10 +1,3 @@
----
-tags: [Notebooks/SOCI225]
-title: SOCI225 - Week 3 "Awaken Our Sociological Imagination"
-created: '2019-09-16T15:48:22.577Z'
-modified: '2019-10-19T22:24:42.915Z'
----
-
 # SOCI225 - Week 3 "Awaken Our Sociological Imagination"
 
 ## Agenda

@@ -1,10 +1,3 @@
----
-tags: [Notebooks/ANTH202]
-title: ANTH202 - Week 2
-created: '2019-09-10T21:57:45.300Z'
-modified: '2019-09-17T21:54:16.490Z'
----
-
 # ANTH202 - Week 2
 
 ## Ethnocentrism and Cultural Relativism

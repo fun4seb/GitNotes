@@ -1,10 +1,3 @@
----
-tags: [Notebooks/SOCI225]
-title: SOCI225 - Food Culture
-created: '2019-12-02T16:51:08.953Z'
-modified: '2019-12-02T18:17:13.665Z'
----
-
 # SOCI225 - Food Culture
 
 # Key Lecture Questions

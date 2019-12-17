@@ -1,10 +1,3 @@
----
-tags: [Notebooks/SOCI225]
-title: SOCI225 - Gender
-created: '2019-11-11T16:51:48.597Z'
-modified: '2019-11-15T22:41:13.653Z'
----
-
 # SOCI225 - Gender
 
 # Lecture Questions

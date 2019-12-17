@@ -1,10 +1,3 @@
----
-tags: [Notebooks/ANTH202]
-title: ANTH202 - Week 1
-created: '2019-09-04T20:51:22.810Z'
-modified: '2019-09-17T21:54:32.463Z'
----
-
 # ANTH202 - Week 1
 
 ## Important Information
