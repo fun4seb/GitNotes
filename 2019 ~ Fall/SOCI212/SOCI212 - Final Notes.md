@@ -16,14 +16,44 @@
 - Part 2: Short question (likely on scattergrams)
 - Part 3: 2-4 calculation problems with interpretation (bring scientific calculator)
 
+# Elaboration: Multivariate
+
+- **RARELY** bivariate, almost always multivariate
+  - In the real world things are determined by many factors, income for example is determined by many facotrs outside of hours worked, it could be determined by socio-economic background, level of education, gender, tax rates, etc.
+
 # Measures of Association
 
 ## Association
 
 - 2 variables are associated when they vary together, when one changes so does the other
+  - This could mean either a **positive relationship** or **negative relationship**
+- Positive relationship:
+  - As one score rises so does another score
+    - Ex: As length of residence within a country lengthens, so does ones level of fluency with the national language
+- Negative relationship:
+  - As one score rises or falls, another score does the opposite
+    - Ex: As income rises for an individual, number of days spent hungry lowers
+
 - Association can be important evidence for causal relationships, particularly if the association is strong
 - **Correlation and Causality doesnt/shouldnt imply proof**
   - While there may be evidence (strong) that a phenomena causes an effect, it is only evidence of causation and not proof
+
+### Direct Relationship
+
+- In a **direct** relationship, the control variable (Z) has little to know effect on the relationship between X & Y
+- The column %'s and gammas in the partial tables are about the same as the bivariate table
+  - This outcome supports the argument that **X causes Y**
+
+### Other Possible Relationships Between X, Y, and Z
+
+- **Spurious** relationship (also called explanation):
+  - X and Y are not related, both are **caused** by Z (X <- Z -> Y)
+- **Intervening** relationship (also called interpretation):
+  - X and Y are not directly related but are **linked** by Z (X -> Z -> Y)
+- **Interaction** (also called specification):
+  - The relationship between X and Y changed for each value of Z (Y <- Z1 <- X -> Z2 -> 0)
+
+- The partial tables look the **same** for spurious and interveneing relationships but for very different causal reasons
 
 ## Prediction
 
@@ -38,13 +68,30 @@
     1. Does an association **exist**?
     2. How **strong** is the association?
     3. What is the **pattern or direction** of the association?
-  
+
+## Limitation of Elaborating Bivariate Tables
+
+- Basic limitation: sample size
+  - Greater the number of partial tables, the more lively to have cells with low to zero frequencies
+- Potential solutions:
+  - Reduce number of cells by collapsing categories (recoding)
+  - Use a much larger sample size
+
 ## Nominal Level Measures of Association
 
 - For nominal level variables there are 2 commonly used measures of association:
   - Phi
   - Cramer's V
-  - also sometimes **Lambda**
+  - Lambda
+
+### Decision Tree: What Method to Use?
+
+- If 2x2 table and...
+  - Chi-square based measure of association -> use **Phi** OR
+  - PRE measure of association -> use **Lambda**
+- If greater than 2x2 and...
+  - Chi-square based measure of association -> use **Cramer's V** OR
+  - PRE measure of association -> use **Lambda**
 
 ### Phi
 
@@ -52,10 +99,21 @@
 
 ### Lambda
 
+> Lambda = (E1 – E2) / E1
+
+- Lambda provides us with an indication of the strength of the relationship between independent and dependent variables
+- To calculate lambda, you need two numbers: E1 and E2.
+  1. E1 is the error of prediction made when the independent variable is ignored. To find E1, you first need to find the mode of the dependent variable and subtract its frequency from N. E1 = N – Modal frequency.
+  2. E2 is the errors made when the prediction is based on the independent variable. To find E2, you first need to find the modal frequency for each category of the independent variables, subtract it from the category total to find the number of errors, then add up all the errors.
+  3. 
+
 ## Ordinal Level Measures of Association
 
 ### Gamma
 
+> Gamma = (Ns - Nd)/(Ns + Nd)
+
+- **Can only use Gamma if the variables are ORDINAL**
 - In addition to **strength**, gamma also identifies the **direction** of the relationship
 - In a **negative** relationship between authoritarianism and depression symptoms:
   - as authoritarianism increases, depression symptoms decrease
