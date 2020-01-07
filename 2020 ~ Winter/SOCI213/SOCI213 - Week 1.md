@@ -96,19 +96,19 @@
 ### Example 1: Determining Crimes/Months (y) From x1-5
 MO = mean of...
 > y = a + b1x1 + b2x2 + b3x3 + b4x4 + b5x5
-  a = MOy - [b1MOx1 + b2MOx2 + b3MOx3 + b4MOx4 + b5MOx5]
-    = 15 - [1.80(9) + 1.14(3) - .00015(18000) + .008(200) - .20(29)]
-  	= 15 - 12.72 = 2.28
-  y = 2.28 + 1.80x1 + 1.14x2 - .00015x3 + .008x4 - .20x5
+> a = MOy - [b1MOx1 + b2MOx2 + b3MOx3 + b4MOx4 + b5MOx5]
+>   = 15 - [1.80(9) + 1.14(3) - .00015(18000) + .008(200) - .20(29)]
+> 	= 15 - 12.72 = 2.28
+> y = 2.28 + 1.80x1 + 1.14x2 - .00015x3 + .008x4 - .20x5
 
 - Explain variation in Y, using all 5 X's
 - Predict y, knowing all 5 x's
 - a = 2.28; If all 5 x's = 0, y = 2.28 crimes/month
 
 > b1 = 1.80 -> if x1 increases by 1%, y increases by 1.80 crimes/month, holding all other x's constant
-  b2 = 1.14 -> if x2 increases by 1 child, y increases by 1.14 crimes/month, holding all other x's constant
-  b3 = -.00015 -> if x3 increases by $1000, y decreases by .15 crimes/month, holding all other x's constant
-  b4 = .008 -> if x4 increases by 100 people, y increases by 0.8 crimes/month, holding all other x's constant
-  b5 = -.20 -> if x5 increases by 10 years, y decreases by 2 crimes/month, holding all other x's constant
+> b2 = 1.14 -> if x2 increases by 1 child, y increases by 1.14 crimes/month, holding all other x's constant
+> b3 = -.00015 -> if x3 increases by $1000, y decreases by .15 crimes/month, holding all other x's constant
+> b4 = .008 -> if x4 increases by 100 people, y increases by 0.8 crimes/month, holding all other x's constant
+> b5 = -.20 -> if x5 increases by 10 years, y decreases by 2 crimes/month, holding all other x's constant
 
 > y - 2.28 + 1.80(10) + 1.14(3) -.00015(15000) + .008(250) -.20(25) = 18.45 crimes/month
