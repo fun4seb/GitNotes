@@ -1,7 +1,6 @@
 # ANTH202 - Week 3
 
 ## The Great Apes
-
 * Category of large, tailless primates
 * Locomotion by brachiation
 * Modern humans and great apes share a common ancesto
@@ -11,14 +10,12 @@
 > Social Darwinism ~ The smarter individuals in society become more succesfull
 
 ## Primate Characteristics
-
 * Faces tend to be flat with small snouts
 * Reliant on vision
 * Have 5 digit on hands and feet and are capable with both 
 * Large brains
 
 ## Nonhuman Primate Culture
-
 * Evidence indicates that animals other than humans have aspects of culture
 * In primatology, culture is defined as behavior that is learned and shared
 * Example: Imo, Japanese primate
@@ -29,7 +26,6 @@
 ## Hominin Evolution to Modern Humans
 
 ## Early Hominins
-
 * Separated from other great apes from 8 million until 3 million years ago
 * Lived in Africa
 * Distinct from other apes

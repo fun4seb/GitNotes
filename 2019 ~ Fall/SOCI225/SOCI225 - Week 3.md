@@ -1,7 +1,6 @@
 # SOCI225 - Week 3 "Awaken Our Sociological Imagination"
 
 ## Agenda
-
 * Lecture
 * Introduciton to film
 * Break
@@ -9,19 +8,16 @@
 * Post film discussion
 
 ## Key Lecture Questions
-
 1. What is sociological project? what do we "do"
 2. What is **sociological imagination**? what is its value
 3. What do we have in our sociological toolkit that is helpful for understanding films sociologically?
 
 ## Why Movies?
-
 * See differently
 * Historical artefacts of an older timeperiod, see into zeitgeist of past societies
 * Deepen understanding of sociological themes through the films
 
 ## Films as Social Text
-
 Four I's of sociological curriculum
 
 1. Identity
@@ -34,7 +30,6 @@ Four I's of sociological curriculum
   Central institutions in society (Religion, School, Family, Government, etc.)
 
 ## What is Part of our Toolkit?
-
 1. Sociological imagination
 2. Theories
 3. Methods
@@ -42,7 +37,6 @@ Four I's of sociological curriculum
 ## Sociological Imagination
 
 ### What is it?
-
 > Sociological Imagination ~  ability to see things socially and how they interact and influence each other. To have a sociological imagination, a person must be able to pull away from the situation and think from an alternative point of view.
 
 * **History + Biography**
@@ -52,31 +46,26 @@ Four I's of sociological curriculum
 * Awareness
 
 ### Why is it Important?
-
 Self Conciousness:
 > With sociological imagination "We come to feel as if suddenly awakened in a house with which they had only supposed themselves to be familiar." (page 8)
 
 ### What are its Elements/Lens?
-
 1. Personal Troubles
   Things that are individualized and closer to us as indivisuals, have to do with self and are individual matters/problems
 2. Public Issues
   Remote to us, happen at a broader social level beyond the individual
 
 ## Big Question this Term
-
 * Look at films as sociological case studies
 * To what degree does the movie connect **biography** (individual story), **social structure** (broader social forces) and **history** (larger historical forces)
 
 ## To Kill a Mockingbird
-
 * Based on Harper Lee noveel (1969)
 * Directed by Robert Mulligan; released in 1962
 * Starring Gregory Peck as Atticus Finch, a lowyer who accepts to defend a black man who was accused of raping a white girl
 * Set in 1920s Alabama, Jim Crow south
 
 ### Questions to think about?
-
 * How does To Kill a Mocking Bird help us understand the sociological imagination?
 * How does the film help us understand the sociological "project" more broadly?
 

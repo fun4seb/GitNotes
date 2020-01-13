@@ -1,13 +1,11 @@
 # Week 7: Class & Inequality	
 
 ## Content
-
 - Pierre Bourdieu: "The Forms of Capital"
 - Annette Lareau: “Cultural Knowledge and Social Inequality”
 - Movie: The Up Series (1964-today)
 
 ## Bordieu: Capital
-
 - 3 fundamental types of capital:
 	1. Economic ~ Financial assets; converted into currency
 		- Ex: Property rights
@@ -25,7 +23,6 @@
 - Social capital = membership in a group, collectivity-owned capital, "the profits which accrue from membership in a group are the basic of the solidarity which makes them possible", exchange, mutual knowledge, 	recognition, presence of a spokesperson who is the head of the group
 
 ## Lareau: Class & Childhood Development
-
 - Links Bordieu (unevenness of rewards)
 - Most academic studies focus on academic skill and big significant moments, Lareau's study is longitudinal (like Up series) in order to better capture the evolution of every participant over the years from childhood to adulthood
 - Middle-class children are over dependent on parents but more knowledgeable and likely to get what they want compared to lower-class students. Middle-class children also acquired better careers than lower-class kids by age 30
@@ -41,7 +38,6 @@
 - Lack of cultural knowledge, bureaucratic struggles, unawareness of key components
 
 ## Film Context: The Up Series
-
 - British documentary series; follows the lives of 14 British kids from various socioeconomic backgrounds; children are 7 in 1964 at the start of the series, "Seven Up!"
 - The films wanted to “get a glimpse” of the British population in the year 2000 by following the different stages leading up to adulthood
 - Upper-class participants:​ Andrew, Charles, John (wealthy neighborhood, pre-prep), Suzy (private school), Nick (from rural area), Bruce (prestigious boarding school)
@@ -51,14 +47,12 @@
 # Week 8: Race & Ethnicity
 
 ## Content
-
 - Stuart Hall: "The Whites of their Eyes: Racist Ideologies and the Media"
 - Michelle Raheja: "Reading Nanook's Smile"
 - Movie: Atanarnajuat (The Fast Runner) (2001)
 - Short Clip: Nanook of the North (1922)
 
 ## Hall: Ideology & Media
-
 > Ideology ~ Group of shared ideas that are beliefs, opinions, and attitudes of a given society
 
 - Representation is problematic because ideologies are problematic ideologies are "the framework through which (societies) represent, interpret, understand, and "make sense" of some aspect of social existence" (Hall 2003:89)
@@ -74,7 +68,6 @@
 - Ambivalent; "the double vision of the white eye through which they are seen"; to this day certain ethnicities are still perceived as "primitive"
 
 ## Raheja: Visual Sovereignty
-
 > Visual Sovereignty ~ having control over your representation within visual media
 
 - A way to reclaim self-representations in visual platforms
@@ -95,7 +88,6 @@
 - "Hollywood Indians": Native American actors were uncredited, underpaid, and only an accessory for the white antagonist (demeaning roles)
 
 ## Film Context: Atanarjuat
-
 - Atarnajuat (The Fast Runner) was released in 2000 and is the first full-length feature film made by an entirely Inuit crew
 - Won Caméra d’or at Cannes (2001)
 - Filmed in Nunavut
@@ -106,7 +98,6 @@
 > "(...) incorporates and reworks ethnographic elements to offer up a corrective cultural narrative to combat a century of anthropological monographs and documents"
 
 ## Film Context: Nanook of the North
-
 - While highly praised it presents alot of missinformation to sell the view as the "primative" indian, hunting with spears and disconnected from the modern world. Examples of this include:
   - Suggesting the Inuit only hunt with harpoon while they would have been using guns
   - Using language to suggest how mystifyied the eskimo are of the "white man" (saying they call the trading post the "big igloo")
@@ -116,13 +107,11 @@
 # Week 9: Gender & Sexuality
 
 ## Content
-
 - Candace West and Don Zimmerman: “Doing Gender”
 - Karin Martin: “Becoming a Gendered Body: Practices of Preschools”
 - Movie: Billy Elliot (2000)
 
 ## West & Zimmerman: Doing Gender
-
 - "The purpose of this article is to advance a new understanding of gender as a routine accomplishment embedded in everyday interaction. To do so entails a critical assessment of existing perspectives on sex and gender and the introduction of important distinction among sex, sex category, and gender"
 - Distinction between sex, category, gender:
 	- Sex = biological criteria
@@ -142,7 +131,6 @@
 - "Gender is a powerful ideological device, which produces, reproduces, and legitimates the choices and limits that are predicated on sex category" (p.147); there are legitimate existing gender hierarchies which enable or prevent people from doing certain things
 
 ## Martin: Gendered Bodies
-
 - Body movements depend on gender (girls are constricted in certain movements such as uncrossing legs)
 - "Gendered (along with "raced" and "classed") bodies create particular contexts for social relations as they signal, manage, and negotiate information about power and status"
 	- Women = anxiety, tentativeness
@@ -160,7 +148,6 @@
 - Girls are extremely responsible and motherly from an early age, example when one's skirt hikes up another girl will be quick to fix it
 
 ## Film Context: Billy Elliot
-
 - Set in Northern England in the early 1980s
 - Billy is expected to engage in boxing just like every other guy but he hates the sport and is very bad at it
 - He discovers a passion for ballet dancing which is fueled by his teacher, Mrs. Wilkinson
@@ -178,13 +165,11 @@
 # Week 10: Globalization, the Market, and Capitalism
 
 ## Content
-
 - Mike Davis: "Planet of Slums"
 - Peter Evans	& William Sewell: "The Neo-liberal era: Ideology, Policy, and Social Effects"
 - Movie: Slumdog Millionaire (2008)
 
 ## Davis: Slums
-
 - The rise of the middle class is not attributed to the redistribution of wealth but rather by taking even more money from the poor
 - United Nations Habitat Office: 1 billion people living in slums globally
 	- Slums = substandard housing, insecurity of tenure, and the absence of one or more urban services and infrastructures
@@ -200,7 +185,6 @@
 - "Urban employment is equal to climate change as a fundamental challenge for our future"
 
 ## Evans & Sewell: Neoliberalism & Globalization
-
 - Neoliberalism: "(...) a rapidly integrating world market regulated by global rules administered by economic governance institutions like the World Trade Organization and disciplined by instantaneous global exchanged for currencies, securities, and bonds." (p.35)
 - "Neoliberalism is in the first instance a theory of political economic practices that proposes that human wellbeing can best be advanced by liberating individual entrepreneurial freedom and skills within an institution framework characterized by strong private property rights, free markets, and free trade." (Harvey 2005:2)
 - Ways neoliberalism manifests itself:
@@ -221,7 +205,6 @@
 - Peasant population in decline; "depeasantization" leads to urban slums because countryside can't absorb the population surplus anymore
 
 ## Film Context: Slumdog Millionare
-
 - Based on a novel (“Q&A” by Swarup)
 - Portrayal of the global south BUT through a western lens! This created different reactions in western audiences and indian audiences - ethnocentrism and anthropological lens
 - Power imbalances in neoliberal globalized context
@@ -230,13 +213,11 @@
 # Week 11: Consumption & Consumer Culture
 
 ## Content
-
 - Juliet B. Schor: “The Overspent American”
 - Jean Baudrillard: “Consumer Society”
 - Movie: Merchants of Cool (2001), Generation Like (2014)
 
 ## Schor: Consumption
-
 - Consumption = identity; Americans used to buy things in order to impress/keep up with their neighbours but now items they buy are part of their identity
 - Material dissatisfaction comes from the fact that lifestyle aspirations are founded on people who make much more money than the average person; advertising and media perpetuates as they are the ones directing us towards these lifestyle aspirations
 - Want rapidly becomes need
@@ -252,7 +233,6 @@
 - Downshifting: solution found by people questioning consumerism; switching careers, turning part-time, creating home-based businesses; downshifters apear in all social classes; it is not considered a religion or a community (like hippies or quakers) but rather an orientation, a lifestyle, a balancement of values and viable reaction to society's push towards extreme materialism
 
 ## Baudrillard
-
 - Consumption and affluence are now part of human nature; humans value objects over relationships; objects surround us and they form a system of meaning, a language
 - Accumulation/profusion/luxury = ideals; displays or collections reaveal status
 - Objects = arranged in paths to entice customers; always invite consumption through complimentary products; no longer need to have a utility, they are desirable just to own
@@ -269,12 +249,10 @@
 - Today the production of goods is slowly moving away from standardization and towards unique products; even mass-produced brands adopt this ethos which was influenced by social media
 
 ## Movie Context: Merchants of Cool
-
 - PBS Frontline documentary by Douglas Rushkoff
 - Describes the world of advertising and marketing and analyses how it touches youth culture 
 
 ## Movie Context: Generation Like
-
 - Same director; 13 years later he updates the themes explored in Merchants of Cool
 - The change of trends and definition of “cool” capture the shift in consumption
 - We see the evolution of generations
@@ -283,7 +261,6 @@
 # Week 12: Food Culture
 
 ## Omnivorousness
-
 * Bourdieu: Taste = form of cultural capital + how is it related to class position?
 * The things we like, the things we do culturally produce and reproduce class
 * His argument:
@@ -299,7 +276,6 @@
 > Question: if people are consumer more broadly, how do they decide what is more valuable? Essentially what characteristics are they relating?
 
 ## Authenticity
-
 - Important criterion for knowing what foods are "good" or valuable
 - "Real" food
 - Authenticity is socially constructed and relational
@@ -307,45 +283,37 @@
   - Relate to why authenticity is valued so much in modern society
 
 ## Modern Value
-
 - Connected to modern ideals: being tru to ones self, determinism, personal choice, etc.
 - Being true to ones self, but also important to consider social side of authenticity
 
 ## Socially Constructed
-
 - Not inherent to things - is about how things are percieved as "authentic" What are authenticity's qualities
 
 ## Geographic Security
-
 - Foods from somehwere, not placeless foods
 - Very specific references to place
 - Foods that are restricted in production, like geographic indications
 
 ## Simplicity
-
 - Honest, unprocessed, handmade
 - Not too fussy
 - Whole foods
 
 ## Personal Connection
-
 - "Authentic food is about personal connection""
 - Connected to someone special & creative like art is connected to artist
 - Chefs, but also culinary artisans who are passing along family traditions
 
 ## History & Tradition
-
 - History and tradition are what legitimates the food
 - Cooked how is has always been cooked/how it should be cooked
 - Historical tradition, usually enthno-cultural tradition
 - Some creative/innovation injected into tradition makes more authentic
 
 ## Ethnic Connection
-
 - People with ethnic connection to food make it more authentic (whether producers or consumers)
 
 ## Class Politics of Authenticity
-
 - Key role of authenticity: helps to ease tension in contemporary culture between **democracy** and **distinction**
 - Democracy = inclusiveness, equality - very important North American value
 - Authenticity = opening up of tastes, thus is democratic in a way
@@ -353,6 +321,5 @@
 - Deriving status from cultural consumption
 
 # Ugly Delicious (2018)
-
 - James Beard award-winning chef, David Change
 - Restaurants: Momofuku, Milk Bar and others in NYC, Washington, Toronto

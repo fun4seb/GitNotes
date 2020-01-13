@@ -1,7 +1,6 @@
 # SOCI203 - Week 5
 
 ## Intro
-
 * Look into the key points of **Durkheim, Vaber, Marx & Engels**
 * Assignment is due on November 14th
   - Question you do for assignment will reapear on the final exam
@@ -11,7 +10,6 @@
 * Marx believes in the neccesity of revolutary activity among the laboring class.
 
 ## Waber
-
 * Died of aggressive lung cancer, a result of a destructive lifestyle of smoking, drinking, and sleeping pills
 * Marx was interested ins ocial class and revolution while durkheim was interested in evolution and cohesion; Vaber was different. Focussed on not society but the **individual**
 * Vaber thought that individuals were the only ones with nervous systems, lifes, experiences; individuals are the only ones that know the meaning of social action

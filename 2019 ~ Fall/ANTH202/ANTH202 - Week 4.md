@@ -1,7 +1,6 @@
 # ANTH202 - Week 4
 
 ## Making a living
-
 * Five modes of livelyhood
   - Foraging
   - Horticulture
@@ -10,7 +9,6 @@
   - Industrial/Digital
 
 ### Economic System
-
 What is an Economic System?
 * Livelihood (production)
   - Providing for basic needs and other needs by procuring goods or making money
@@ -23,24 +21,20 @@ What is an Economic System?
 > Etic = researchers pov
 
 ## Modes of Livelihood and Globalization
-
 * Western capitalism has marked effects on all other livelihood patterns it meets
 * Increasing focus of research is how global and local economic systems are linked
 * Low-income countries are at a disadvantage to high-income countries
 
 ### Pros of Globalization
-
 * 1 billion less people in extreme poverty than 25 years ago
 * Consumers can buy more for cheaper
 
 ### Cons of Globalization
-
 * Environmental effects
 * Job market took a hit
 * promotes corporate monopoly
 
 ## Foraging
-
 * Based on obtaining foods already available within nature
   - Hunting, fishing, gathering
   - Main economic strategy for most of human history
@@ -51,12 +45,10 @@ What is an Economic System?
     - Marine and terrestial animals are diet staples
 
 ### Dogs
-
 * Dogs were first domesticated around 18,000 years ago; longstanding importance to humans
 * Dogs play a significant role in the economic and emotional wellbeing of humans
 
 ## Horticulture
-
 * Raising crops using hand tools
 * Variety of foods grown (corn, yams, bananas, etc.)
 * Crop yeilds support denser populations than foraging and allow for permanent settlements
@@ -105,7 +97,6 @@ What is an Economic System?
   - At risk in contemporary times due to encroachment, environmental change, country boundaries
 
 ## Agriculture
-
 * Intensive strategy for production
   - More labor, use of fertalizers, control of water supple, use of animals
 * Requires and promotes permanent settlements
@@ -133,5 +124,3 @@ What is an Economic System?
   - Heavy captical outputs and need for nonrenewable resources
   - Especially true of industrial agriculture as they farm for profits and high proffit margins
   - The less sustainable a farmer is the more lucrative the profits
-
-

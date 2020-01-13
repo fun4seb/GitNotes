@@ -1,5 +1,9 @@
 # LING200 - Week 1
 
+# Textbook Notes: Chapter 1
+
+# Lecture Notes: Lecture 1
+
 # Varieties of English
 - Native speakers, while speaking their language perfectly, does not mean their **tacit** knowledge is adequate enough to understand the innerworkings of their own language
 - Things that seem natural and intuitive to native speakers must be tought and formulized according to the structure of the language that is not neccesarilly known despite speaking a certain language fluently

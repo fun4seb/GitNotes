@@ -13,7 +13,7 @@
 	- Foods have symbolic meanings such as tumeric in Indian culture
 - Looking at something purely from a utilitarian point of view to understand why certain things exist as powerful symbols fails to see the big picture
 
-# No Such Thing is "Just a Symbol"
+# Nothing is "Just a Symbol"
 - Symbols have alot of power over people, this is seen as people die over symbols such as "dying for the flag", they dont literally die for the flag but they die for what the flag represents as a symbol
 
 # Defining Symbols

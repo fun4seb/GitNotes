@@ -3,7 +3,6 @@
 ## Hunter-Gatherer Societies
 
 ### Flaws/Problems with such Societies
-
 * Unsustainable in the long run due to dangers and frequency of mortality from preventable causes
 * No way to store food for long term
 * Unstable; **Society always craves stability**
@@ -20,18 +19,15 @@ Societies naturally progress from a mechanical solidarity focussed society like 
 the difference is not that it dissapears, its something that is not defined and aggreed upon by all society; we cannot realistically care about all humans, it is unreasonable
 
 ## Societal Cohesion according to Durkheim
-
 * Durkheim focusesd on the basis of cohesion within societies ie: Religion, education
 * Thought that changes in sactions signalled changes in the social conciousness
 
 ### Education
-
 * Manifest function
 * Socialization (identity formation, social skills, formed connection to community)
   - Very important to socialize the child population from an early age
 
 ### Religion
-
 * Manifest function: go to place of worship and you worship god
 * Latent function: exists independently of what you are worshiping and rather focused on the maintanance of societal cohesion
 
@@ -46,7 +42,6 @@ the difference is not that it dissapears, its something that is not defined and 
   - **"Religion is society worshiping itself** -Durkheim
 
 ## Harriet Martineau
-
 * First woman sociologist, fairly revolutionary for her time
 * Interested in formulating a science of sociology, this is hard due to ambiguity and variances in interpretation with the social *"sciences"*
 * She did not share the common conservative atitude towards social change; she was a *"positivist"*
@@ -55,4 +50,3 @@ the difference is not that it dissapears, its something that is not defined and 
 * Wrote **Society in America**, most notable achievment
 * Often focused on the comparative nature between certain classes, races and groups to come to sociological conclusions about American society
 * Warns against being esocentric in nature, the standards of one culture is not representative of the validity of other cultures
- 

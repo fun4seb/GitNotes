@@ -1,13 +1,11 @@
 # SOCI250 - Final Notes
 
 # Information
-
 - Content: Weeks 5 & 7-12 (lectures & readings)
 - Structure: 10 short answer, 1 essay question (each worth 50%)
 - Length: 3 hours
 
 # Specific Topics
-
 - Looking glass self - Cooley
 - Generalized otther - Mead
 - Theatre lens - Goffman
@@ -16,12 +14,10 @@
 # Week 5 - Creating Culture (Chapter 3)
 
 ## Durkheim & Social Production of Culture
-
 - Durkheim observed modern people can be sorted in many ways (jobs, beliefs, life experiences)
 	- This is called organic solidarity and contrasts mechanical solidarity in which everyone performs similar tasks and have similar life experiences (everyone is interchangable)
 
 ## Durkheim & Role of Religion
-
 - Durkheim viewed religion as the most fundamental bond between people of earlier times
 - Durkheim's analysis on religion centers on 4 key ideas:
 	1. Collective representation
@@ -43,7 +39,6 @@
 - Religious force comes not from a totem or a god but from the experience of the social. Religion, therefore, encompasses the system of ideas by which people represent their society.
 
 ## Culture as Collective Representation
-
 - Durkheim's analysis of religion points to all cultural objects as collective representation as thye not only represent a society but social experience itself
 - Culture, including religion, is a collective representation in two senses. First, the cultural objects we began with (a painting, movie, prophecy, an idea) are not simply created by an individual out of thin air. Instead, people influenced by other people produce them. Second, in their cultural products, people represent their experiences of work, joy, pain, and love. Durkheim’s cultural theory gives us the social mechanism whereby cultural creators produce a cultural object greater than the sum of its influences
 - To understand a certain group of people, one would look for the expressive forms through which they represent themselves to themselves
@@ -51,7 +46,6 @@
 	- Like many other cultural object creators, the story of the individual represent group experience. Singing of death, while personal, is ultimately universally relatable and unifying.
 
 ## Collective Production of Culture
-
 - Durkheims insights on how culture is produced and transfered is called the **collective production** approach to cultural meanings
 	- This approach tries to take away the mystery about the creation of art, ideas, beliefs, religion, and culture in general by revealing the many social activities, such as interaction, cooperation, organization, and contestation, involved in the formation of what we designate as cultural objects.
 - Collective production theory has 2 sides:
@@ -59,7 +53,6 @@
 	2. Second side looks less at interactions and more at the organization of cultural producers and consumers, including such things as culture industries, distribution mechanisms, and the markets for cultural products
 
 ## Symbolic Interactionism
-
 - Symbolic interactionism concerns how people actively construct and learn their norms and roles
 - The basic insight of the interactionists holds that the human self is not a preexisting Platonic form but is shaped through social interaction
 	- An early theorist of this school was **Charles Horton Cooley**, who coined the term **“looking-glass self”**
@@ -80,7 +73,6 @@
 - **Erving Goffman** analyzed this process by using the metaphors of theatrical performances: When it interacts, the self is an actor performing a role before an audience. If the performance succeeds, the self confirms a certain identity both to her partners in interaction and to herself.
 
 ## Subcultures
-
 - Mead  identified two types of social groups:
 	1. Abstract social groups, such as debtors, that function as social groups only indirectly
 	2. Concrete social classes/subgroups, such as political parties, clubs, and corporations
@@ -94,13 +86,11 @@
 	- Ex: Kids baseball team has rituals, language, and other aspects that set it asside as a subculture, it also values socially universal ideals such as valuing winning, or consuming cultural objects such as folk songs
 
 ## Cultural Innovation & Social Change
-
 - While rare many social movements start out as subcultures
 	- To use Weber’s terms, they move from the separation of otherworldly asceticism to the reforming or even revolutionary engagement of innerworldly asceticism.
 	- China offers a good example of how a separatist subculture became a movement for revolutionary social change. What became known as the Boxer Uprising of 1900 began as the Spirit Boxers, a subculture of peasant youth during the late Qing dynasty who were devoted to martial arts and a ritual involving the divine possession of a believer by one of the popular gods
 
 ## Cultural Lags & Leads
-
 - Essentially what influences what in society and how fast do trends catch up to changes in the social world
 - The “cultural lag” hypothesis was put forward by a sociologist named **William Ogburn**, who maintained that sociologists should distinguish between “material culture” and “adaptive culture.”
 	- Material culture is just what it sounds like: “home, factories, machines, raw materials, manufactured products, food stuffs and other material objects. When this material culture changes, the nonmaterial culture, which includes practices, folkways, and social institutions, must change in response.
@@ -110,7 +100,6 @@
 	- At the same time, we can easily come up with examples wherein nonmaterial culture leads, not lags behind, material conditions such as worldwide rapid decline of smoking despite having no material shortage of tobaco nor any material discovery (they already knew smoking was bad) that could lead to a rapid trend of declining smoking habits for an entire population.
 
 ## Cultural Innovations
-
 - The collective production approach to culture suggests, although innovations may occur randomly and unpredictably, some patterns as evident:
 	1. Certain periods prove more likely to generate innovations than others
 	2. Even the innovations follow some conventions
@@ -121,13 +110,11 @@
 # Week 7 - Culture and Collective Identity (Chapter 5)
 
 ## Key Lecture Questions
-
 - What is a social problem? How does it become one and how does culture play a role in that?
 - What are collective identities? How are they created and what role do they play in social problems?
 - How is sexual
 
 ## What is a Social Problem?
-
 - Negative consequence
 - Objective reality
 - Subjective reality
@@ -144,7 +131,6 @@
 - A cultural object is an interpretation, a set of meanings that fit a context of ideas and institutions, that translate random happenings into events, and that suggest attitudes and actions. Social problems are cul­tural objects in exactly this sense.
 
 ## Constructing a social problem
-
 - Social construction of reality
 - Perter Berger & Thomas Luckman
 - When we are within society we base our behaviours is habitual
@@ -161,7 +147,6 @@
 - Meaning and understanding of a social problem is not inherit to the issue but constructed by a group.
 
 ## Stephen Higartner and Charles Bosk
-
 - “The rise and fall of social problems”
 	- Ex: Syrian refugees, marijuana
 - Which issues are more likely to be defined as social problems?
@@ -170,7 +155,6 @@
 	- Linked with powerful interest groups
 
 ## Framing
-
 > “A frame is an interpretive scheme that enables people to make sense of what they experience” (Goffman p.110)
 
 - Basically people use "frames" to understand what is happening around them. The frames through which individuals make sense of themselves and the world around them depend almost entirely on one's social location, status, culture, gender, race, etc. etc. The way that I would make sense of something may be entirely different than the way my neighbor makes sense of the same thing.
@@ -188,14 +172,12 @@
 # Week 8 - Organizational Culture (Chapter 6)
 
 ## Culture in Organizations
-
 - What is culture in organizations?
 	- The “value, norm and patterns of action that characterize the social relationships within formal organizations” (Chan 20150
 - Common culture and cultural sameness within an organization contributes to effectiveness of organizations
 	- Can also contribute to blind spots
 
 ## Cultivating Work Cultures: Management Motivational Strategies
-
 - Structural solutions: less hierarchy
 - Recruitment
 	- Actively hiring a certain type of person
@@ -208,7 +190,6 @@
 - Through structural changes
 
 ### The Managed Heart
-
 - Key sociological study of how managers cultivate work cultures
 - Arlie hochschild
 - Reveal the emotional side of worker socialization
@@ -221,7 +202,6 @@
 	- Women often perform more emotional labour than men
  
 ## Cultivating work cultures: Workers Culture
-
 - How do workers create own work culture (micro level)?
 - Symbolic interactionist
 - Gary Allan fone: **“shopfloor culture”**
@@ -236,26 +216,22 @@
 ## Summary of How Culture Impacts Organizations
 
 ### Culture and Motivation
-
 - Organizations need to motivate their employees to behave in ways beneficial to the organization’s goals.
 - Both internal subcultures of work groups and external cultural influences can interfere with this process by motivating different types of behavior.
 - Management needs to create an organizational culture using some combination of structural means, recruitment, socialization, rituals, model actors, and illuminating stories so that the desired behavior becomes meaningful and satisfying to the employees
 
 ### Organizational Subcultures
-
 - In spite of managerial efforts to exert normative control by creating an organizational culture, subcultures emerge that to some extent resist the dominant culture imposed by management.
 - Such subcultures and the stories they tell often reproduce social cleavages of class, ethnicity, and gender.
 - Within a particular organization, each subculture is both a meaning-making unit, such as Fantasia’s nurses, and a medium through which meanings from the external culture find expression and enactment.
 - If we consider a new product, program, or policy as a cultural object, we can anticipate some of the different meanings that object will have for different groups and their implications for attitudes and behavior.
 
 ### Cross-Cultural Differences
-
 - People’s ways of thinking and acting vary enormously from place to place, and much scholarly ink has been spilled trying to assess the impact these variations have on organizational effectiveness.
 - In the past, a culturalist model, which claimed that national or local cultural values explained organizational differences, opposed a structuralist model, which contended that similar organizational structures produced similar consequences regardless of culture.
 - Recent thinking has moved beyond the either/or terms of these two models to explain how culture influences structure and how structures are interpreted through cultures.
 
 ### Organizations in Multicultural Environments
-
 - Organizations that operate in more than one country or involve several cultural groups in a single country face multiple systems of meaning creation.
 - Although managers cannot control the cognitive frames that will make their organization’s products and programs meaningful in different cultures, they can first recognize this lack of control rather than assume that the characteristics and meanings of something like a Big Mac are transparent and unitary.
 - Second, managers can anticipate when meaning construction will seriously challenge the goals of the organization and act in light of this understanding.
@@ -266,23 +242,19 @@ and flexibility as it does on the mastery of finance and law.
 # Week 9 - Culture of Connection & Digital Culture (Chapter 7)
 
 ## Key Lecture Questions:
-
 - What impact do new information technologies have of culture? On community, on society and on the self?
 - What are some of they central paradoxes that emerge with digital world, and with social media apps like Facebook in particular? How can we tackle these with sociological ideas and theories?
 
 ## Cultural Communities
-
 - Communities can be understand 2 ways sociologically:
 	1. Community as a **territorial concept**
 	2. Community as a **relational concept**
 
 ### Territorial Concept
-
 - A community is something we can locate on a map.
 	- It has spatial properties: borders, a center, and outskirts. It also has a name and a set of symbols associated with it.
 
 ### Relational Concept
-
 - Community in a relational sense refers to people who are tied
 together by webs of communication and may not be physically collectivised together like a village community might be
 	- Ex: Jewish community, Gay community, academic community, etc.
@@ -290,14 +262,12 @@ together by webs of communication and may not be physically collectivised togeth
 the same town or village were also linked with one another through friendship, kinship, trade, shared beliefs, and a common set of symbols.
 
 ## History of Communication
-
 1, Oral
 2. Written
 3. Print
 4 ICT
 
 ## ICT
-
 - Third great communication revolution before the invention of the printing press and phonetic alphabet
 - Encompasses many technologies both two way (phonecalls, facetime, fax) and one way (TV, radio, music)
 - All ICT technologies have common attributes:
@@ -308,7 +278,6 @@ the same town or village were also linked with one another through friendship, k
 	5. They have a strong impact on language
 
 ## Impact of the Internet
-
 - A decade ago in their introduction to The Internet in Everyday Life, Barry Wellman and Caroline Haythornthwaite (2002) reviewed the research on Internet use in the opening years of the twenty-first century and found the following:
 	- Increasing access: More people are going online. The digital divide between more affluent and less affluent members of Western countries is closing. Globally there is still considerable unevenness, with leaders like the Nordic and Baltic nations and laggards like sub-Saharan Africa, but the trend is toward ever-greater access.
 	- Increasing commitment: People are spending more time online and doing more things while they’re there. While new users may at first confine their activities to e-mail, the more experienced people become, the greater their variety of online activities.
@@ -320,12 +289,10 @@ the same town or village were also linked with one another through friendship, k
 	 Networks, not bounded groups, are the most socially meaningful formation in the Internet age.
 
 ## The Online World: Paradoxes and Contradictions
-
 - In a connected, digital world, are we more lonely? Are we more connected?
 - Does digital culture create more unity across societies, more understanding? Or does it create more fragmentation and emphasis on differences
 
 ## Sociological Theory and Facebook
-
 - What can sociological theory tell us about what you are doing on Facebook?
 - Understanding our object of analysis:
 	- What is Facebook
@@ -343,7 +310,6 @@ the same town or village were also linked with one another through friendship, k
 		- Dependent for self worth (likes, comments)
 
 ## Constructing Facebook Identities
-
 - Symbolic interactionism:
 	- We create meaning and identitjes through social interaction with others
 - How do specific Facebook activities work to present you as a certain kind of person
@@ -370,7 +336,6 @@ identities less real?
 	- E.g. how might cultural understanding of masculinity and femininity shape what is deemed an acceptable profile picture?
 
 ## From micro to macro
-
 - Marxist theory:
 	- Approaches society as a power struggle
 	- Focuses on capitalist relations of inequality
@@ -380,13 +345,11 @@ identities less real?
 	- How does Facebook sustain or challenge social inequalities
 
 ## Facebook as unpaid labour?
-
 - Nicole Cohen
 	- A political economy of Facebook
 	- Facebook generates revenue predominantly from advertising that, thanks to personal information provided in member profiles, is precisely targeted to certain groups
 
 ## Beyond Facebook: Relations of Power in Digital Economies
-
 - Blurred line between producer and consumer
 	- "Prosumer"
 - In the so called information age... asymmetronical power relations are being established between those who produce content and those who profit from it (Cohen 2008)
@@ -396,13 +359,11 @@ identities less real?
 # Week 11 - Culture and Consumption
 
 ## Process of Commoditization
-
 > I. Kopytoff ~ Commodities are not just materially produced - they are also culturally produced!
 
 > Process of Commoditization ~ "commodities must not be only produced materially as things, but also culturally marked as being a certain kind of thing" (Kopytoff 1986: 64)
 
 ## Commodities
-
 - Commodities hold value
 - Can be exchanged for something that has equivilent value (Kopytoff 1986: 68)
 - Culture's role? Makes products **singular**: process of singularization
@@ -410,7 +371,6 @@ identities less real?
 	- Culture makes products that were once unimportant, into culturally significant and **singular** hierlooms
 
 ## Cultures Role for Commodities
-
 1. To mark an object as a commodity and...
 2. To mark an object as singular or special
 
@@ -418,7 +378,6 @@ identities less real?
 - Singularization: process that makes things unique
 
 ## Can Everything be Commoditified?
-
 - Anything can and has been labelled with value and owned and exchanged at some point in time
 	- Countries have been traded
 	- People have been bought
