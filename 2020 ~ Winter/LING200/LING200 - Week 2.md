@@ -1,6 +1,38 @@
 # LING200 - Week 2
 
+- Study of language cannot be generalized; must think of the language of the self as language is varried between each individual
+- Language is a computation system
+	- Ex: Thnk of language as a program within the computer of the human mind
+
+# Language as a System
+- **Root Words** & **Affix's** as a subset of **morphology**
+	- Root: Cat, Dog, Bat, Car, etc.
+	- Affix: "-s" (English item that pluralizes nouns), "'s" (English item that connotes possession also called **genetive**)
+		- Ex: Cat -> **cats**, dog -> **dogs**
+- Components of words can be combined to create new means through the manipulation of root words through adding affixes & prefixes for example
+- Morphology studies the "system" of language such as the items added to modify words
+	- Studies language as a "rule based" system
+- Guy named Panini wrote a comprehensive manual to Sanskrit grammar and a guy named William Jones noticed there were unmistakable similarities between Sanskrit, Latin, and Greek
+- **Chompsky** says all languages use the same system called **universal grammar**
+	- It is universal grammar that linguistics tries to describe
+	- Idea of universal grammar is an attempt at generalization to explain language with a universal theory
+
+# Language in Children
+- Children learn language effortlessly while adults find language acquisition very difficult
+	- Things that seem complicated to non-native speakers are just natural to children (things such as gendered nouns in French or compound nouns in German)
+- Children learn language through context and absortion by being around speach from a very young age
+
 # Textbook Notes: Chapter 2
+
+## Behaviorism
+> Behaviorism ~ Theory that human and animal behavior can be explained in terms of conditioning, without appeal to thoughts or feelings, and that psychological disorders are best treated by altering behavior patterns.
+
+- **Nature Vs. Nuture**
+- Behaviorism argues that free-will does not exist and every action is simply conditioned over time; if we are the product of our environment everything is influenced and therefor thoughts and actions are not produced independent of ones conditioning
+- The claim of behaviorism is that nature is irrelevant as experience/environment (nurture) is the deciding factor of ones life
+	- John B. Watson: "Give me 20 blank children and i will create 20 violinists"
+
+	# Textbook Notes: Chapter 2
 
 ## 3 Branches of Phonetics
 1. Acoustic phonetics
@@ -42,34 +74,3 @@
 4. Affricative:
 5. Lateral:
 6. Glide: 
-
-# Lecture Notes: Lecture 2
-- Study of language cannot be generalized; must think of the language of the self as language is varried between each individual
-- Language is a computation system
-	- Ex: Thnk of language as a program within the computer of the human mind
-
-# Language as a System
-- **Root Words** & **Affix's** as a subset of **morphology**
-	- Root: Cat, Dog, Bat, Car, etc.
-	- Affix: "-s" (English item that pluralizes nouns), "'s" (English item that connotes possession also called **genetive**)
-		- Ex: Cat -> **cats**, dog -> **dogs**
-- Components of words can be combined to create new means through the manipulation of root words through adding affixes & prefixes for example
-- Morphology studies the "system" of language such as the items added to modify words
-	- Studies language as a "rule based" system
-- Guy named Panini wrote a comprehensive manual to Sanskrit grammar and a guy named William Jones noticed there were unmistakable similarities between Sanskrit, Latin, and Greek
-- **Chompsky** says all languages use the same system called **universal grammar**
-	- It is universal grammar that linguistics tries to describe
-	- Idea of universal grammar is an attempt at generalization to explain language with a universal theory
-
-# Language in Children
-- Children learn language effortlessly while adults find language acquisition very difficult
-	- Things that seem complicated to non-native speakers are just natural to children (things such as gendered nouns in French or compound nouns in German)
-- Children learn language through context and absortion by being around speach from a very young age
-
-## Behaviorism
-> Behaviorism ~ Theory that human and animal behavior can be explained in terms of conditioning, without appeal to thoughts or feelings, and that psychological disorders are best treated by altering behavior patterns.
-
-- **Nature Vs. Nuture**
-- Behaviorism argues that free-will does not exist and every action is simply conditioned over time; if we are the product of our environment everything is influenced and therefor thoughts and actions are not produced independent of ones conditioning
-- The claim of behaviorism is that nature is irrelevant as experience/environment (nurture) is the deciding factor of ones life
-	- John B. Watson: "Give me 20 blank children and i will create 20 violinists"
