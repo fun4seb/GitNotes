@@ -16,4 +16,4 @@
 
 > Minimal Pairs ~ Pairs of words or phrases in a particular language, spoken or signed, that differ in only one phonological element, such as a phoneme, toneme or chroneme, and have distinct meanings.
 
-- We must be able to determine the rules of languages that are exotic
+- **We must be able to deduce the rules of any unkown languages**
