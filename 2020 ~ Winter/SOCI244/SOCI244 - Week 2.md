@@ -103,9 +103,7 @@
 - Habitus equips individuals with leisure dispositions that link individual trajectories of leisure practice with collective trajectories
 - Associated with the sociology of **Pierre Bourdieu**; it's the basis for his theory of **cultural reproduction**
 	- Cultural reproduction holds that institutional forms and patterns of practice are transmitted between generation to signify solidarity and difference vis-a-vie to other structures
-
-## Leisure Practice Functions
-
+	
 ## Discusion Questions
 - Discussion questions based off of the readings (Rojek: Chapter 3)
 
