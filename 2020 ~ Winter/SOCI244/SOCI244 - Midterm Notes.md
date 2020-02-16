@@ -1,0 +1,1 @@
+# SOCI244 - Midterm Notes

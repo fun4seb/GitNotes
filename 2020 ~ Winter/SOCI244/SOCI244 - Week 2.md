@@ -85,7 +85,7 @@
 	- Historical context
 	- Many others
 
-# Readings Notes: Rojek Chapter 3
+# Reading Notes: Rojek Chapter 3
 
 ## Kaplan's 7 Essential Elements of Leisure Experience
 1. The psychological recognition of activity that is the antithesis of work
