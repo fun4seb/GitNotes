@@ -102,4 +102,3 @@ The only real difference between the symbolic “dirt” of “primitives” and
 - **Taboos** — regarding purity and impurity — are usually symbolic
 	- They are not dependent on physical circumstances; they are integrating, social mechanisms—not simple responses to economic or ecological pressures
 	- This is not to say that taboos don’t interpret the material or the biological in a symbolic way—but they cannot always be reduced to a material (or biological/pathogenic) basis
-

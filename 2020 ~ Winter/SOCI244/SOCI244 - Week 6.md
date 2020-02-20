@@ -122,4 +122,4 @@
 	- Conservative, white, upper-middle class
 5. How does cheerleading function as something OTHER than a voluntary leisure activity for some of the characters?
 
-- **For sports competitive in nature - especially combat sports -, the ability to endure suffering is extremely important and this is seen extensively in CHEER**
+- **For sports competitive in nature, - especially combat sports - the ability to endure suffering is extremely important and is praised, this is seen extensively in CHEER**

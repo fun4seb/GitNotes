@@ -28,7 +28,7 @@
 - Non-human animals communicate by way of signs rather than symbols; prof says **animals are not capable of symbolic communication in the way humans are**
 
 # Nature & Culture
-- "A human without culture does not exist; a human without culture is not culture"
+- 	
 - Culture needs more than one person as it is cultivated and maintained in a group setting
 - Complex symbolism is characteristically human
 - Humans have natural instincts, requirements, etc. However, **culture also tends to convert those natural elements into symbolic forms**
