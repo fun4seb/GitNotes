@@ -1,4 +1,4 @@
-# SOCI244 - Week 6
+# SOCI244 - Week 6: Tourism, Themeing, and Myths
 
 - Coding and representation part 2: markers, myths
 
@@ -112,6 +112,12 @@
 - Renews relationship between "man" and "the land"
 - Cleanses life options
 
+# Reading Notes: Inside the Cultish Dreamworld of the Augusta National
+> Summary: 
+
+# Reading Notes: Football, fan violence and identity fusion
+> Summary: 
+
 # Discussion Questions: CHEER Ep. 2
 1. What is hegemonic in the social sphere of Corsicana, Texas?
 	- Valuation of beauty over skill (shown when one cheerleader was picked over another despite being less skilled)
@@ -122,4 +128,8 @@
 	- Conservative, white, upper-middle class
 5. How does cheerleading function as something OTHER than a voluntary leisure activity for some of the characters?
 
+<<<<<<< HEAD
 - **For sports competitive in nature, - especially combat sports - the ability to endure suffering is extremely important and is praised, this is seen extensively in CHEER**
+=======
+- **For sports competitive in nature - especially combat sports - the ability to endure suffering is extremely important and this is seen extensively in CHEER**
+>>>>>>> 38d1c96d66aa71fb6003d3ea09ee4ccef9d28f8e
