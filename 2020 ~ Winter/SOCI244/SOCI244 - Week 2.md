@@ -14,7 +14,7 @@
 # Social Capital
 > Social Capital ~ Social capital is a positive product of human interaction. The positive outcome may be tangible or intangible and may include useful information, innovative ideas, and future opportunities.
 
-- **Voluntary participation in community or civic well-being**
+- **Voluntary participation in community or civic well-being** grows ones social capital
 	- Ex: Helping family, friends and neighbors; volunteering; coaching; taking part in creative activities
 - Social capital is accumulated through the development of social networks
 	- "Who you know"

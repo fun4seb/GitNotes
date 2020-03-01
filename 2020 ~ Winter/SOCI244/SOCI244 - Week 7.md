@@ -35,5 +35,6 @@
 	- "Killing it"; "Crushing it"
 	- Side-hustles; "passion projects"; "self-made" wealth
 
-# Discussion Questions: Outdoor Voices
--
+# Reading Notes: Outdoor Voices
+
+# Reading Notes: Happiness, positive psychology and the program of neoliberal governmentality
