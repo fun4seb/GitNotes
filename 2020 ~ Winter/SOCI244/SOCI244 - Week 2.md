@@ -148,7 +148,7 @@
 ### Question 6: What's the Connection Between Leisure, Production, and Consumption in the Internet Age?
 - We are all **prosumers** (we both produce and consume such as posting and viewing social media)
 - The rise of the **entrepreneurial self**
-	- We cannot just say we like things, we must post and provide evidence and show people our lifestyles; build our social image/reputation
+	- We cannot just say we like things, we must post and provide evidence and show people our lifestyles; build our social image/reputation; **building our brand**
 - **performing** leisure for an audience of potential consumers
 
 ### Question 7: How can Leisure Practices Resist Social Inequality?
