@@ -11,7 +11,7 @@
 ## 1. Essentialism
 > Essentialism ~ Ideology that certain Humans have "essential" or "innate" qualities that create our specieis diversity. Essentially certain people are born with innate qualities that differ from other people
 
-- Examples of essentialist thought:
+- **Examples of essentialist thought:**
 	- "Men and women are "naturally" different"
 	- "Women are naturally more nurturing than men"
 	- "Black people are better at sports". 
@@ -83,7 +83,7 @@
 	- **No information means no activism**
 - Active citizens work to make the world healthier. safer for leisure, which has major implications for leisure practice itself
 
-- Examples of Active Citizenship:
+- **Examples of Active Citizenship:**
 	- Research on smoking/bans on smoking
 	- Research on impact of alcohol/drunk driving; social norms about alcohol consumption changing (MADD)
 	- Littering/pollution regulations
@@ -103,7 +103,7 @@
 - "Flow" is a useful concept to descrive the "enjoyable" aspects of leisure; why do we enjoy certain activities more than other? Why are we sometimes bored/anxious versus engaged/happy? Its because of flow
 - **Many leisure practices can be understood as pursuits of "flow" within certain constraints**
 
-- Flow can be achieved in a variety of circumstances; Activities where a flow state can be achieved include:
+- **Activities where a flow state can be achieved:**
 	- Sports
 	- Chess
 	- Puzzles
@@ -121,7 +121,7 @@
 - No one makes leisure choices that are not influenced by others/have no influence on others
 - Leisure never occurs in a vacuum. It often has unintended consequences
 
-- Webs of interdependence include:
+- **Examples of Webs of interdependence:**
 	- Location
 	- Class
 	- Gender identity
@@ -141,8 +141,13 @@
 > Hegemony ~ Leadership or dominance, especially by one country or social group over others
 
 ## Cultural Hegemony
+- Cultural hegemony refers to **domination or rule maintained through ideological or cultural means**
+- Usually achieved through social institutions, which allow those in power to strongly influence the values, norms, ideas, expectations, worldview, and behavior of the rest of society.
+- Cultural hegemony functions by framing the worldview of the ruling class, and the social and economic structures that embody it, as just, legitimate, and designed for the benefit of all, even though these structures may only benefit the ruling class.
+- Cultural hegemony, or our tacit agreement with the way that things are, **is a result of socialization, our experiences with social institutions, and our exposure to cultural narratives and imagery**, all of which reflect the beliefs and values of the **ruling class**.
 
 ## The Distinction Between Hegemony and Power
+- **Hegemony is distinct from rule by force or power**, as in a military dictatorship or authoritative state, because it allows the ruling class to exercise authority using the "peaceful" means of ideology and culture.
 
 ## Resistance & Hegemony
 
@@ -175,6 +180,27 @@
 # Food as Leisure
 
 ## Foodism and Globalization
+> Globalization ~ the process by which businesses or other organizations develop international influence or start operating on an international scale
+
+- Globalization increases with time as advances in technology make connections with the world on a global scale more accessible such as the development of the internet or transportaion
+
+## Pre-Globalization
+- Pre-globalization, Westerners worked in manufacturing/agriculture. Now, most of us work in knowledge/service/health care industries
+- Pre-globalization, leisure was more often an END IN ITSELF
+- It was what we did when we were NOT WORKING: Relaxation; hobbies; socialization; transgression
+
+## Post-Globalization
+- Work is mostly limited to within the knowledge/healthcare/service sectors
+- Exposed to unlimited mass communications
+- Take travel and mobility for granted (pre-globalization, travel was a luxury - a leisure pastime for elites)
+- Spend much more time in educational institutions
+- Are competing for ever-fewer stable jobs
+
+# Uneven Distribution of Leisure
+- Global inequality & local income inequality limit access to meaningful leisure activities
+- Leisure and professional success are TIGHTLY LINKED
+	- Ex: Silicon Valley parents raising "tech free" kids
+		- Why are they doing this? What makes this leisure choice possible?
 
 ## Foodism and Car Culture
 
@@ -284,11 +310,11 @@
 - **Nature = purity**
 - Emergence of the **rational recreation movement**
 
-## The Myth of Nature as a Medicinal/"Healing" Landscape
-- Provides balance for mind and body
-- Restores energy dissipated by urban life
-- Renews relationship between "man" and "the land"
-- Cleanses life options
+The Myth of Nature as a Medicinal/"Healing" Landscape:
+	- Provides balance for mind and body
+	- Restores energy dissipated by urban life
+	- Renews relationship between "man" and "the land"
+	- Cleanses life options
 
 ## Rational Recreation Movement
 - **"Rational recreation"** was the ideal that nineteenth-century middle-class reformers hoped to impose on the urban working class of their day. They believed that **"leisure activities should be controlled, ordered, and improving"**
@@ -296,7 +322,7 @@
 - Pursuing excellence in things like amateur tennis, hobbyist stamp collecting, or volunteer work with youth exemplifies rational recreation; whereas nonrational recreation—leisure that leads to no such acquisitions but, rather, is done for pure pleasure—is the classificatory home of activities like napping, strolling in the park, and, of course, watching television (primarily for entertainment).
 
 # Neoliberal Governmentality
-> Neoliberal ~ Ruled by free markets rather than government regulation
+> Neoliberal ~ Ruled by free markets rather than government regulation; modern capitalism
 
 - Under neoliberalism, individuals are "on their own" to earn money/protect their interests; **We dont expect the government to help and provide opportunities, jobs, welfare, subsidized education, and all other realms of social programming and support structures**
 - Government or community not provide support
@@ -323,13 +349,6 @@
 - The power of the neoliberal marketplace is expressed through our desire to continuously self-improve
 - Its as though we are each **products for sale**; we exist in a marketplace and try to make ourselves attractive for other consumers, **we think of ourselves as something to be continuously upgraded**, reflection of the way we are as consumers
 
-# Neoliberal Governmentality is the Defining Spirit of our Age
-- We are all "neoliberal subjects" engaged in continuously governing ourselves
-	- Self-care; self-help; self-improvement
-	- Fitness trackers; personal bests; "#goals"
-	- "Killing it"; "Crushing it"
-	- Side-hustles; "passion projects"; "self-made" wealth
-
 # Leisure Hierarchies in a Neoliberal Hegemony
 
 # Positive Psychology
@@ -337,6 +356,11 @@
 # Happiness as Hobby/Leisure Practice
 
 # Self-care as Neoliberal Practice
+- We are all "neoliberal subjects" engaged in continuously governing ourselves
+	- Self-care; self-help; self-improvement
+	- Fitness trackers; personal bests; "#goals"
+	- "Killing it"; "Crushing it"
+	- Side-hustles; "passion projects"; "self-made" wealth
 
 # Positive Psychology and Marginalized Subjects
 
@@ -386,7 +410,7 @@
 - Think about how these forms of leisure came to be, did the internet have a part in allowing mass amounts of people to connect on one specific niche activity?
 
 ## Inside the Cultish Dreamworld of the Augusta National
-> Summary: 
+> Summary:
 
 ## Football, fan violence and identity fusion
 > Summary: 
