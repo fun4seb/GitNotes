@@ -120,7 +120,7 @@
 
 # Discussion Questions: CHEER Ep. 2
 1. What is hegemonic in the social sphere of Corsicana, Texas?
-	- Valuation of beauty over skill (shown when one cheerleader was picked over another despite being less skilled)
+	- Socially constant valuation of beauty over skill (shown when one cheerleader was picked over another despite being less skilled)
 2. How does the cheer team reinforce and/or resist hegemonic structures through their leisure practice?
 3. What is encoded into cheerleading?
 	- Idea of "ideal cheerleader"; straight blond hair, small body, cute face... doll-like
@@ -128,8 +128,4 @@
 	- Conservative, white, upper-middle class
 5. How does cheerleading function as something OTHER than a voluntary leisure activity for some of the characters?
 
-<<<<<<< HEAD
 - **For sports competitive in nature, - especially combat sports - the ability to endure suffering is extremely important and is praised, this is seen extensively in CHEER**
-=======
-- **For sports competitive in nature - especially combat sports - the ability to endure suffering is extremely important and this is seen extensively in CHEER**
->>>>>>> 38d1c96d66aa71fb6003d3ea09ee4ccef9d28f8e
