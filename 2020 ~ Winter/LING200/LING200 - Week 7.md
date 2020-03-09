@@ -35,4 +35,4 @@
 	- **HOWEVER**, a word such as "un-fucking-believable" is **NOT** an example of an infix occuring because it is interupting a prefix and a root that are already seperate components
 		- To turn this example into a infixated word place the /-fucking-/ here -> "unbe-fucking-lievable"; in this example /-fucking-/ is once again acting as an infix because it is **interupting** "believable" when it suually cannot be broken down further
 
-# Morphemes
+# Textbook Notes: Chapter 4

@@ -30,3 +30,5 @@
 	- "Role" & roll'
 
 - **We must be able to deduce the rules of any unkown languages**
+
+# Textbook Notes: Chapter 3
