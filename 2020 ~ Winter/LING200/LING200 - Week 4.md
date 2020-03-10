@@ -32,3 +32,14 @@
 - **We must be able to deduce the rules of any unkown languages**
 
 # Textbook Notes: Chapter 3
+- The sound differences that matter for a given grammar are called **phonemic differences**
+- Differences that do not matter for the purpose of determining meaning are called **phonetic differences**
+	- Phonemic sounds are contrastive to the speaker and The set of sound sof a given grammar, defined in such a way as to list only those aspects of their production that are criterial for the determination of meaning, are known as the phonemes of that language
+- **Phonetic vs. phonemic**
+- Words which differ in meaning and have their difference signalled by just a single segment are called **minimal pairs**
+
+> Contrastive ~ Also means phonemic, two segments used to signal meaning differences. (Ex: [b]:[p] contrast as replacing either segment with the other changes word meaning such as "bat" -> "pat")
+
+- [bæt] means ‘bat’ and [pæt] means ‘pat,’ the difference between [b] and [p] is a **phonemic one**. This is shown by the fact that if we substitute the [b] of [bæt] with [p], we get a **difference in meaning**
+- To be **"non-contrastive"** means that the difference between two segments is NOT a phonemic one, substituting either segment with the other doesnt change meaning, same word different pronounciation
+- **"~"** diacritic indicates nasalization of vowels
