@@ -141,7 +141,7 @@
 > Hegemony ~ Leadership or dominance, especially by one country or social group over others
 
 ## Cultural Hegemony
-- Cultural hegemony refers to **domination or rule maintained through ideological or cultural means**
+- Cultural hegemony refers to **domination or rule maintained through ideological or cultural means
 - Usually achieved through social institutions, which allow those in power to strongly influence the values, norms, ideas, expectations, worldview, and behavior of the rest of society.
 - Cultural hegemony functions by framing the worldview of the ruling class, and the social and economic structures that embody it, as just, legitimate, and designed for the benefit of all, even though these structures may only benefit the ruling class.
 - Cultural hegemony, or our tacit agreement with the way that things are, **is a result of socialization, our experiences with social institutions, and our exposure to cultural narratives and imagery**, all of which reflect the beliefs and values of the **ruling class**.
