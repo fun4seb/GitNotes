@@ -27,12 +27,52 @@
 - Transportation
 - Social reproduction
 
-# Reading Notes: Urbanism as a Way of Life
+# Urbanization
+- Urbanization: relative growth of urban vs. rural areas
+	- Level
+	- Process
+	- Rate
+	- Interrelation between level and rate
+
+- Causes of Urbanization
+	- Migration
+	- Natural population growth
+	- Reclassification
+
+- Problems measuring urbanization
+	- Different national definitions of urban
+		- Political boundaries
+		- Population size
+		- Population density
+		- Economic function
+		- Infrastructure
+		- Education or health facilities
+	- Trustworthiness of data
+
+# Urban Age Thesis
+- UN-Habitat "New Urban Age"
+- Urban age assumptions / **problems with this way of thinking**:
+	- The world can be neatly classified into different settlement types
+	- The urban transition is produced by the redistribution of the population from the rural to the urban
+	- The urban and the rural are distinct and oppositional
+
+# Reading Notes: Urbanism as a Way of Life - Wirth (1938)
 - While cities are the characteristic focus of urbanism, **the urban mode of life is not confined to cities**
 	- Sociological definition of a city: "A city is a relatively large, dense, and permanent settlement of heterogeneous individuals", **the reading explores the concept of urbanism and its relationship with metropolitan modes of living to come to lay the foundation to arrive at this conclusion.**
 
 ## Key Questions
 1. How does Wirth define the city?
+
+> "For sociological purposes a city may be defined as a relatively large, dense, and permanent settlement of heterogeneous individuals."
+
+	- City is not the same as urban because urbanism is a **"way of life"**
+	- "The characterization of a community as urban on the base of size alone is obviously arbitrary."
+		- The same foes for density as well as size
+
+> "...the city, statistically speaking, is always an administrative concept..."
+
+- Census measures night population
+
 2. Why are numbers, size, and density problematic criteria for measuring urbanism? How does it create arbitrary boundaries for what is and isn't a city?
 3. How and why does urbanism exist outside urban centers like cities? why is limiting the idea of urban areas to cities inadequate and arbitrary in studying and explaining the influences of urbanism, why is urbanism not necessarily confined within settlements which are cities in the physical and demographic sense.
 
@@ -71,7 +111,7 @@
 
 > For sociological purposes a city may be defined as a relatively large, dense, and permanent settlement of socially heterogeneous individuals. On the basis of the postulates which this minimal definition suggests, a theory of urbanism may be formulated in the light of existing knowledge concerning social groups.
 
-# Reading Notes: The Urban Revolution
+# Reading Notes: The Urban Revolution - Childe (1950)
 > "The aim of the present essay is to present the city historically, or rather prehistorically, as the resultant and symbol of a "revolution" that initiated a new economic stage in the evolution of society.
 
 - **"Revolution"** doesn't refer to any violent or radical change, but rather a **culmination of a progressive change** in the economic structure and social organization of communities that caused, or was accompanied by, a dramatic increase in the population"
