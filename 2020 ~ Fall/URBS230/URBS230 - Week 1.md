@@ -93,7 +93,7 @@
 
 > Hierarchy of density and land values
 
-![alt text](https://images.squarespace-cdn.com/content/v1/57cf17802e69cf96e1c4f406/1473210447454-R0VBFC5A57849OF47ZW2/ke17ZwdGBToddI8pDm48kEvOJLCxXJaiK6p09P9vUtpZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwbcdZ2qWadbLd_4WIHS-0M4n_02xIbSdXmfXZ-vk_YwsQgIheUsBNw-I4M-KRAlfM/2015-12-02screenshot-3.jpg"Zonal Model")
+![alt text](https://images.squarespace-cdn.com/content/v1/57cf17802e69cf96e1c4f406/1473210447454-R0VBFC5A57849OF47ZW2/ke17ZwdGBToddI8pDm48kEvOJLCxXJaiK6p09P9vUtpZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwbcdZ2qWadbLd_4WIHS-0M4n_02xIbSdXmfXZ-vk_YwsQgIheUsBNw-I4M-KRAlfM/2015-12-02screenshot-3.jpg "Zonal Model")
 
 - I. CBD: commerce and industry (**Central Business District**)
 - II. Zone of transition: low rent, waiting for CBD to expand
