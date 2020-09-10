@@ -78,10 +78,30 @@
 
 - Urban ecology
 	- Wirth: "The city tends to resemble a mosaic of social worlds, in which the transition from one to the other is abrupt"
-- Zonal Model:
-	- "Hierarchy of density and land values"
 
-- From
+- **Zonal Model:**
+	- **"Hierarchy of density and land values"**
+
+- From Wirth's abstract:
+	- Human relations are "anonymous", superficial, and transitory
+	- Density involves **diversification and specialization**
+	- Formal social control
+	- Break down of rigid social structures
+	- "The pecuniary nexus tends to displace personal relations"
+
+# Zonal Model
+
+> Hierarchy of density and land values
+
+![alt text](https://images.squarespace-cdn.com/content/v1/57cf17802e69cf96e1c4f406/1473210447454-R0VBFC5A57849OF47ZW2/ke17ZwdGBToddI8pDm48kEvOJLCxXJaiK6p09P9vUtpZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwbcdZ2qWadbLd_4WIHS-0M4n_02xIbSdXmfXZ-vk_YwsQgIheUsBNw-I4M-KRAlfM/2015-12-02screenshot-3.jpg"Zonal Model")
+
+- I. CBD: commerce and industry (**Central Business District**)
+- II. Zone of transition: low rent, waiting for CBD to expand
+- III. Neighborhoods: settled working class
+- IV. Residential: middle classes
+- V. Commuter suburbs
+
+- Hierarchy centers around the growth of a **rich center** (housing the commerce and industry of the settlement)
 
 # Reading Notes: Urbanism as a Way of Life - Wirth (1938)
 - While cities are the characteristic focus of urbanism, **the urban mode of life is not confined to cities**
