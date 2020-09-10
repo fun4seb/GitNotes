@@ -90,18 +90,15 @@
 	- "The pecuniary nexus tends to displace personal relations"
 
 # Zonal Model
-
-> Hierarchy of density and land values
-
 ![alt text](https://images.squarespace-cdn.com/content/v1/57cf17802e69cf96e1c4f406/1473210447454-R0VBFC5A57849OF47ZW2/ke17ZwdGBToddI8pDm48kEvOJLCxXJaiK6p09P9vUtpZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwbcdZ2qWadbLd_4WIHS-0M4n_02xIbSdXmfXZ-vk_YwsQgIheUsBNw-I4M-KRAlfM/2015-12-02screenshot-3.jpg "Zonal Model")
+
+> Hierarchy of density and land values, laid out geographically ; centers around the growth of a **rich center** (housing the commerce and industry of the settlement)
 
 - I. CBD: commerce and industry (**Central Business District**)
 - II. Zone of transition: low rent, waiting for CBD to expand
 - III. Neighborhoods: settled working class
 - IV. Residential: middle classes
 - V. Commuter suburbs
-
-- Hierarchy centers around the growth of a **rich center** (housing the commerce and industry of the settlement)
 
 # Reading Notes: Urbanism as a Way of Life - Wirth (1938)
 - While cities are the characteristic focus of urbanism, **the urban mode of life is not confined to cities**
@@ -176,7 +173,15 @@
 - **"Revolution"** doesn't refer to any violent or radical change, but rather a **culmination of a progressive change** in the economic structure and social organization of communities that caused, or was accompanied by, a dramatic increase in the population"
 
 ## Key Questions
-1. How does Childe's definition of the city compare to Wirth and previous authors?
+### How does Childe's definition of the city compare to Wirth and previous authors?
+- Childe is more based from an **archaeological perspective**
+- **"Writing"** as a criteria
+
+> 4: "Yet a certain size of settlement and density of population, is an essential feature of civilization" Childe give more weight to **size and density** as criteria for civilizations (cities). While Wirth recognizes their relevance, he is much more critical of the arbitrary nature of looking to numbers for strict cutoffs; **standards of size and density are always changing, both over time and geographically**
+
+- Childe constructs an "ideal type"
+
+### Other Questions
 2. What was the importance of "surplus" food in early urbanization?
 3. What social changes went along with early urbanization?
 4. Exploring stages of "savagery", "barbarism" and "civilization"; What are terms like "savagery" and "barbarism" problematic in discussion developmental stages of civilization?
@@ -241,17 +246,37 @@
 
 > TLDR ~ Mastery of food production allows the capability to support a large, dense population that can then produce even MORE food that can then be stored (THE IDEA THAT FOOD/WEALTH CAN BE STORED AND HELD ON TO, SOMETHING THAT HAS NEVER BEEN ABLE TO BE DONE BEFORE, IS THE KEY TO EVERYTHING), creating a surplus of production i.e. WEALTH. This surplus then allows for the delegation of more specialized, yet less essential to survival, roles and means of live. These include roles related to craftsmanship, a intellectual governing class, the arts, and many others. Because of the ability to now support a foundation of workers who each fill each exhaustive hole in the needs of society, things such as social projects, infrastructure developments, and logistical connections can then be explored as the concentration of a surplus provides the ability for that very surplus to be spent on societally beneficial projects. EVERYTHING STEMS FROM AN ABILITY TO CREATE A SURPLUS OF FOOD OVER TIME, THAT SUPPORTS GROWTH AND THE ABILITY TO CREATE EVEN MORE FOOD IN A CONSTANT LOOP.
 
-1. The first cities must have been more extensive and **densely populated** than any previous settlement
-2. Emergence of the capability to **accommodate classes who did not themselves procure their own food** or take part in food production, but rather existed as **full-time specialists**. Jobs such as craftsmen, transport workers, merchants, officials, priests, etc.
+#### 1. Size and Density
+ - The first cities must have been more extensive and **densely populated** than any previous settlement
+
+#### 2. Full-time specialists Who Don't Produce Food
+- Emergence of the capability to **accommodate classes who did not themselves procure their own food** or take part in food production, but rather existed as **full-time specialists**. Jobs such as craftsmen, transport workers, merchants, officials, priests, etc.
 	- Such roles were now of course **supported by the surplus produced by the peasants** living in the city and surrounding area, trading services for a portion of the social surplus created by a thriving civilization
-3. Now that people are able to hold a surplus of food/capital, they must also pay taxes
-4. must build monuments to symbolize the social surplus; the bigger and more grand the monuments and social projects of a historic civilization, the more surplus it held. **Huge pyramids of a booming Egypt Vs. Dinky obelisk of a poopoo settlement**
+
+#### 3. Concentration of surplus through tax
+- Now that people are able to hold a surplus of food/capital, they must also pay taxes
+
+#### 4. Monumental public buildings, Symbolization of Social Surplus
+- Construction of monuments to symbolize the social surplus; the bigger and more grand the monuments and social projects of a historic civilization, the more surplus it held. **Huge pyramids of a booming Egypt Vs. Dinky obelisk of a poopoo settlement**
 	- Attached to these monuments was often a great granary, a main concentration of a civilizations food that was a direct representation of wealth; **Food = growing population = surplus resourses = wealth = more food**
 	- With the social surplus being held at monuments, which were often huge temples and religious sites, the concentration of wealth becomes centered around a unified group
-5. Specialists not engaged in food production become dependent on temple or court as they control the very surplus that enables their mode of living to exist. This causes the emergence of a **"ruling class"**, who is exempt from all manual peasant tasks and left to all intellectual tasks that lead to a more detached and luxurious life.
+
+#### 5. Social Stratification
+- Ruling class of priests, military leaders, officials who were exempt from manual work
+- Specialists not engaged in food production become dependent on temple or court as they control the very surplus that enables their mode of living to exist. This causes the emergence of a **"ruling class"**, who is exempt from all manual peasant tasks and left to all intellectual tasks that lead to a more detached and luxurious life.
 	- This however meant many advancements were made in governance efficients through the way of delegated roles for optimizing planning and organization as a community
-6. Creation of systems, and recording techniques
-7. Invention and utilization of writing, the invention of scripts that allowed knowledge to be recording and the various academic disciplines could be explored by specialists supported by the surplus of wealth, cultivated by a population of agriculture workers
-8. Specialists supported by a social surplus then are free to pursue the arts, attempted to create likeness of their surroundings depicting things such as animals, people, natural objects
-9. Further parts of a concentrated social surplus can be expended to created logistical networks to import raw materials needed for industry. This also allowed things like **luxury goods** to be traded and non essential goods like furs and silk now have their place within society, often among the ruling classes
-10.
+
+#### 6. Creation of Writing and Numerical Notation
+- Creation of systems, and recording techniques
+
+#### 7. Sciences & Calender
+- Utilization of writing that allowed knowledge to be recording and the various academic disciplines could be explored by specialists supported by the surplus of wealth, cultivated by a population of agriculture workers
+
+#### 8. Art; Stylized Naturalism
+- Specialists supported by a social surplus then are free to pursue the arts, attempted to create likeness of their surroundings depicting things such as animals, people, natural objects
+
+#### 9. Dependence on Long Distance Trade
+- Further parts of a concentrated social surplus can be expended to created logistical networks to import raw materials needed for industry. This also allowed things like **luxury goods** to be traded and non essential goods like furs and silk now have their place within society, often among the ruling classes
+
+#### 10. New Forms of Social Control
+- Requirement and existence of forms of social control over a growing population enabled by social surplus
