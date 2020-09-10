@@ -51,37 +51,74 @@
 
 # Urban Age Thesis
 - UN-Habitat "New Urban Age"
+
 - Urban age assumptions / **problems with this way of thinking**:
 	- The world can be neatly classified into different settlement types
 	- The urban transition is produced by the redistribution of the population from the rural to the urban
 	- The urban and the rural are distinct and oppositional
+
+# Chicago School of Urban Sociology
+- 1920's-1940's
+
+- **Georg Simmel**, The Metropolis and Mental Life (1903)
+	- Blase attitudes
+	- Division of labor
+	- Time
+	- Money
+
+- Key figures: Robert Park (Simmel), Ernest Burgess, Louis Wirth
+
+- Size, density, social heterogeneity
+	- (leads to?) Urban way of life
+
+- Division of labor
+	- (leads to?) Fragmentation of social life
+
+- Ferdinand Tönnies, Gemeinschaft (community) v. Gesellshaft (society)
+
+- Urban ecology
+	- Wirth: "The city tends to resemble a mosaic of social worlds, in which the transition from one to the other is abrupt"
+- Zonal Model:
+	- "Hierarchy of density and land values"
+
+- From
 
 # Reading Notes: Urbanism as a Way of Life - Wirth (1938)
 - While cities are the characteristic focus of urbanism, **the urban mode of life is not confined to cities**
 	- Sociological definition of a city: "A city is a relatively large, dense, and permanent settlement of heterogeneous individuals", **the reading explores the concept of urbanism and its relationship with metropolitan modes of living to come to lay the foundation to arrive at this conclusion.**
 
 ## Key Questions
-1. How does Wirth define the city?
 
-> "For sociological purposes a city may be defined as a relatively large, dense, and permanent settlement of heterogeneous individuals."
+### How does Wirth define the city?
+> 8: "For sociological purposes a city may be defined as a relatively large, dense, and permanent settlement of heterogeneous individuals."
 
-	- City is not the same as urban because urbanism is a **"way of life"**
-	- "The characterization of a community as urban on the base of size alone is obviously arbitrary."
-		- The same foes for density as well as size
+- City is not the same as urban because urbanism is a **"way of life"**
 
-> "...the city, statistically speaking, is always an administrative concept..."
+> 4: "The characterization of a community as urban on the base of size alone is obviously arbitrary." (Same goes for density)
 
-- Census measures night population
+> 4: "...the city, statistically speaking, is always an administrative concept..."
 
-2. Why are numbers, size, and density problematic criteria for measuring urbanism? How does it create arbitrary boundaries for what is and isn't a city?
-3. How and why does urbanism exist outside urban centers like cities? why is limiting the idea of urban areas to cities inadequate and arbitrary in studying and explaining the influences of urbanism, why is urbanism not necessarily confined within settlements which are cities in the physical and demographic sense.
+- Census measures **night population**
+
+> 3: "...the population of the city itself is in large measure recruited from the countryside..."
+
+> 7: "it is particularly important to call attention to the danger of confusing urban with industrialism and modern capitalism"
+
+- **"Impact of the industrial revolution"** on growth of cities and shift to urban society
+
+### Other Questions
+1. Why are numbers, size, and density problematic criteria for measuring urbanism? How does it create arbitrary boundaries for what is and isn't a city?
+
+2. How and why does urbanism exist outside urban centers like cities? why is limiting the idea of urban areas to cities inadequate and arbitrary in studying and explaining the influences of urbanism, why is urbanism not necessarily confined within settlements which are cities in the physical and demographic sense.
 
 ## I. The City and Contemporary Civilization
 - Just as the beginning of Western civilization is marked with the settlement of nomadic peoples in the Mediterranean basin, **the beginning of what one would call "modern" in our civilization is marked with the growth of great cities**
+
 - People no longer live in small groups scattered across a large area (as a "primitive" society would be described), but in fewer concentrated centers (i.e. modern cities) from which the ideas and practices that make up what we call civilization radiate from.
 
 - Measuring the proportion of the total world population living in urban environments **does not accurately quantify how "urban" the world has become.** The influence exerted by cities unto modern life is greater and more pervasive than the ratio would indicate
 	- Cities often act as the **controlling center** of the worlds settlements, dictating economic, political, and cultural forces that have drawn the most remote parts of the world into its influential orbit
+
 - The shift from rural to largely urban societies has taken place within the span of one generation in industrialized nations such as the United States and Japan and has brought **profound changes in every phase of social life.**
 
 - **A city is a product of growth over time,** it is not an instantaneous creation. Because of this, the increasing influences exerted upon the **modes of life** do not completely overlap and dominate previous modes of living, but are iterations and developments of previously dominant modes of human association; **THIS MEANS CITIES HOLD AN INHEARANT HISTORICAL INFLUENCE**
@@ -99,10 +136,12 @@
 
 - The idea of being "urban", is more a measure of **connectedness** than **size**. Thus urbanism can be seen as a **quality of a community**, and not merely a threshold reached when a community reaches a certain population milestone. The Urbanism of any particular place does not simple cease when reaching city boundaries
 	- Its not like you reach 50,000 people and say "yay we are urban now!" **URBAN ≠ CITY** (even if urban qualities are most concentrated and pronounced in city settings), **such an understanding is inadequate**
+
 - Developments in transportation and communications technology have extended the urban mode of living FAR beyond the boundaries of a city itself
 
 - The dominance of the city can be attributed to its vast concentration of every form of social system, institution, and activity. 
 	- This includes things like industrial, commercial, financial, and administrative facilities, as well as cultural and recreational institutions such as libraries, museums, concert halls, universities, varied religious institutions, and many many others
+
 - Urbanization is no longer merely the process of city growth through people migrating and integrating into city life, it now refers to the characteristics distinctive to the mode of life found in cities as well as the growing aura of influence imposed by the values of city life that influences and changed the modes of life far outside city boundaries
 
 > "... urbanism is not confined to such localities but is manifest in varying degrees wherever the influences of the city reach"
@@ -124,6 +163,7 @@
 
 ## Criticisms
 - This paper reads like it is written from an ivory tower, looking down on less "sophisticated" modes of living and maintains the tone that earlier stages of development = inferior; why does more advanced mean superior, are there not inherent problems with modern modes of living compared with more pre-industrial modes of living?
+
 - Childe outlines the hierarchy of societal evolution and states that each follows the last in a sequence of societal evolution, however he then goes on to say there has been no recorded instance of savages civilizing themselves, how did any community evolved from savagery when it is impossible for savages to civilize? This is also a ignorantly condescending point to be made that savages need outside intervention to be saved from their own savageness
 
 ## Childe's Evolutionary Stages of Pre-Industrial Societies
@@ -131,10 +171,13 @@
 	1. Savagery
 	2. Barbarism
 	3. Civilization
+
 - This hierarchy of stages also acts as a **sequence of ages** that is, according to the text, "proved archaeologically to follow one another in the same order wherever they occur."
+
 - Savagery and barbarism are **defined by the methods used for procuring food**
 	- **Savages:** live exclusively on **wild food** obtained by gathering, hunting, or fishing
 	- **Barbarians:** Supplements relying purely on natural resources by **cultivating edible plants**, and in few instances breeding animals
+
 - Civilization is not as easily defined as the word is associated with "city", a word with ambiguous criteria. Because of this **archaeologists use writing as the criterion for civilization**
 
 ### Timeline
@@ -146,6 +189,7 @@
 ### Revolution
 - Revolution should be quantifiably reflected in population statistics over time
 	- Ex: The urban revolution can be accounted for by a boom in population density, large amounts of people living in one built-up area
+
 - The first cities were of unprecedented size at the time however they are extremely small in comparison to the population standards of modern cities
 
 ## Food Supply
@@ -154,8 +198,11 @@
 - **Population density is determined by the food supply**, which is in turn limited by the availability of natural resources, the techniques of their exploitation, means of transport, as well as the ability to preserve food
 	- Techniques of exploitation, means of transport, and the ability to preserve food are all variables that change as humans develop technologically over history.
 		- **The techniques change over time, these changes are what separate the early evolutionary stages of society; Savagery vs. Barbarism**
+
 - The idea that food supply determines population density is supported by the fact that the "savage" population of gathering economies is always exceedingly sparse; The means of obtaining food were not optimally efficient and as a result such societies could not support large groups of hungry people
+
 - **Unimproved or unfavorably yielding land can only support a certain density of people**, regions must be uncommonly favorable, like fertile fishing regions, to support any sort of larger permanent settlement, this is why people of early societies lived in much smaller local groups compared to today and were much more nomadic, **the land simply could not support big groups if an adequate, reoccurring amount of food could not be procured**
+
 - Every member of a group must contribute to the supply of food production, the lack of social surplus in early communities can not support idle mouths
 	- **LIFE REVOLVES AROUND FOOD, FOOD IS LIFE - MOVE FOR FOOD, KILL FOR FOOD, BUILD FOR FOOD, DEVELOP FOR FOOD, ALL MOTIVATED BY FOOD**
 
@@ -166,6 +213,7 @@
 ## Ancient Cities
 - ~5,000 years ago irrigation cultivation in the valleys of the valleys of the **Nile, the Tigris-Euphrates, and the Indus** had begun to produce a social surplus large enough to support members who could then pursue specialties in craftsmanship rather than being burdened to the constant participation of food production
 	- This marks a break from what Durkheim called **mechanical solidarity** (complete commonality among community occupation and identity) and a transition towards **organic solidarity** (specialization of labor; each member has their own unique role and job in the community)
+
 - The Maya developed independently of these valley civilizations;
 	- Mayan vs. River Valley Civilizations; **Why does the Maya complicate things for Childe?**
 
