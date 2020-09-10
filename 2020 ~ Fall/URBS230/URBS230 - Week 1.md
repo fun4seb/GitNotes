@@ -61,7 +61,7 @@
 - 1920's-1940's
 
 - **Georg Simmel**, The Metropolis and Mental Life (1903)
-	- Blase attitudes
+	- Blasé attitudes
 	- Division of labor
 	- Time
 	- Money
@@ -173,6 +173,7 @@
 - **"Revolution"** doesn't refer to any violent or radical change, but rather a **culmination of a progressive change** in the economic structure and social organization of communities that caused, or was accompanied by, a dramatic increase in the population"
 
 ## Key Questions
+
 ### How does Childe's definition of the city compare to Wirth and previous authors?
 - Childe is more based from an **archaeological perspective**
 - **"Writing"** as a criteria
@@ -231,16 +232,20 @@
 - Every member of a group must contribute to the supply of food production, the lack of social surplus in early communities can not support idle mouths
 	- **LIFE REVOLVES AROUND FOOD, FOOD IS LIFE - MOVE FOR FOOD, KILL FOR FOOD, BUILD FOR FOOD, DEVELOP FOR FOOD, ALL MOTIVATED BY FOOD**
 
-### Neolithic Revolution
-
-### Specialization of Labor
-
 ## Ancient Cities
 - ~5,000 years ago irrigation cultivation in the valleys of the valleys of the **Nile, the Tigris-Euphrates, and the Indus** had begun to produce a social surplus large enough to support members who could then pursue specialties in craftsmanship rather than being burdened to the constant participation of food production
 	- This marks a break from what Durkheim called **mechanical solidarity** (complete commonality among community occupation and identity) and a transition towards **organic solidarity** (specialization of labor; each member has their own unique role and job in the community)
 
 - The Maya developed independently of these valley civilizations;
 	- Mayan vs. River Valley Civilizations; **Why does the Maya complicate things for Childe?**
+
+### Early Cities Timeline
+- Neolithic revolution (10,000 BCE)
+- Old world civilizations (5,000 BCE)
+	- Egypt/Nile
+	- Mesopotamia/Tigris-Euphrates
+	- Indus basin
+- Mayans (500 BCE)
 
 ### Ten Criteria to Distinguish Early Cities from Villages
 
@@ -258,7 +263,7 @@
 
 #### 4. Monumental public buildings, Symbolization of Social Surplus
 - Construction of monuments to symbolize the social surplus; the bigger and more grand the monuments and social projects of a historic civilization, the more surplus it held. **Huge pyramids of a booming Egypt Vs. Dinky obelisk of a poopoo settlement**
-	- Attached to these monuments was often a great granary, a main concentration of a civilizations food that was a direct representation of wealth; **Food = growing population = surplus resourses = wealth = more food**
+	- Attached to these monuments was often a great granary, a main concentration of a civilizations food that was a direct representation of wealth; **Food = growing population = surplus resources = wealth = more food**
 	- With the social surplus being held at monuments, which were often huge temples and religious sites, the concentration of wealth becomes centered around a unified group
 
 #### 5. Social Stratification
