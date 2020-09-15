@@ -1,6 +1,8 @@
-# URBS230 - Week 1: Introduction
+# URBS230 - Week 1
 
-# Questions Regarding the Study of Urbanization
+# Introduction
+
+## Questions Regarding the Study of Urbanization
 - Whats the difference between a city and a town/village?
 - Urbanization from global and historical perspectives:
 	- What is a city? what is urban?
@@ -8,79 +10,102 @@
 	- Why are cities organized the way they are?
 	- **What is the relationship between cities and modes of production, particularly capitalism?**
 
-# Urban Development Epochs
+## Urban Development Epochs
 > Epoch ~
 
-1. First cities, Mesopotamia
-2. Medieval European city
-3. Mercantilist city
-4. Industrial Revolution city
-5. Modern city
-6. Fordist city
-7. Neoliberal city
+- Examples of Epochs:
+	1. First cities, Mesopotamia
+	2. Medieval European city
+	3. Mercantilist city
+	4. Industrial Revolution city
+	5. Modern city
+	6. Fordist city
+	7. Neoliberal city
 
-# Capitalism and the City
-- Cities and the origins of capitalism
-- Cities as centers of production, consumption, innovation, coordination
-- Concentrate factors of production: land, labor, capital, inputs
-- Urban agglomerations
-- Transportation
-- Social reproduction
+## Capitalism and the City
+- Cities and the **origins of capitalism:**
+	- Cities as centers of production, consumption, innovation, coordination
+	- Concentrate factors of production: land, labor, capital, inputs
+	- Urban agglomerations
+	- Transportation
+	- Social reproduction
 
 # Urbanization
-- Urbanization: relative growth of urban vs. rural areas
-	- Level
+> Urbanization ~ relative growth of urban vs. rural areas
+
+- Urbanization can be quantified in a variety of ways:
+	- **Level** = current level of urbanization in a place
+		- Ex: One could say: "Canada is 80% urban"
 	- Process
-	- Rate
-	- Interrelation between level and rate
+	- **Rate** = how fast is a place urbanizing
+	- Close relationship between **level and rate**
+		- Countries that have higher **levels** of urbanization, tend to urbanize at a slower **rate** because they have already undergone urbanization and there is much less room to grow. Compare this to countries such as within Africa which are at a much lower level of urbanization, yet growing at a very fast rate; **more urbanization left to happen**
 
-- Causes of Urbanization
-	- Migration
-	- Natural population growth
-	- Reclassification
+## Causes of Urbanization
+- Migration
+- Natural population growth
+- **Reclassification**
+	- **Happens frequently in China**; areas that were previously villages get reclassified as urban which leads to more urbanization 
 
-- Problems measuring urbanization
-	- Different national definitions of urban
-		- Political boundaries
-		- Population size
-		- Population density
-		- Economic function
-		- Infrastructure
-		- Education or health facilities
-	- Trustworthiness of data
+## Problems Measuring Urbanization
+- **No unified standards**
+- Different national have different definitions of what is "urban":
+	- Political boundaries
+		- Some countries may set the urban boundaries very close to the city center, whereas other countries might have a much more encompassing boundary of what is urban
+	- Population size & density
+		- What is the population/density threshold to become urban? 2000? 100,000? **Different places have different standards**
+	- Economic function
+	- Infrastructure
+	- Education or health facilities
 
-# Urban Age Thesis
-- UN-Habitat "New Urban Age"
+## Urban Age Thesis
+- UN-Habitat's "New Urban Age":
+	- **Point in time (2007-2008) where the global population reached equilibrium between people living in rural areas vs. urban areas**
 
-- Urban age assumptions / **problems with this way of thinking**:
-	- The world can be neatly classified into different settlement types
-	- The urban transition is produced by the redistribution of the population from the rural to the urban
-	- The urban and the rural are distinct and oppositional
+### Urban Age Assumptions
+- **Problems with this way of thinking:**
+	- That world can be neatly classified into different settlement types
+	- That urban transition is produced by the redistribution of the population from the rural to the urban
+	- That urban and the rural are distinct and oppositional
+		- Urbanism is a "way of life", and can spread independently of whether someone lives in a traditionally rural or urban area; **urbanism can exist prominently even within rural area, "urban mentality**
 
-# Chicago School of Urban Sociology
-- 1920's-1940's
+# Chicago School of Urban Sociology (1920's-1940's)
+- Key figures: **Georg Simmel**, Robert Park (student of Simmel), Ernest Burgess, **Louis Wirth**
+	- Sociologists concerned with the social consequences of living in cities
 
-- **Georg Simmel**, The Metropolis and Mental Life (1903)
+- Key Ideas related to understanding urbanization:
+		- **Size, density, and social heterogeneity** leads to the "urban way of life"
+		- **Division of labor** acts as a catalyst to the fragmentation of social life, emergence of classes, etc.
+		- **Zonal model** (created by Ernest Burgess) as a way to understand hierarchies of urban social organization between among classes
+
+- **Georg Simmel**, "The Metropolis and Mental Life" (1903): **Outlines how urban areas mold mentalities**
 	- Blasé attitudes
+		- Urban lives becomes **impersonal**, you have to tune out others.
 	- Division of labor
 	- Time
 	- Money
 
-- Key figures: Robert Park (Simmel), Ernest Burgess, Louis Wirth
-
-- Size, density, social heterogeneity
-	- (leads to?) Urban way of life
-
-- Division of labor
-	- (leads to?) Fragmentation of social life
-
-- Ferdinand Tönnies, Gemeinschaft (community) v. Gesellshaft (society)
+- Ferdinand Tönnies: **Gemeinschaft (community) vs. Gesellshaft (society)**
+	- **Community** = Close knit group, deep social connections between all peers in your surroundings
+		- Social control within a community: Through the fact that everyone knows everyone, gossip; **If you do something, you are socially accountable through everyones intimate knowledge of you, there is no anonymity like there is in the city**
+	- **Society** = Impersonal, scale is too big for complete social connections outside ones inner circle, people must be loyal to the "whole" and what it stands for rather than each individual person
+		- Social control within a society: Control through more **formal mechanisms** such as police, credit reports, surveillance, etc.
+	- In the countryside, people live in a **"community"**, but in the city, people live in a **"society"**
 
 - Urban ecology
-	- Wirth: "The city tends to resemble a mosaic of social worlds, in which the transition from one to the other is abrupt"
+	- Wirth: "The city tends to resemble a **mosaic of social worlds**, in which the transition from one to the other is abrupt"
 
-- **Zonal Model:**
-	- **"Hierarchy of density and land values"**
+# Zonal Model
+![alt text](https://images.squarespace-cdn.com/content/v1/57cf17802e69cf96e1c4f406/1473210447454-R0VBFC5A57849OF47ZW2/ke17ZwdGBToddI8pDm48kEvOJLCxXJaiK6p09P9vUtpZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwbcdZ2qWadbLd_4WIHS-0M4n_02xIbSdXmfXZ-vk_YwsQgIheUsBNw-I4M-KRAlfM/2015-12-02screenshot-3.jpg "Zonal Model")
+
+> Hierarchy of density and land values, laid out geographically ; centers around the growth of a **rich center** (housing the commerce and industry of the settlement)
+
+- Hierarchy of zones:
+	- I. = commerce and industry, CBD (**Central Business District**)
+	- II. = zone of transition, low rent, waiting for CBD to expand
+	- III. = neighborhoods, settled working class
+	- IV. = residential, middle classes
+	- V. = commuter suburbs
 
 - From Wirth's abstract:
 	- Human relations are "anonymous", superficial, and transitory
@@ -88,17 +113,7 @@
 	- Formal social control
 	- Break down of rigid social structures
 	- "The pecuniary nexus tends to displace personal relations"
-
-# Zonal Model
-![alt text](https://images.squarespace-cdn.com/content/v1/57cf17802e69cf96e1c4f406/1473210447454-R0VBFC5A57849OF47ZW2/ke17ZwdGBToddI8pDm48kEvOJLCxXJaiK6p09P9vUtpZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwbcdZ2qWadbLd_4WIHS-0M4n_02xIbSdXmfXZ-vk_YwsQgIheUsBNw-I4M-KRAlfM/2015-12-02screenshot-3.jpg "Zonal Model")
-
-> Hierarchy of density and land values, laid out geographically ; centers around the growth of a **rich center** (housing the commerce and industry of the settlement)
-
-- I. CBD: commerce and industry (**Central Business District**)
-- II. Zone of transition: low rent, waiting for CBD to expand
-- III. Neighborhoods: settled working class
-- IV. Residential: middle classes
-- V. Commuter suburbs
+		- **"Cash nexus"**; where is money concentrated
 
 # Reading Notes: Urbanism as a Way of Life - Wirth (1938)
 - While cities are the characteristic focus of urbanism, **the urban mode of life is not confined to cities**
@@ -107,9 +122,9 @@
 ## Key Questions
 
 ### How does Wirth define the city?
-> 8: "For sociological purposes a city may be defined as a relatively large, dense, and permanent settlement of heterogeneous individuals."
+> 8: "For sociological purposes a city may be defined as a relatively large, dense, and permanent settlement of heterogeneous individuals."; **Heterogeneous refers the ability to exist in cities "anonymously",** there is so many people in one place that no one knows each other and relationships between a settlement's inhabitants as a whole becomes impossible
 
-- City is not the same as urban because urbanism is a **"way of life"**
+- City is not the same as urban, urbanism is a **"way of life"**
 
 > 4: "The characterization of a community as urban on the base of size alone is obviously arbitrary." (Same goes for density)
 
@@ -124,9 +139,9 @@
 - **"Impact of the industrial revolution"** on growth of cities and shift to urban society
 
 ### Other Questions
-1. Why are numbers, size, and density problematic criteria for measuring urbanism? How does it create arbitrary boundaries for what is and isn't a city?
+- Why are numbers, size, and density problematic criteria for measuring urbanism? How does it create arbitrary boundaries for what is and isn't a city?
 
-2. How and why does urbanism exist outside urban centers like cities? why is limiting the idea of urban areas to cities inadequate and arbitrary in studying and explaining the influences of urbanism, why is urbanism not necessarily confined within settlements which are cities in the physical and demographic sense.
+- How and why does urbanism exist outside urban centers like cities? why is limiting the idea of urban areas to cities inadequate and arbitrary in studying and explaining the influences of urbanism, why is urbanism not necessarily confined within settlements which are cities in the physical and demographic sense.
 
 ## I. The City and Contemporary Civilization
 - Just as the beginning of Western civilization is marked with the settlement of nomadic peoples in the Mediterranean basin, **the beginning of what one would call "modern" in our civilization is marked with the growth of great cities**
@@ -175,25 +190,34 @@
 ## Key Questions
 
 ### How does Childe's definition of the city compare to Wirth and previous authors?
-- Childe is more based from an **archaeological perspective**
+- Childe relies heavily on a **archaeological perspective**
 - **"Writing"** as a criteria
 
 > 4: "Yet a certain size of settlement and density of population, is an essential feature of civilization" Childe give more weight to **size and density** as criteria for civilizations (cities). While Wirth recognizes their relevance, he is much more critical of the arbitrary nature of looking to numbers for strict cutoffs; **standards of size and density are always changing, both over time and geographically**
 
-- Childe constructs an "ideal type"
+- Childe constructs an **"ideal type"** of settlement
+	- **Refer to Childe's ten criteria that distinguish cities from villages**
 
-### Other Questions
-2. What was the importance of "surplus" food in early urbanization?
-3. What social changes went along with early urbanization?
-4. Exploring stages of "savagery", "barbarism" and "civilization"; What are terms like "savagery" and "barbarism" problematic in discussion developmental stages of civilization?
+### What was the importance of "surplus" food in early urbanization?
+- Food surplus is the **MOST IMPORTANT** thing; **there can be no urbanization without the wealth of a surplus**
+- Childe's ten criteria all stem from the governance opportunities provided by a surplus of food
+
+### What social changes went along with early urbanization?
+1. **Division of labor**
+2. Class society, **ruling class vs. majority**
+	- Instead of belonging to kinship groups, people belong to the city and their class groups (Guilds and groups of workers, priests, soldiers, etc.; People become aligned with and separated according to their specialized occupation)
+
+### Why are terms like "savagery" and "barbarism" problematic in discussion developmental stages of civilization?
+- Colonialist mindset, assumption that "we are civilized and you are not therefor we can impose our power upon you"
+- Idea that certain types of settlements are inferior to more "advanced" types, are there not inherent problems in modern living that don't exist in more "savage" living?
 
 ## Criticisms
-- This paper reads like it is written from an ivory tower, looking down on less "sophisticated" modes of living and maintains the tone that earlier stages of development = inferior; why does more advanced mean superior, are there not inherent problems with modern modes of living compared with more pre-industrial modes of living?
+- This paper can a very colonialist mindset in regard to the valuation of less advanced societies; almost dehumanizing at times. Childe looks down on less "sophisticated" modes of living and maintains the tone that earlier stages of development = inferior; why does more advanced mean superior, are there not inherent problems with modern modes of living compared with more pre-industrial modes of living?
 
 - Childe outlines the hierarchy of societal evolution and states that each follows the last in a sequence of societal evolution, however he then goes on to say there has been no recorded instance of savages civilizing themselves, how did any community evolved from savagery when it is impossible for savages to civilize? This is also a ignorantly condescending point to be made that savages need outside intervention to be saved from their own savageness
 
 ## Childe's Evolutionary Stages of Pre-Industrial Societies
-- Sociologists of the 1800's classified pre-industrial societies in a hierarchy of evolutionary stages
+- Sociologists of the 1800's classified pre-industrial societies in a hierarchy of evolutionary stages, a model that Childe relies heavily on to organize the ideas of urban transitions over human history into neat categories; **a problematic way to think**
 	1. Savagery
 	2. Barbarism
 	3. Civilization
@@ -201,12 +225,12 @@
 - This hierarchy of stages also acts as a **sequence of ages** that is, according to the text, "proved archaeologically to follow one another in the same order wherever they occur."
 
 - Savagery and barbarism are **defined by the methods used for procuring food**
-	- **Savages:** live exclusively on **wild food** obtained by gathering, hunting, or fishing
-	- **Barbarians:** Supplements relying purely on natural resources by **cultivating edible plants**, and in few instances breeding animals
+	- **Savages** = live exclusively on **wild food** obtained by gathering, hunting, or fishing
+	- **Barbarians** = supplements relying purely on natural resources by **cultivating edible plants**, and in few instances breeding animals
 
 - Civilization is not as easily defined as the word is associated with "city", a word with ambiguous criteria. Because of this **archaeologists use writing as the criterion for civilization**
 
-### Timeline
+### Timeline: Evolution of Societies
 - Throughout the **Paleolithic Age** all known human societies were "savage", a few of these early savage societies exist today in remote places
 - Barbarism is said to have began less than 10,000 years ago during the **Neolithic Age**
 
@@ -247,41 +271,41 @@
 	- Indus basin
 - Mayans (500 BCE)
 
-### Ten Criteria to Distinguish Early Cities from Villages
+## Childe's "Ideal Type": Criteria to distinguish City vs. Village
 
 > TLDR ~ Mastery of food production allows the capability to support a large, dense population that can then produce even MORE food that can then be stored (THE IDEA THAT FOOD/WEALTH CAN BE STORED AND HELD ON TO, SOMETHING THAT HAS NEVER BEEN ABLE TO BE DONE BEFORE, IS THE KEY TO EVERYTHING), creating a surplus of production i.e. WEALTH. This surplus then allows for the delegation of more specialized, yet less essential to survival, roles and means of live. These include roles related to craftsmanship, a intellectual governing class, the arts, and many others. Because of the ability to now support a foundation of workers who each fill each exhaustive hole in the needs of society, things such as social projects, infrastructure developments, and logistical connections can then be explored as the concentration of a surplus provides the ability for that very surplus to be spent on societally beneficial projects. EVERYTHING STEMS FROM AN ABILITY TO CREATE A SURPLUS OF FOOD OVER TIME, THAT SUPPORTS GROWTH AND THE ABILITY TO CREATE EVEN MORE FOOD IN A CONSTANT LOOP.
 
-#### 1. Size and Density
- - The first cities must have been more extensive and **densely populated** than any previous settlement
+### 1. Size and Density
+ - The city must be more extensive and **densely populated** than any previous settlement
 
-#### 2. Full-time specialists Who Don't Produce Food
-- Emergence of the capability to **accommodate classes who did not themselves procure their own food** or take part in food production, but rather existed as **full-time specialists**. Jobs such as craftsmen, transport workers, merchants, officials, priests, etc.
-	- Such roles were now of course **supported by the surplus produced by the peasants** living in the city and surrounding area, trading services for a portion of the social surplus created by a thriving civilization
+### 2. Full-time specialists Who Don't Produce Food
+- Capability to **accommodate classes who don't procure their own food** or take part in food production, but rather existed as **full-time specialists**. Jobs such as craftsmen, transport workers, merchants, officials, priests, etc.
+	- Such roles are **supported by the surplus produced by the peasants** living in the city and surrounding area, trading services for a portion of the social surplus created by a thriving civilization
 
-#### 3. Concentration of surplus through tax
+### 3. Concentration of surplus through tax
 - Now that people are able to hold a surplus of food/capital, they must also pay taxes
 
-#### 4. Monumental public buildings, Symbolization of Social Surplus
+### 4. Monumental public buildings, Symbolization of Social Surplus
 - Construction of monuments to symbolize the social surplus; the bigger and more grand the monuments and social projects of a historic civilization, the more surplus it held. **Huge pyramids of a booming Egypt Vs. Dinky obelisk of a poopoo settlement**
 	- Attached to these monuments was often a great granary, a main concentration of a civilizations food that was a direct representation of wealth; **Food = growing population = surplus resources = wealth = more food**
 	- With the social surplus being held at monuments, which were often huge temples and religious sites, the concentration of wealth becomes centered around a unified group
 
-#### 5. Social Stratification
-- Ruling class of priests, military leaders, officials who were exempt from manual work
+### 5. Social Stratification
+- Emergence of a ruling class of priests, military leaders, officials who were exempt from manual work; **result of the diversification of labor; diversity of labor = seed for social inequality to breed from**
 - Specialists not engaged in food production become dependent on temple or court as they control the very surplus that enables their mode of living to exist. This causes the emergence of a **"ruling class"**, who is exempt from all manual peasant tasks and left to all intellectual tasks that lead to a more detached and luxurious life.
 	- This however meant many advancements were made in governance efficients through the way of delegated roles for optimizing planning and organization as a community
 
-#### 6. Creation of Writing and Numerical Notation
+### 6. Creation of Writing and Numerical Notation
 - Creation of systems, and recording techniques
 
-#### 7. Sciences & Calender
+### 7. Sciences & Calender
 - Utilization of writing that allowed knowledge to be recording and the various academic disciplines could be explored by specialists supported by the surplus of wealth, cultivated by a population of agriculture workers
 
-#### 8. Art; Stylized Naturalism
+### 8. Art; Stylized Naturalism
 - Specialists supported by a social surplus then are free to pursue the arts, attempted to create likeness of their surroundings depicting things such as animals, people, natural objects
 
-#### 9. Dependence on Long Distance Trade
+### 9. Dependence on Long Distance Trade
 - Further parts of a concentrated social surplus can be expended to created logistical networks to import raw materials needed for industry. This also allowed things like **luxury goods** to be traded and non essential goods like furs and silk now have their place within society, often among the ruling classes
 
-#### 10. New Forms of Social Control
+### 10. New Forms of Social Control
 - Requirement and existence of forms of social control over a growing population enabled by social surplus
