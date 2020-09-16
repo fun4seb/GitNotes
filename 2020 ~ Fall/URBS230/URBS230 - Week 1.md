@@ -96,7 +96,7 @@
 	- Wirth: "The city tends to resemble a **mosaic of social worlds**, in which the transition from one to the other is abrupt"
 
 # Zonal Model
-![alt text](https://images.squarespace-cdn.com/content/v1/57cf17802e69cf96e1c4f406/1473210447454-R0VBFC5A57849OF47ZW2/ke17ZwdGBToddI8pDm48kEvOJLCxXJaiK6p09P9vUtpZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwbcdZ2qWadbLd_4WIHS-0M4n_02xIbSdXmfXZ-vk_YwsQgIheUsBNw-I4M-KRAlfM/2015-12-02screenshot-3.jpg "Zonal Model")
+![](https://images.squarespace-cdn.com/content/v1/57cf17802e69cf96e1c4f406/1473210447454-R0VBFC5A57849OF47ZW2/ke17ZwdGBToddI8pDm48kEvOJLCxXJaiK6p09P9vUtpZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwbcdZ2qWadbLd_4WIHS-0M4n_02xIbSdXmfXZ-vk_YwsQgIheUsBNw-I4M-KRAlfM/2015-12-02screenshot-3.jpg "Zonal Model")
 
 > Hierarchy of density and land values, laid out geographically ; centers around the growth of a **rich center** (housing the commerce and industry of the settlement)
 
