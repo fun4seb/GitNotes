@@ -84,4 +84,18 @@
 	1. Eratosthenes assumed Syene and Alexandria lie along the same meridian of longitude
 		- **Alexandria does not lie due north of Syene**, they have a difference in longitude of ~3 degrees, however the consequences of this assumption is small (0.14%)
 	2. Eratosthenes made an error in measuring the latitude of Alexandria, thus the difference in latitudes between Alexandria and Syene were off
-	3. Surveyors who measured the distance between Alexandria and Syene would have followed the Nile (irregularly shaped), rather than a straight path and as a result would have most likely **overestimated the distance**; Eratosthenes distance measurements were not reliable
+	3. Surveyors who measured the distance between Alexandria and Syene would have followed the Nile (irregularly shaped), rather than a straight path and as a result would have most likely overestimated the distance; **Eratosthenes distance measurements were not reliable**
+
+# Reading Notes: Medieval Mappamundi
+> Medieval Mappamundi ~ Medieval depiction of the world through map; while often inaccurate such maps outline how certain influences (such as religious lore) can affect ones image and understanding of their world
+
+- Medieval maps were previously looked down upon as a sign of **"intellectual regression"** followed the collapse of the Roman Empire; They were judged for their lack of accuracy rather than their cultural value as historic lenses to view the world
+
+## Psalter Map
+![](https://assets.atlasobscura.com/media/W1siZiIsInVwbG9hZHMvYXNzZXRzLzdjZjEyNjBmMTUxNzI4OTJhMV9Qc2FsdGVyX1dvcmxkX01hcCxfYy4xMjY1LmpwZyJdLFsicCIsImNvbnZlcnQiLCIiXSxbInAiLCJjb252ZXJ0IiwiLXF1YWxpdHkgODEgLWF1dG8tb3JpZW50Il0sWyJwIiwidGh1bWIiLCI3ODB4NTIwIyJdXQ "Psalter Map")
+
+# Video Notes: "A History of Cartography and Maps"
+
+# Video Notes: "Why all Maps are Wrong"
+
+# Video Notes: "Map Projections"

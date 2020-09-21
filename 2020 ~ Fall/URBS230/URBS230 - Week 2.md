@@ -1,6 +1,97 @@
 # URBS230 - Week 2
 
+# Urban Origins of Capitalism
+> Capitalism: dynamic system/mode of production, social system for producing what we need according to demand; Characterized by dynamic growth, inherent change, and **instability**
+
+- Capitalism is a **mode of production**; production being done in a different way
+
+- Factors that contributed to the birth of capitalism:
+	- Initiation of long distance trade (~1000 AD)
+	- Changes in agriculture
+	- Cultural changes
+		- **Weber's ideas on the emergence of Protestant Calvinism and how it contributed to the birth of the capitalist mentality**; material success reflects a selection from god, creating an **ideological/cultural incentive to profit**
+
+- Capitalism needs:
+	- Market in land, labor, capitalism, commodities
+	- Rational accumulation
+	- State power
+	- Class
+- Cities were centers of production, consumption, innovation, **coordination**
+
+# Cities
+- Cities are **"rational landscapes for capital accumulation"**; In other words **"machines"** for the growth of capital
+	- Growth through **production**, **circulation** (movement of people, goods, and money), **realization** (market functions), and **social reproduction** (production of a healthy working class)
+	- The importance of reproduction outlines the key contradiction of capitalism (**healthy/happy workers are necessary for capitalist growth** yet capitalist tendencies often result in **exploitation of workers** instead)
+
+## Origins of Cities
+- **Roman Empire**; connected Europe with roads, infrastructure, unified law and order, etc.
+- Ecclesiastical towns (towns centered around the nucleus of a cathedral, headed by a bishop)
+- Lay Bourgs
+- **Feudalism**
+- Italian trade (10th century) in Venice, Genoa, Florence; city-states dependent on trade goods (prevalent merchant class)
+- Crusades 11th century
+- Trade (often exotic goods from the Middle East)
+- Bourgs on trade routes, faubourgs
+- Walls
+
+## Proto-Towns as Incubators for Capitalism
+- Week fragmented sovereignty (no clear property rights)
+- Walls
+- "Stadtlift macht frei"; **"Cities will set you free"**
+- Footloose merchants
+- Recycling of Roman law (vs. judicial law, trial by ordeal)
+- Cit charters, commune, third estate
+- Citizenship
+- Innovation
+- Markets: Land, labor, capital, commodities
+- **Greenfield site:** feudalism = system for managing space; city = **new space**
+
+> Greenfield Site ~
+
+- **Layout of the medieval city:**
+	- Concentric walls
+	- Core: palace, cathedral
+	- Parishes (organizing residents based on their church)
+	- Craft districts
+	- Walking city
+	- Access to rivers/ocean port
+
+# Industrial Revolution
+- Industrial revolution (1760-1860)
+	- Agricultural concentration
+	- Country and city relationship
+	- Technological change, division of labor
+
+- Division of labor: spinners and weavers,men and women, country and city
+
+- Key technologies & commodities:
+	- Wool, cotton spinning, weaving
+	- Coal, iron, steal, steam engine
+	- Canals, railway, shipping
+	- Empire
+
+# Engels & Manchester
+- Outlines the geography of how classes are divided
+- Invisible poverty (capitalist tendency of hiding poverty, Engels references how shops line the road shielding the sight of the slums)
+- Describes the state of housing, food, sanitation, morality
+
+## Layout of Manchester
+- Industry/CBD to center, rich to suburbs
+- Concentric ones
+- Wealth = status
+- **Home and work separated** (The rich can own and work in the city center, but live in comfort in the suburbs)
+- Class, rather than occupational differentiation
+- Classes separated **spatially**
+
 # Reading Notes: The Condition of the Working Class in England - Engels (1845)
+
+## Key Questions
+- **What was so revolutionary about the Industrial Revolution?** (compared to Childe's description of "revolution")
+	- Fundamental changes in livelihood across society in a relatively short time span, mass obsolescence of workers through the invention of increasingly efficient machines and automation
+	- Rapid advancements in the technological capabilities of humans
+	- "Economies of scale"
+
+- **Does Engels like the city?**
 
 ## Chapter 1: Historical Introduction
 - History of the English working class begins in the 18th century with the invention of powered machinery & engines that lead to the **industrial revolution**

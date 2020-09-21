@@ -31,7 +31,7 @@
 	- Social reproduction
 
 # Urbanization
-> Urbanization ~ relative growth of urban vs. rural areas
+> Urbanization ~ Relative growth of urban vs. rural areas
 
 - Urbanization can be quantified in a variety of ways:
 	- **Level** = current level of urbanization in a place
@@ -113,7 +113,7 @@
 	- Formal social control
 	- Break down of rigid social structures
 	- "The pecuniary nexus tends to displace personal relations"
-		- **"Cash nexus"**; where is money concentrated
+		- **"Cash nexus"**; where is money/capital is concentrated in a settlement (Ex: a financial district)
 
 # Reading Notes: Urbanism as a Way of Life - Wirth (1938)
 - While cities are the characteristic focus of urbanism, **the urban mode of life is not confined to cities**

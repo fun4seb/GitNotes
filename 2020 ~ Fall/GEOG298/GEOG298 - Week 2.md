@@ -164,3 +164,76 @@
 10. The strengthening of stakeholder capacity
 
 # Module 2: Ecosystems
+
+## Defining Ecosystems
+> Ecosystem ~ "A dynamic complex of plant, animal, and micro-organism communities and their non-living environment interacting as a functional unit"
+
+- **Ecosystems are complex and dynamic systems** that include intricate relationships between different living (biotic) and non-living (abiotic) components
+- Ecosystems are defined by their **function**, rather than scale; ecosystems come in many sizes
+- What is important in ecosystems is not simply the components that make it up, but also the relationships and **interactions** between these various components. Ecosystems are not fixed in time and space. They are **dynamic** ecological units
+	- “An ecosystem is a fluid, changing entity that undergoes various processes, moves energy and materials, and changes over time”
+	- An example of a process that moves materials is the **carbon cycle**, through which organic carbon moves through the various components of the ecosystem
+
+- **Ecosystems also include humans**, if they are present at the particular time and place. Most ecosystems are **heavily impacted by human presence**. Or, more to the point: humans are part of most ecosystems today
+	- Human are just another system component, and their actions can change the entire system over time.
+
+## Ecosystem Service Framework
+>  Ecosystem Services ~ “The benefits people obtain from ecosystems. These include provisioning services such as food and water regulating services such as flood and disease control; cultural services such as spiritual, recreational, and cultural benefits; and supporting services, such as nutrient cycling, that maintain the conditions for life on Earth.”
+
+![](http://environmentacademy.org/asset-v1:UNEP+ENV001+2020+type@asset+block/2212a.jpg "Ecosystem Services")
+
+> Supporting Services ~ Services necessary for the production of all other ecosystem services
+
+> Provisioning Services ~ Products obtained from ecosystems
+
+> Regulating Services ~ Benefits obtained from regulation of ecosystem processes
+
+> Cultural Services ~ Non-material benefits obtained from ecosystems
+
+- Ecosystems have different functions, many of which **benefit humans**
+	- **These functions include:** trees absorbing carbon and releasing oxygen, coral reefs and mangroves protecting coastal areas from waves, fish harvested from rivers as food, pollination by bees and other insects
+
+## The Adaptive Cycle
+![](http://environmentacademy.org/asset-v1:UNEP+ENV001+2020+type@asset+block/2322b.jpg "Adaptive Cycle")
+
+- The adaptive cycle describes the dynamics that occur at one level (geographical and temporal scale); These adaptive cycles oscillate between 2 major phases: 
+	1. **From exploitation (r) to conservation (k)**, during which capital accumulates and components of the ecosystem become more connected.
+		- **The fore loop**, which corresponds to the first phase in the previous depiction, is characterized by the accumulation of capital, by stability and conservation.
+	2. **From release (Ω) to reorganization (α)**, which is a phase of rapid reorganization also called creative destruction, during which “novel recombinations can unexpectedly seed experiments that lead to innovations in the next cycle”
+		- **The back loop**, which corresponds to the second phase in the previous depiction, is characterized by uncertainty, novelty, and experimentation **(creative destruction)**
+	- These two phases serve two different purposes: The first maximizes production and accumulation **(growth and stability)** while the second maximizes invention and re-assortment **(change and variety)**. The two cannot take place simultaneously, but rather take place **sequentially**
+
+### Panarchies
+- The adaptive cycles occur at one single level geographically and temporally, several such embedded adaptive cycles make up a **panarchy**
+
+![](https://www.resalliance.org/files/key-concepts/Panarchy.jpg "Panarchy")
+
+- Interactions between two levels take two forms: **Revolt** & **Remember**
+	- **Revolt** = Takes place when a smaller adaptive cycle is in its creative destruction phase, and this cascades to the next level up
+	- **Remember** = Takes place if a catastrophe happens at a smaller level, and the renewal is highly influenced by the K (conservation) phase of the next slower and larger level
+
+## Ecosystem Management
+- **The 4 key elements of the ecosystem approach to management:**
+	1. It is based on the objectives and demands that stakeholders living in the land/sea scape have
+	2. It must take into consideration the characteristics of the ecosystem itself
+	3. It involves certain processes such as negotiating between different values, making trade-offs, seeking the best outcomes, etc.
+	4. It is results based, and those results must be measurable
+
+- **The 12 principles of the ecosystem approach:**
+	1. The objectives of management of land, water and living resources are a matter of societal choices
+	2. Management should be decentralized to the lowest appropriate level
+	3. Ecosystem managers should consider the effects (actual or potential) of their activities on adjacent and other ecosystems
+	4. Recognizing potential gains from management, there is usually a need to understand and manage the ecosystem in an economic context; Any such ecosystem-management programme should:
+		- a. Reduce those market distortions that adversely affect biological diversity;
+		- b. Align incentives to promote biodiversity conservation and sustainable use;
+		- c. Internalize costs and benefits in the given ecosystem to the extent feasible.
+	5. Conservation of ecosystem structure and functioning, in order to maintain ecosystem services, should be a priority target of the ecosystem approach
+	6. Ecosystems must be managed within the limits of their functioning
+	7. The ecosystem approach should be undertaken at the appropriate spatial and temporal scales
+	8. Recognizing the varying temporal scales and lag-effects that characterize ecosystem processes, objectives for ecosystem management should be set for the long term
+	9. Management must recognize that change is inevitable
+	10. The ecosystem approach should seek the appropriate balance between, and integration of, conservation and use of biological diversity
+	11. The ecosystem approach should consider all forms of relevant information, including scientific and indigenous and local knowledge, innovations and practices
+	12. The ecosystem approach should involve all relevant sectors of society and scientific disciplines
+
+![](http://environmentacademy.org/asset-v1:UNEP+ENV001+2020+type@asset+block/2421.jpg "5 Steps of Ecosystem Approach")
