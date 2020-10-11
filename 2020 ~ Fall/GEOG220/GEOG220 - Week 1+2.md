@@ -1,8 +1,8 @@
-# GEOG220 - Week 2
+# GEOG220 - Week 1+2: The Evolution of Human Geography Part 1 - Indigenous & Greek Knowledge
 
 # Beginnings of Geography
 - Basic points of the class:
-	1. All early peoples must have been geographers
+	1. All **early/indigenous peoples** must have been geographers
 	2. The earliest geographers used some very basic ideas to think about their world
 - The Ancient Greeks are often cited as the creators of geography. **This is WRONG, knowledge of geography starts with the beginnings of humanity since everyone needs to know about their world to survive in it**
 	- This is supported by cases such as the extensive geographic knowledge of indigenous and early peoples to navigate their environment
@@ -12,8 +12,8 @@
 2. An interest in describing the characteristics of the Earth
 3. A knowledge of who/what lies beyond our own "world"
 
-- This means that **all early peoples were geographers, not just Europeans**
-	- Europeans underestimated the geographic capabilities of early peoples
+- This means that **all early/indigenous peoples were geographers, not just Europeans**
+	- Europeans underestimated the geographic capabilities of indigenous peoples
 		- This was perhaps because we didn't consider basic geographical skills as valuable
 		- Preconceived colonialist ideas about "primitive" people blinded Europeans from recognizing the geographic skills of indigenous peoples. They often tried to rationalize how they could hold this expertise, theorizing the knowledge must be left behind from "lost civilizations"
 
@@ -87,12 +87,11 @@
 	3. Surveyors who measured the distance between Alexandria and Syene would have followed the Nile (irregularly shaped), rather than a straight path and as a result would have most likely overestimated the distance; **Eratosthenes distance measurements were not reliable**
 
 # Reading Notes: Medieval Mappamundi
-> Medieval Mappamundi ~ Medieval depiction of the world through map; while often inaccurate such maps outline how certain influences (such as religious lore) can affect ones image and understanding of their world
+> Medieval Mappamundi ~ Medieval depiction of the world through map; while often inaccurate such maps outline how certain influences (such as religious lore) can affect ones preconceived understanding of their world
 
 - Medieval maps were previously looked down upon as a sign of **"intellectual regression"** followed the collapse of the Roman Empire; They were judged for their lack of accuracy rather than their cultural value as historic lenses to view the world
 
-## Psalter Map
-![](https://assets.atlasobscura.com/media/W1siZiIsInVwbG9hZHMvYXNzZXRzLzdjZjEyNjBmMTUxNzI4OTJhMV9Qc2FsdGVyX1dvcmxkX01hcCxfYy4xMjY1LmpwZyJdLFsicCIsImNvbnZlcnQiLCIiXSxbInAiLCJjb252ZXJ0IiwiLXF1YWxpdHkgODEgLWF1dG8tb3JpZW50Il0sWyJwIiwidGh1bWIiLCI3ODB4NTIwIyJdXQ "Psalter Map")
+- “The function of the mappae mundi was primarily to provide a visual narrative of Christian history cast in a geographical framework, not to communicate geographical or cosmological facts”
 
 # Video Notes: "A History of Cartography and Maps"
 

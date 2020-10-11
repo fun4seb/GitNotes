@@ -27,8 +27,7 @@
 	- both communicate, but symbols carry more content and are suggestive of larger ideas(cultural, social, emotional, psychological) than simple signs
 - Non-human animals communicate by way of signs rather than symbols; prof says **animals are not capable of symbolic communication in the way humans are**
 
-# Nature & Culture
-- 	
+# Nature & Culture	
 - Culture needs more than one person as it is cultivated and maintained in a group setting
 - Complex symbolism is characteristically human
 - Humans have natural instincts, requirements, etc. However, **culture also tends to convert those natural elements into symbolic forms**

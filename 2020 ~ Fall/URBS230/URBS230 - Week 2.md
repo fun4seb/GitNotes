@@ -1,4 +1,4 @@
-# URBS230 - Week 2
+# URBS230 - Week 2: Manchester and the Industrial Revolution
 
 # Urban Origins of Capitalism
 > Capitalism: dynamic system/mode of production, social system for producing what we need according to demand; Characterized by dynamic growth, inherent change, and **instability**
@@ -84,14 +84,12 @@
 - Classes separated **spatially**
 
 # Reading Notes: The Condition of the Working Class in England - Engels (1845)
-
-## Key Questions
-- **What was so revolutionary about the Industrial Revolution?** (compared to Childe's description of "revolution")
-	- Fundamental changes in livelihood across society in a relatively short time span, mass obsolescence of workers through the invention of increasingly efficient machines and automation
-	- Rapid advancements in the technological capabilities of humans
-	- "Economies of scale"
-
-- **Does Engels like the city?**
+- **Key questions:**
+	- **What was so revolutionary about the Industrial Revolution?** (compared to Childe's description of "revolution")
+		- Fundamental changes in livelihood across society in a relatively short time span, mass obsolescence of workers through the invention of increasingly efficient machines and automation
+		- Rapid advancements in the technological capabilities of humans
+		- "Economies of scale"
+	- **Does Engels like the city?**
 
 ## Chapter 1: Historical Introduction
 - History of the English working class begins in the 18th century with the invention of powered machinery & engines that lead to the **industrial revolution**

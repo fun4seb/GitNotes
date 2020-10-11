@@ -1,8 +1,6 @@
-# GEOG298 - Week 2
+# GEOG298 - Week 1+2: Module 1 (Systems Thinking) & Module 2 (The Ecosystems Approach)
 
-# Module 1: Systems Thinking
-
-## Understanding Systems Thinking
+# Module 1: Understanding Systems Thinking
 - Failing solutions to complex problems tend to share the following characteristics:
 	- They address symptoms rather than the underlying problem
 	- They seem obvious (and often succeed in the short term)
@@ -13,7 +11,7 @@
 - **Gregory Bateson**: British scholar that helped extend systems theory to the social and behavioral sciences in the 1940s
 	- Believed that **all things were connected**, nothing that is independent of the whole and it is crucial to take this into account when addressing **complex problems**; interested in the larger patterns that govern the nature of the world
 
-## What is a System?
+# What is a System?
 > System = a set of parts/elements that form a whole
 
 - Systems exist within an **environment** and have a boundary which differentiates between a systems **exterior and interior**
@@ -21,7 +19,7 @@
 	- A closed system requires no input/energy from outside, which is rare outside the world of chemistry and thermodynamics; **it does not interact with its environment and has no influence nor is influenced**
 	-	**Most systems are open**,  they require, and are constantly influenced by, input/energy from the outside environment and also produce some output which affects the broader environment around them **(this cycle of input and output is what leads to feedback loops)**
 
-### Feedback Loops
+## Feedback Loops
 - Positive or negative feedback loops regulate system outputs
 	- A positive feedback loop produces **more of the same action**
 	- A negative feedback loop produces **less of the same action** (inverse relationship)
@@ -30,7 +28,7 @@
 - Systems tend to oscillate in response to feedback loops. They can be relatively stable, then volatile, then self-regulate and become stable again.
 	- This is understood as a **"dynamic stability"** rather than a static one.
 
-## Complex Adaptive Systems (CAS)
+# Complex Adaptive Systems (CAS)
 > Complex Adaptive Systems (CAS) ~ Self-organizing (decentralized control), leading to emergent properties (new patterns emerge over time).
 
 - Systems can either be **simple** or **complex**
@@ -70,13 +68,13 @@
 - CAS are **self-organizing**; there is no single centralized control mechanism that governs them. Control is wholly decentralized or distributed over all the components of the system. As individual components continuously adapt to changing conditions, the system can also maintain and repair itself
 	- Self-organizing leads to **emergent properties**
 
-### Emergent Properties
+## Emergent Properties
 > Emergent Properties ~ **Properties and capabilities specific to a system as a whole as a result of interactions between smaller components working together** rather than properties that can be derived from any one of a systems components individually; A system is more than the sum of its parts
 
 - Examples of self-organizing emergent properties from the natural world include the schooling of fish and flocks of birds
 	- There is no unified leader **(global controller)** and each smaller component is acting individually with feedback from interactions with other components to accomplish tasks as a system that could not be accomplished individually
 
-### Resilience
+## Resilience
 - The extent to which a system can adapt while **maintaining its fundamental functions** is referred to as **resilience**; **"How much can something change before it loses its identity/fundamental qualities"**
 
 > Resilience ~ "The magnitude of disturbance that can be absorbed or accommodated before the system changes its structure by changing the variables and processes that control system behavior"
@@ -92,24 +90,24 @@
 
 ![](https://www.researchgate.net/profile/Carlos_Fiorentino/publication/319194323/figure/fig4/AS:616052358651913@1523889736484/The-Ball-in-a-basin-metaphor-explains-how-resilient-systems-work-If-the-ball-is-pushed.png "Ball in a Basin Model")
 
-## What is a Wicked Problem?
+# What is a Wicked Problem?
 - A wicked problem is one **“with no definitive formulation, no stopping rule, and no test for a solution”**, one that cannot be separated from issues of values, equity and social justice.
 	- Wicked problems have lots of history and layers of social complexity, but no easy answers, and **they demand dynamic, interlinked solutions**
 - **Reductionist approaches** will not work to fix complex systems or solve wicked problems; **a systems thinking approach is necessary**
 
-### Rittel and Weber’s Description of Wicked Problems
-1. There is no definitive formulation of a wicked problem
-2. Wicked problems have no "stopping rule"
-3. Solutions to wicked problems are not "true or false" but "good or bad"
-4. There is no immediate and no ultimate test of a solution to a wicked problem
-5. Every solution to a wicked problem is a "one shot operation", because there is no opportunity to learn by trial and error
-6. Wicked problems do not have a definitive set of solution, nor is there a rule to determine what solutions are "appropriate"
-7. Every wicked problem is essentially unique
-8. Every wicked problem can be considered to be a symptom of another problem
-9. Conflicting evidence can be explained in many different ways
-10. The decision maker has no right to be wrong
+- **Rittel and Weber’s Description of Wicked Problems:**
+	1. There is no definitive formulation of a wicked problem
+	2. Wicked problems have no "stopping rule"
+	3. Solutions to wicked problems are not "true or false" but "good or bad"
+	4. There is no immediate and no ultimate test of a solution to a wicked problem
+	5. Every solution to a wicked problem is a "one shot operation", because there is no opportunity to learn by trial and error
+	6. Wicked problems do not have a definitive set of solution, nor is there a rule to determine what solutions are "appropriate"
+	7. Every wicked problem is essentially unique
+	8. Every wicked problem can be considered to be a symptom of another problem
+	9. Conflicting evidence can be explained in many different ways
+	10. The decision maker has no right to be wrong
 
-## Dealing with Wicked Problems
+# Solving Wicked Problems
 - Management of complex systems must be:
 	1. **Adaptive**
 	2. Flexible
@@ -118,7 +116,7 @@
 
 - **Adaptive management** is a framework that meets these requirements and is key in addressing wicked problems
 
-### Adaptive Management
+## Adaptive Management
 > Adaptive Management ~ A systematic process for continually adjusting policies and practices by learning from the outcome of previously used policies and practices
 
 - Adaptive management is a process that essentially recognizes uncertainty, monitors system responses to interventions and anticipates that future management interventions will be modified as we learn more about the system and problem; **iterative process of "learning by doing"**
@@ -126,7 +124,7 @@
 
 ![](http://environmentacademy.org/asset-v1:UNEP+ENV001+2020+type@asset+block/1412.jpg "Adaptive Management Process")
 
-### Using Alternative Sources of Knowledge
+## Using Alternative Sources of Knowledge
 - Because of the complexity of systems, we must consider all forms of knowledge to address wicked problems. This includes **utilizing different disciplines within Western science** as well as more **alternative knowledge that may be based on different worldviews**
 	- Ex: Consulting indigenous people for their holistic cultural knowledge of their environment, or comparing the perspectives a variety of academic disciplines
 
@@ -151,7 +149,7 @@
 
 > Involving a wide range of actors in decision-making can allow for appropriate co-production of knowledge that respects the values and rights of all knowledge holders, which in turn has the potential to improve the quality of information and knowledge required to manage CAS
 
-### Principles for Addressing Wicked Problems
+## Principles for Addressing Wicked Problems
 1. Continual learning and **adaptive management**
 2. Trust among stakeholders
 3. Recognition of cross-scale interactions and collaboration and coordination across scales (local, national, etc.)
@@ -163,9 +161,7 @@
 9. The importance of managing or planning for resilience
 10. The strengthening of stakeholder capacity
 
-# Module 2: Ecosystems
-
-## Defining Ecosystems
+# Module 2: The Ecosystems Approach
 > Ecosystem ~ "A dynamic complex of plant, animal, and micro-organism communities and their non-living environment interacting as a functional unit"
 
 - **Ecosystems are complex and dynamic systems** that include intricate relationships between different living (biotic) and non-living (abiotic) components
@@ -177,7 +173,7 @@
 - **Ecosystems also include humans**, if they are present at the particular time and place. Most ecosystems are **heavily impacted by human presence**. Or, more to the point: humans are part of most ecosystems today
 	- Human are just another system component, and their actions can change the entire system over time.
 
-## Ecosystem Service Framework
+# Ecosystem Service Framework
 >  Ecosystem Services ~ “The benefits people obtain from ecosystems. These include provisioning services such as food and water regulating services such as flood and disease control; cultural services such as spiritual, recreational, and cultural benefits; and supporting services, such as nutrient cycling, that maintain the conditions for life on Earth.”
 
 ![](http://environmentacademy.org/asset-v1:UNEP+ENV001+2020+type@asset+block/2212a.jpg "Ecosystem Services")
@@ -193,18 +189,22 @@
 - Ecosystems have different functions, many of which **benefit humans**
 	- **These functions include:** trees absorbing carbon and releasing oxygen, coral reefs and mangroves protecting coastal areas from waves, fish harvested from rivers as food, pollination by bees and other insects
 
-## The Adaptive Cycle
+> Well-Being ~ "A state of being with others and the natural env’t that arises when human needs are met, act to pursue goals and satisfied with their way of life"
+
+- **"Well-being"** refers to **human well-being**, as the prosperity and health of an ecosystem directly effects the quality of life and wellbeing of the people who inhabit it, related to the concept of **function** and how a system benefits humans; **Maintain healthy and stable ecosystems is in humanity's best interest**
+
+# The Adaptive Cycle
 ![](http://environmentacademy.org/asset-v1:UNEP+ENV001+2020+type@asset+block/2322b.jpg "Adaptive Cycle")
 
 - The adaptive cycle describes the dynamics that occur at one level (geographical and temporal scale); These adaptive cycles oscillate between 2 major phases: 
-	1. **From exploitation (r) to conservation (k)**, during which capital accumulates and components of the ecosystem become more connected.
-		- **The fore loop**, which corresponds to the first phase in the previous depiction, is characterized by the accumulation of capital, by stability and conservation.
-	2. **From release (Ω) to reorganization (α)**, which is a phase of rapid reorganization also called creative destruction, during which “novel recombinations can unexpectedly seed experiments that lead to innovations in the next cycle”
-		- **The back loop**, which corresponds to the second phase in the previous depiction, is characterized by uncertainty, novelty, and experimentation **(creative destruction)**
+	1. **Fore-loop = From exploitation (r) to conservation (k)**, during which capital accumulates and components of the ecosystem become more connected.
+		- Corresponds to the **first phase** in the previous depiction, is characterized by the accumulation of capital, by stability and conservation.
+	2. **Back-loop = From release (Ω) to reorganization (α)**, which is a phase of rapid reorganization also called creative destruction, during which “novel recombinations can unexpectedly seed experiments that lead to innovations in the next cycle”
+		- Corresponds to the **second phase** in the previous depiction, is characterized by uncertainty, novelty, and experimentation **(creative destruction)**
 	- These two phases serve two different purposes: The first maximizes production and accumulation **(growth and stability)** while the second maximizes invention and re-assortment **(change and variety)**. The two cannot take place simultaneously, but rather take place **sequentially**
 
-### Panarchies
-- The adaptive cycles occur at one single level geographically and temporally, several such embedded adaptive cycles make up a **panarchy**
+## Panarchies
+- The adaptive cycle occurs at one single level geographically and temporally, several such embedded adaptive cycles make up a **panarchy**
 
 ![](https://www.resalliance.org/files/key-concepts/Panarchy.jpg "Panarchy")
 
@@ -212,12 +212,22 @@
 	- **Revolt** = Takes place when a smaller adaptive cycle is in its creative destruction phase, and this cascades to the next level up
 	- **Remember** = Takes place if a catastrophe happens at a smaller level, and the renewal is highly influenced by the K (conservation) phase of the next slower and larger level
 
-## Ecosystem Management
-- **The 4 key elements of the ecosystem approach to management:**
-	1. It is based on the objectives and demands that stakeholders living in the land/sea scape have
-	2. It must take into consideration the characteristics of the ecosystem itself
-	3. It involves certain processes such as negotiating between different values, making trade-offs, seeking the best outcomes, etc.
-	4. It is results based, and those results must be measurable
+> "In a period of Revolt, a disturbance occurs whose every step triggers a cascade of events that move the disturbance to a larger and slower level in the social-ecological system. This period is marked by social learning and institutional innovation. Remember is a cross-scale connection important in times of change, renewal, and reorganization. It is associated with social memory, knowledge-system integration, and visioning"
+
+- Revolt is a **fast reaction to a disturbance**, Remember is a larger **recollection of accumulated experience** and preparation for the future
+	- The **smaller, faster, nested levels invent and experiment**, while the **larger, slower levels stabilize and conserve accumulated memory of system dynamics**
+	- The slower and larger levels set the conditions within which faster and slower ones function
+
+# The Ecosystem Approach
+> “A strategy for the integrated management of land, water and living resources that promotes conservation and sustainable use in an equitable way.”
+
+![](http://environmentacademy.org/asset-v1:UNEP+ENV001+2020+type@asset+block/2421.jpg "5 Steps of Ecosystem Approach")
+
+- **Common elements of the various ecological approaches:**
+	- Ecosystem boundaries defined by biophysical or ecological boundaries rather than political boundaries or administrative units
+	- Emphasis on systems thinking (vs. reductionist thinking); integration across spatial and temporal scales
+	- Cumulative view of impacts over time; sustainability = resilience promoted through adaptive management and governance
+	- Integrates the "human dimension" **(Module 3)**
 
 - **The 12 principles of the ecosystem approach:**
 	1. The objectives of management of land, water and living resources are a matter of societal choices
@@ -236,4 +246,11 @@
 	11. The ecosystem approach should consider all forms of relevant information, including scientific and indigenous and local knowledge, innovations and practices
 	12. The ecosystem approach should involve all relevant sectors of society and scientific disciplines
 
-![](http://environmentacademy.org/asset-v1:UNEP+ENV001+2020+type@asset+block/2421.jpg "5 Steps of Ecosystem Approach")
+## "Command & Control" Management
+- Innefective and outdated style of management, relying on **"controlling variables"** in the pursuit of **static stability** as apposed to the much more realistic and healthy **dynamic stability**
+- Example of problematic **"top down"** management
+
+- **Examples of problems arising from C&C management include:**
+		- Unsustainable agricultural monocultures
+		- The straightening of rivers
+		- The collapse of fisheries

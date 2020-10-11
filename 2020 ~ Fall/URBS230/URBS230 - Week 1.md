@@ -1,6 +1,4 @@
-# URBS230 - Week 1
-
-# Introduction
+# URBS230 - Week 1: Introduction to Urbanization
 
 ## Questions Regarding the Study of Urbanization
 - Whats the difference between a city and a town/village?
@@ -119,9 +117,7 @@
 - While cities are the characteristic focus of urbanism, **the urban mode of life is not confined to cities**
 	- Sociological definition of a city: "A city is a relatively large, dense, and permanent settlement of heterogeneous individuals", **the reading explores the concept of urbanism and its relationship with metropolitan modes of living to come to lay the foundation to arrive at this conclusion.**
 
-## Key Questions
-
-### How does Wirth define the city?
+## MAIN QUESTION: How does Wirth define the city?
 > 8: "For sociological purposes a city may be defined as a relatively large, dense, and permanent settlement of heterogeneous individuals."; **Heterogeneous refers the ability to exist in cities "anonymously",** there is so many people in one place that no one knows each other and relationships between a settlement's inhabitants as a whole becomes impossible
 
 - City is not the same as urban, urbanism is a **"way of life"**
@@ -138,7 +134,7 @@
 
 - **"Impact of the industrial revolution"** on growth of cities and shift to urban society
 
-### Other Questions
+## Other Key Questions
 - Why are numbers, size, and density problematic criteria for measuring urbanism? How does it create arbitrary boundaries for what is and isn't a city?
 
 - How and why does urbanism exist outside urban centers like cities? why is limiting the idea of urban areas to cities inadequate and arbitrary in studying and explaining the influences of urbanism, why is urbanism not necessarily confined within settlements which are cities in the physical and demographic sense.

@@ -1,23 +1,6 @@
-# GEOG272 - Week 1
+# GEOG272 - Week 1: Essentials of Geography & Heliophysics
 
-# Introduction
-
-## Week 1 Topics
-- Basic concepts in geography
-- A systems approach
-- Examples of systems & attributes
-- The environmental spheres (earth's climate systems)
-- Solar system
-- Sun basics
-- Solar concepts
-- Electromagnetic radiation
-- Energy / Earth-sun relations
-- Earth basics
-- The geographic grid
-- Latitude zones
-- The seasons
-
-## What is Geography?
+# What is Geography?
 - Study of **spacial variation**
 	- How/why things differ from one place to another
 	- How/why particular patterns develop over time
@@ -69,12 +52,12 @@
 	- **Most natural systems are open in terms of energy**
 - **In terms of matter**, the earth is a closed system as no substantial amounts of matter add or subtract itself from the system of earth (with the exception of the output of atmospheric gases into space, and the input of meteors and cosmic dust
 
-#### Examples of Sub-Systems within the Earth
-- River systems
-- Coastal systems
-- Oceanic systems
-- Atmospheric systems
-- Ecosystems
+- **Examples of sub-Systems within the Earth:**
+	- River systems
+	- Coastal systems
+	- Oceanic systems
+	- Atmospheric systems
+	- Ecosystems
 
 ## System Feedback
 - As a system operates it generates outputs that influence its own later outputs, "information" is reintroduced back into the system through various pathways creating a **feedback loop** of endless influence
@@ -108,8 +91,8 @@
 # Environmental Spheres
 - Understanding the earth through **"Environmental Spheres":**
 	- Biosphere
-	- Atmosphere
-	- Hydrosphere
+	- **Atmosphere**
+	- **Hydrosphere**
 	- Lithosphere
 	- ALSO IMPORTANT: **Cryosphere**
 
