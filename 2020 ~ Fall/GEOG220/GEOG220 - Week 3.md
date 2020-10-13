@@ -1,4 +1,4 @@
-# GEOG220 - Week 3: The Evolution of Human Geography Part 2 - Middle Ages to Present
+# GEOG220 - Week 3: The Evolution of Human Geography Part 2
 - **Previous course content summarized:**
 	1. Almost all early people had an applied knowledge of geography
 	2. Groups such as the Ancient Greeks were able to build on this knowledge with **(a) topographic description,** and **(b) mathematical or astronomic observation of their world**

@@ -1,5 +1,4 @@
-# GEOG220 - Week 1+2: The Evolution of Human Geography Part 1 - Indigenous & Greek Knowledge
-
+# GEOG220 - Week 1+2: The Evolution of Human Geography Part 1
 # Beginnings of Geography
 - Basic points of the class:
 	1. All **early/indigenous peoples** must have been geographers
