@@ -15,7 +15,7 @@
 	- **Ptolemy** (87-150 AD), concluded that the task of geography was to describe the Earth as a whole. He differentiated between **geography (study of universals)** and **topography (study of localities)** and defined chorography as integrating the two
 
 - Geography suffered in feudal Europe due to the dominance of theology, exploration was rare (except for Marco Polo's travels to China), prominence of highly inaccurate **"T-O maps"**
-- Despite a lack of progress in Europe, Geography prospered during the height of the **Arab Empire** from the **7th century to the 12th century** as intellectual progress in mathematics, astronomy, and medicine skyrocketed during this period
+- Despite a lack of progress in Europe, Geography prospered during the height of the **Arab Empire** from the **7th 
 	- The Arabs traded extensively with India
 
 - **Prominent Arab adventurers:**
