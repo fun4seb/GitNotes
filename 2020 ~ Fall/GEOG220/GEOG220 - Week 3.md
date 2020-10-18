@@ -174,7 +174,7 @@
 
 # The "Regional" Approach
 - Arises as a solution to the problems and weaknesses of environmental determinism, **puts emphasis on regional description**
-	- Argues that the ideal object for geographical study was the **region**
+	- Argues that the ideal object for gthe opportunity for contacteographical study was the **region**
 
 - **Key figures:**
 	- **Carl OrtwinSauer** (American geographer)
