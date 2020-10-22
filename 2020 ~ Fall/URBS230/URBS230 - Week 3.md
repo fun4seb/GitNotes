@@ -60,11 +60,13 @@
 	- Spacial fix (expanding to new territory)
 	- **M > M'** (credit money, bidding up asset prices; **turning money directly into more money**)
 		- Second circuit of capital accumulation
-	- "Accumulation by dispossession"
+	- Harvey: **"Accumulation by dispossession"** = accumulation of capital through policies that result in a centralization of wealth and power in the hands of a few by **dispossessing** the public and private entities of their wealth or land; **the way capitalism uses force and theft to rob the world of value**
 		- Enclosure of the commons
 		- Privatization
 		- Commodification
 	- Devaluation
+
+> Harvey describes three phases in of the circulatory process of capital. The first, primary circuit of capital, relates to the production process. This capital is created by increasing output and using machine and workers to make product. Excessive competition forces capitalists to make as much as they can which leads to the exploitation of workers. However, when too much is produced, capitalists need to do something with excess capital so as not make profits fall when supply and demand become unequalized. So they simply reinvest into the secondary circuit of capital, or the built environment. The secondary circuit of capital relates to consumption, where overaccumulated capital not used up in the production process, is invested into fixed assets, such as houses, durables, and machinery, hence the term the built environment.
 
 # Harvey: Paris 1850-1870
 - Harvey's text continues Engels' story of the industrial revolution
