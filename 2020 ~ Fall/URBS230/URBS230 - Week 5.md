@@ -60,7 +60,8 @@
 		- **Local governments** who actively promote suburbanization through zoning and taxation policy
 		- **State and Federal governments** who promote suburbanization through subsidization of suburbs and policies such as redlining
 
-- Concept of housing as a product with both **use** and **exchange**; The **usefulness of a commodity** versus the exchange value by which the commodity can be exchanged for other objects on the market
+- Housing is a product with both **use** and **exchange** value; The exchange value of a commodity is the **money value on the market**, The use value is the **qualitative value to the user**
+	- Ex: The **exchange value** of my coat id $100, while the **use value** is that it keeps me warm in winter
 
 ## Spatial Differentiation
 - Historical development of the US city
