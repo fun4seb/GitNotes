@@ -11,7 +11,7 @@
 
 - "Self organized systems governed by feedbacks"
 
-- **7 principles for building resiliance:**
+- **7 principles for building resilience:**
 	1. Maintain diversity and redundancy in systems
 	2. Manage the connectivity of systems
 	3. Manage slow variables and feedbacks
@@ -62,7 +62,7 @@
 - Governance can be expressed and formalized “through subtle norms of interactions or even more indirectly through influencing agendas and shaping contexts in which actors contest decisions and access resources”
 
 - **The UNDP describe "good governance" as having the following characteristics:**
-	- **Participation:** all demographics should be represented in decision making, either directly or through institutions that support their interests
+	- **Participation:** All demographics should be represented in decision making, either directly or through institutions that support their interests
 	- **Transparency:** Free flow of information; processes, institutions, and information are directly accessible to those concerned with them
 	- **Accountability:** Decision makers are accountable to the public and institution stakeholders
 	- **Effectiveness & efficiency:** Processes and institutions produce results while making the best use of resources
@@ -96,3 +96,47 @@
 - Learning can occur at multiple levels and knowledge about complex adaptive ecosystems often emerges over decades through peoples’ institutions and organizations. Different learning cycles have been referred to as multiple **“loop learning”**
 
 ![](https://oxfordre.com/doc/10.1093/acrefore/9780199389414.001.0001/acrefore-9780199389414-e-657-graphic-002-full.gif "Loop Learning")
+
+## Global Environmental Governance
+- Effective environmental governance requires **matching the scale of governance to the scale of the environmental problem**, what we referred to as the **problem of fit**
+	- More and more environmental issues require coordination at the global scale as the world becomes increasingly connected through globalization and as our understanding of cross-scale interactions in social-ecological systems deepens (i.e. as we better understand social-ecological **panarchy**)
+
+## Importance of Participation in Governance
+- Participation is both a principle for **good governance** and a key feature of **adaptive governance**
+- The involvement of stakeholders is crucial to the success of initiatives tackling wicked problems, this is because managing trade-offs between social and environmental objectives is a political affair; **participation is essential for legitimacy and effectiveness**
+
+- **Various levels of participation:**
+	1. **Informing:** Community is informed about decisions being made
+	2. **Consultation:** Face to face contact; community input is heard but not necessarily heeded
+	3. **Co-operation:** Community has an input into management (Ex: use of local knowledge, research assistances)
+	4. **Communication:** Two-way information exchange; local concerns begin to enter management plans
+	5. **Advisory committees:** Partnership in decision making start; joint action or common objectives
+	6. **Management boards:** Community is given opportunity to participate in developing and implementing management plans
+	7. **Partnership/community control:** Partnership of equals, joint decision making institutionalized; power delegated to community where feasible
+
+- **Arguments for involving actors in management and governance decisions:**
+	- Building capacity
+	- Better outcomes
+	- Easier and less costly enforcement
+	- Improved cooperation
+	- Benefits of local/traditional knowledge
+	- Assisting sustainability
+	- Accelerating change
+
+## Requirements and Challenges for Effective Participation
+- Participatory methods require a high initial investment in time, training and funds as they are more complex than **hierarchical modes of communication**
+
+- **Actors should also be included in all steps:** setting goals, identifying solutions and alternatives, implementation, monitoring and evaluation; Increasing the number of participants can make reaching consensus more difficult.
+
+- Special attention must be paid to ensure **equitable access of actors** to the problem-solving process
+	- Lower income stakeholders may not have the time and/or money to participate due to transportation costs
+	- Gender roles can make it more difficult for women to access the process (e.g. if they need to stay home to take care of children)
+
+- The **communication skills/literacy** of stakeholders may limit participation
+	- Communication among groups with different communication skills can lead to participatory manipulation where groups with better communication skills and of perceived higher social status can dominate
+
+- **Cultural worldviews** often influence the conceptual perspective through which complex adaptive systems are approached by different types of knowledge (e.g. ecosystems theory, lay expertise, non-western societies). This can make it difficult to reach an agreement as to what the problem is
+
+- **Power dynamics** must be addressed to ensure all voices are heard in the participatory process
+	- Whoever gets to determine the relevant actors to be included in the process will reflect the power relations (which reinforces the need for transparency)
+	- Power also affects the **valuation of different/competing perspectives** and **types of knowledge** that are deemed relevant
