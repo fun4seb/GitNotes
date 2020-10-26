@@ -1,6 +1,6 @@
 # GEOG298 - Week 4: Module 4 (Biodiversity)
 
-# What is Biodiversity?
+# Types of Biodiversity
 > Biodiversity ~ The variety of lifeforms found in a given region (ecosystem, nation, continent, etc.)
 
 - **Biodiversity is discussed in terms of 3 levels:**
@@ -41,7 +41,7 @@
 ## Ecosystem Diversity
 > Ecosystem Diversity ~ variety of different ecosystems existing in an area
 
-- Ecosystem diversity, like genetic diversity, also provides for species diversity; The more different ecosystems there are, the more different habitat types, leading to a greater variety of species
+- Ecosystem diversity, like genetic diversity, also provides for species diversity; **The more different ecosystems there are, the more different habitat types, leading to a greater variety of species**
 
 ### Ecosystem Services
 - **Provisioning** (food, construction material, medicinal resources, artistic material, etc.)
@@ -49,4 +49,10 @@
 - **Cultural** (recreation, tourism, cultural identity, spiritual functions, science and education, etc.)
 - **Supporting** (nutrient cycling, primary productivity, etc.)
 
-# Biodiversity & Human Well-Being
+### Biodiversity & Human Well-Being
+- **Biodiversity is linked to all three dimensions of human well-being:**
+	- **Material:** people use the **material components** of biodiversity to meet needs in terms of income, food, physical health
+	- **Relational:** biodiversity provides **opportunities for social interaction** and the relationships involved in the general and maintenance of cultural identities
+	- **Subjective:** the biodiversity of an area is often linked to a place's **cultural identity**; **cultural keystone species**
+
+# System Stability and Resilience
