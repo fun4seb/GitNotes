@@ -50,7 +50,7 @@
 - **Supporting** (nutrient cycling, primary productivity, etc.)
 
 ### Biodiversity & Human Well-Being
-- **Biodiversity is linked to all three dimensions of human well-being:**
+- Biodiversity is linked to the **three dimensions** of **human well-being:**
 	- **Material:** people use the **material components** of biodiversity to meet needs in terms of income, food, physical health
 	- **Relational:** biodiversity provides **opportunities for social interaction** and the relationships involved in the general and maintenance of cultural identities
 	- **Subjective:** the biodiversity of an area is often linked to a place's **cultural identity**; **cultural keystone species**
