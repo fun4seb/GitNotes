@@ -178,13 +178,11 @@
 
 ![](http://environmentacademy.org/asset-v1:UNEP+ENV001+2020+type@asset+block/2212a.jpg "Ecosystem Services")
 
-> Supporting Services ~ Services necessary for the production of all other ecosystem services
-
-> Provisioning Services ~ Products obtained from ecosystems
-
-> Regulating Services ~ Benefits obtained from regulation of ecosystem processes
-
-> Cultural Services ~ Non-material benefits obtained from ecosystems
+- **Ecosystem services:**
+	- **Supporting Services** = Services necessary for the production of all other ecosystem services
+	- **Provisioning Services** = Products obtained from ecosystems
+	- **Regulating Services** = Benefits obtained from regulation of ecosystem processes
+	- **Cultural Services** = Non-material benefits obtained from ecosystems
 
 - Ecosystems have different functions, many of which **benefit humans**
 	- **These functions include:** trees absorbing carbon and releasing oxygen, coral reefs and mangroves protecting coastal areas from waves, fish harvested from rivers as food, pollination by bees and other insects

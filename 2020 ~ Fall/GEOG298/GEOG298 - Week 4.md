@@ -114,7 +114,7 @@
 > If organisms move between patches of habitat, the number of roads, for example, between the patches may have a very negative effect on animal survival and thus population sizes. Thus, the degree to which animals can travel from one protected area to another, or the degree of connectivity between protected areas may also be crucial to the effectiveness of these areas in conserving biodiversity, especially when it comes to large keystone species in need of extensive ranges for hunting and mating practices.
 
 # The Role of the CBD
-> The United Nations Convention on Biological Diversity (CBD) recognizes and attempts to address the importance of including local and indigenous people in the biodiversity conservation process. The CBD is a multilateral treaty aimed at conserving biodiversity worldwide
+> The United Nations' Convention on Biological Diversity (CBD) recognizes and attempts to address the importance of including local and indigenous people in the biodiversity conservation process. The CBD is a multilateral treaty aimed at conserving biodiversity worldwide
 
 - - The CBD stresses the importance of **traditional knowledge**
 - Importance of **benefit-sharing**, which is the process of **sharing the profits of discoveries based in local or indigenous knowledge with the appropriate local or indigenous peoples**
