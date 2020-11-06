@@ -1,4 +1,5 @@
 # GEOG272 - Midterm Notes
+> Rough last minute notes for the midterm
 
 - **The geographic grid:** a system of geometrical coordinates used in designating the location of places on the surface of the earth
 	- Latitude and longitude; latitude is more important as conditions change radically depending on the latitude being observed; two places with different longitudes are extremely similar in climate as the distance from the equator is equal however two places with different latitude can have vastly different climates
