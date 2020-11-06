@@ -141,6 +141,8 @@
 		- Sun exposure is an example of a **diurnal cycle**, earths rotation around the sun is a **annual cycle**
 	- **Solar constant** = total solar irradiance; amount of solar radiation received by earth at an altitude of 480 km within the earth's **thermopause** (outer boundary of earth's energy system)
 
+- 29% of insolation is reflected, 23% is absorbed in the atmosphere, and 48% is absorbed at the surface
+
 > Diurnal Cycle ~ Any pattern that recurs every 24 hours as a result of one full rotation of the earth
 
 > Annual Cycle ~ Any pattern that recurs every years as a result of one full rotation of the earth around the sun
