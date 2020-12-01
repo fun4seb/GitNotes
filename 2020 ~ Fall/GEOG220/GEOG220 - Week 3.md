@@ -50,7 +50,7 @@
 - Xuanzang decided that a **trip to the source of the knowledge** was the only way to find out, his maps show the lengths he went to achieve this goal
 - So we should see his travels as an example of **cultural diffusion** of religion and related artifacts
 
-> Cultural Diffusion ~ T he spread of one culture's practices, beliefs, and/or items, like food, music, or tools from one group to another.
+> Cultural Diffusion ~ The spread of one culture's practices, beliefs, and/or items, like food, music, or tools from one group to another.
 
 - **Xuangzang's travels in brief:**
 	1. 629 AD Xuanzang **travels to India** along the northern edges of the Taklamakan Desert
