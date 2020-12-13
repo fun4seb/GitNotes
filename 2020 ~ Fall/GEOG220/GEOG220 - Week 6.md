@@ -80,7 +80,7 @@
 
 > Post-Colonialism ~ A set of artistic and political approaches that examine the consequences of the end of colonialism
 
-- **Subaltern Theory** = a theory that examines the ways the colonized margin is culturally dominated by the colonizing center
+- **Subaltern Theory** = a theory that examines the ways the colonized margin is culturally dominated by the colonizing center (The colonized are culturally dominated by the colonizer)
 	- Most important way is through the continued use of the **language of the colonizer** (English, France, Spanish, etc.)
 	- Another way is through **ideas** (Ex: Edward Said's book Orientalism outlines how the west created its own vision of the "Orient" and then **imposed that vision/idea** on the Asian lands it dominated, created many of the Asian stereotypes known today)
 	- The solution is to **examine the center from the periphery**, in the periphery's own terms
