@@ -114,7 +114,7 @@
 	- Paul Vidal de la Blache (France)
 		- Says that human cultures and their physical regions shape each other
 
-- Regions can also be broken up into smaller **sub-regions** (Such as the Caribbean which share characteristics across all islands, however each individual island might have **regional qualities that distinguish themselves culturally or geographically from other islands/regions**)
+- Regions can also be broken up into smaller **sub-regions** (Such as the Caribbean which share characteristics across all islands, however each individual island might have **regional qualities that distinguish themselves cul`turally or geographically from other islands/regions**)
 
 # Landscape
 - Landscape is a **comprehensive product of human action** such that every landscape is a complex repository of society; **humans shape landscapes**
