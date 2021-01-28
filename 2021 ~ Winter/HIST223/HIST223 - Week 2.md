@@ -1,10 +1,13 @@
 # HIST223 - Week 2: Geography and Chronology
 
-# Lecture Notes
+# Lecture Notes: Geography
 
-## Geography
+## Where is Greece?
+- "Greece" means different things at different times; **historically changing borders**
+- Greece has gained different other territories at different times:
+	
 
-## Chronology
+# Lecture Notes: Chronology
 
 # Reading Notes: Parker Ch. 1
 
