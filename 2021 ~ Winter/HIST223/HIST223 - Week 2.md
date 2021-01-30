@@ -215,6 +215,7 @@
 	- Home of **obsidian**; obsidian is important for tools and also because it leaves a chemical signature allowing us to find out where tools originally came from. Many obsidian tools recovered on the mainland were found to have originated from the island of Melos (meaning there must have been some contact)
 
 # Lecture Notes: Neolithic [7000-3200 BCE]
+- Neolithic = emergence of **farming** (wheat)
 
 ## Greek Stone Age
 - Lower Paleolithic - 500,00 to 250,000 BCE
@@ -223,10 +224,87 @@
 - Epipaleolithic - 12,000 to 7,000 BCE
 - Mesolithic - 8,700 to 7,000 BCE
 - **Pre-ceramic Neolithic - 7,000 to 6,500 BCE**
+	- Transition from hunter-gatherer to sedentary societies
+	- Neolithic revolution: Farming bring a surplus, leading to free time and the division of labor which also leads to Social differentiation; a lot of new developments in the Neolithic period
 - **Early Neolithic - 6,500 to 5,800 BCE**
 - **Middle Neolithic - 5,800 to 5,300 BCE**
 - **Late Neolithic - 5,300 to  4,500 BCE**
 - **Final Neolithic - 4,500 to 3,200 BCE**
+
+- Neolithic begins in Greece slightly later than in the Middle East
+	- People in the Middle East who are migrating to Greece bring their technology and knowledge with them; reason for why there is a delay in advancements reaching Greece
+- Main crop of **wheat** which starts in the **fertile crescent** and spreads to the Mediterranean
+
+- **In general the Neolithic period sees:** further sophistication of tools, increased trade contacts, emergence farming and agricultural revolution to support permanent settlements, food surplus creates valuable leisure time metal use, emergence of pottery and art, development of burial practices
+
+## Neolithic Revolution
+- **Agricultural revolution (and agricultural surpluses)**
+	- People begin taking control of the food supply, first through the cultivation of wild plants, then through planting their own plants and achieving increasingly greater yields to create a **surplus**; creation of farms and stockpiles of food which can be saved and relied upon to eat without work **leading to free time and a rapid advancement of technology**
+	- An **Agricultural surplus** (stockpile) is extremely important to developing humans because it allows them to stop spending all their time producing food and instead focus on other tasks like advancing as a society
+	- Surplus of food also always leads to **increase in population**
+- Domestication of animals
+	- Important for the production of products other than food such as wool
+- Permanent settlements
+- **Leisure time**
+	- Once leisure time is achieved through having a stockpile of food to rely on, technology and ideas start to develop much faster; **once humans have free time, they can spend it investing in themselves**
+- Secondary products revolution
+- Specialization of labor
+	- Specialization leads to a more complex, advanced society
+	- Specialization of labor -> **civilization**
+- Pottery
+- Social Hierarchy (stratification)
+	- Diversification of labor leads to the inhearent emergence of a power structure to govern it and leads to social **classes** 
+
+## Town of Sesko & Dimini
+- **Town of Sesko** features a cluster of many small houses surrounding one **big house**, which walls radiate out from
+	- It is unclear whether the big house is a communal space or the space of a leader
+	- Walls may have been defensive however were quite low so may have also been to divide land ownership
+
+- **Town of Dimini** is similar in layout structure to Sesko
+	- Features walls that are also unclear if for defensive or demarcation
+	- Layout is centered around one **large house**, however it does not hold any nicer objects so it may also be a communal space
+
+- **Megaron** = the great hall of palace complexes
+	- Usually divided into three parts: a porch, anti-chamber, inner-chamber
+	- Megaron styles slowly develop until they resemble the standard Greek and roman palace architecture 
+
+## Neolithic Structures
+- Early Neolithic building = **wattle and daub hut**
+	- Wattle refers to weaving sticks together to create frameworks (fences, walls, roofs)
+	- Daub is a mud plaster to solidify everything creating walls
+
+- In the Middle Neolithic things are slightly more complex, possibly having multiple rooms for different purposes however are still rudimentary permanent homes made from surrounding materials
+
+## Pottery
+- Starting in the Early Neolithic pottery emerges, being used for dining however later more for **storage**
+- Pottery slowly becomes more advanced artistically and technologically (such as techniques to make pottery more heat resistant)
+
+- Pottery survives time extremely well and is why it is the most common form of artifact
+
+## Metal in Greece
+- Jewelry was often made out of metals like **copper**
+- Use of metal grows slowly over time and is dependent on long distance trade to obtain **tin** needed to start the **Bronze Age**
+
+## Burials
+- Inhumation/cremation:
+	- **Inhumation** refers to the practice of putting the dead in the ground
+	- **Cremation** refers to the practice of burning the dead and keeping the ashes
+
+- Extramural/intramural:
+	- **Extramural** refers to burying the dead beyond the settlement boundary (more common historically)
+	- **Intramural** refers to burying/keeping the dead within the settlement boundary (in the form of ashes or disarticulated bones)
+
+- Articulated/disarticulated:
+	- **Articulated** refers to a normal connected skeleton
+	- **Disarticulated** refers to deconstructed skeleton remains; "jumble of bones"
+
+- Sometimes bodies might be buried **twice**, first for the bodies to decompose and then again for the bones to be relocated
+
+- The construction of **tombs** for the dead started on the island of **Keos** at the site of **Kephala** and quickly the practice of housing the dead in tombs spread throughout the cycladic islands
+
+## Art
+- Where other parts of Europe experienced this development before, Greece now sees the creation of art happening in the Neolithic period
+- Art in the form of **figurines**
 
 # Reading Notes: Parker Ch. 1
 

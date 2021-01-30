@@ -1,5 +1,5 @@
 # HIST223 - Week 1: Course Introduction
-- History vs. Prehistory
+- **History vs. Prehistory**
 	- History = time of writing
 	- Prehistory = time before writing
 
