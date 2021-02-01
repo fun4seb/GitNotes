@@ -3,6 +3,7 @@
 
 # Lecture Notes
 
+
 # Reading Notes: Making Maps Chapter 2 (What's Your Map For?)
 - **Do you really need a map?**
 	- Sometimes maps are inappropriate; sometimes information does not want to be mapped by certain parties (Ex: Indigenous groups) and there might be more effective ways of making your point such as with a graph, drawing, photo, etc.
