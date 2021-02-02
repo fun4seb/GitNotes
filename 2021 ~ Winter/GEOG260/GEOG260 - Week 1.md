@@ -18,6 +18,7 @@
 
 - **Document, Evaluate, Review**
 	- Be constantly critical of your map during its creations, continually evaluate if it is servings its desired purpose
+    -  
 
 # Reading Notes: Perusall
 
