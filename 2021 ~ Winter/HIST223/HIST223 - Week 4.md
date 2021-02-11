@@ -6,7 +6,7 @@
 # Lecture Notes: End of the Bronze Age [c. 1200-1100 BCE]
 # Lecture Notes: Early Iron Age [c. 1100-750 BCE]
 
-# Reading Notes: Parker ch. 2 (The Mycenaean Age)
+# Reading Notes: Parker Ch. 2 (The Mycenaean Age)
 - **Chronological Divisions of the Bronze Age in the Aegean:**
     - **3000–1900 BCE = Early Bronze Age**
         - In mainland Greece: Early Helladic
@@ -58,7 +58,7 @@
 
 ### From the Mycenaeans to the Later Greeks
 
-# Reading Notes: Parker ch. 3 (The End of the Bronze Age and the Great Migrations)
+# Reading Notes: Parker Ch. 3 (The End of the Bronze Age and the Great Migrations)
 - **WILL BE READING QUIZ**
 
 ## The Downfall of the Mycenaean Kingdoms
@@ -96,12 +96,12 @@
 
 - Two of the most important Dorian cities on the Peloponnese were Corinth and Sparta
     - Both are new, post-Mycenaean foundations; and both were founded in the second half of the tenth century BC. This suggests that some Dorians, at least in the period 950–900 BC, were settling the areas in which they would thereafter live
-    - 
+
 ## Migrations Eastward across the Aegean
 
 ## Conclusion
 
-# Reading Notes: Parker ch. 4 (Greece in the Later “Dark Age”)
-- **WILL BE READING QUIZ**
-
-## Evidence and Methodology
+# Reading Notes: Parker Ch. 4 (Greece in the Later “Dark Age”)
+- **Polis vs. Ethnos**
+    - Polis = city-states
+    - Ethnos = tribe-states

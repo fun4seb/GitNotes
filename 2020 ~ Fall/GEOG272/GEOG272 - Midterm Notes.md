@@ -67,7 +67,7 @@
 	- hydrogen bonding allows water and ice molecules to attract each other to form a liquid or solid, otherwise water would be a gas at normal surface temperatures; keeps clouds together
 
 - dominant cooling process in earth's energy budget is the **latent heat of evaporation**
-- at **20 degrees C** every gram of water that evaporates from a surface must absorb **~585 calories** (Ex: cooling of skin when wet)
+- at **20° C** every gram of water that evaporates from a surface must absorb **~585 calories** (Ex: cooling of skin when wet)
 
 - relative humidity = actual water vapor in air / max water vapor possible in the air at that temperature X 100
 	- 50% humidity therefor means that air can hold 50% more water vapor before it reaches its **maximum levels of vapor saturations**

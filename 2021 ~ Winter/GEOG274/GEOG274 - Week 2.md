@@ -1,15 +1,13 @@
 # GEOG274 - Week 2: Earth internal structure, energy, and tectonics
-
-# Lecture Notes
 - Earth's internal structure and energy: refers to the **endogenic system** (internal)
     - Energy source: heat from pressure (gravity) and radioactive decay
 
-## Earth History & Origin
+# Earth History & Origin
 - The solar system (including Earth) is ~4.6 billion years old
 - **Holocene** (present epoch) started ~11,500 years ago
 - **Anthropocene** (time of human dominance) started ~250 years ago
 
-## Our Galaxy
+# Our Galaxy
 - The Sun is located about halfway between the center and periphery of the galaxy
 - The galaxy is a **rotating** **disc** with a **bulge** at the center
 
@@ -21,7 +19,7 @@
     - After the repeated collision of particles, bigger particles called **planetesimals** form which grow bigger until planets form
     - As a planet forms the surface is in a liquid state due to the temperature however as the planet cools, gravity sorts the materials by density creating layers of rock
 
-## Earth's Internal Structure
+# Earth's Internal Structure
 - **Earth's interior** = core, mantle, crust
     - Core: (1200+2200) km, 10-13.5 g/cm; separated by Bullen
     - Mantle: (~2900) km, 4-4.5 g/cm; separated by Gutenberg
@@ -31,7 +29,7 @@
     - Each **discontinuity** (boundary between layers) is marked with a notable jump in density over very little space
     - Ex: **Core-Mantle-Boundary (CMB)** which separates the core and the mantle features a huge increase in density moving from the inner mantle to the outer core
 
-### Core
+## Core
 - The core makes up 15% of the Earth's volume and 33% of its total mass (made of iron and some nickel)
 
 - Divided between an **inner core** and an **outer core**, which are both separated by the **Bullen discontinuity**
@@ -40,7 +38,7 @@
     - Outer core = **liquid molten iron**; 2200 km thick, density of 10 g/cm
         - The fluid inner core **generates 90% of the Earth's magnetic field** because it is made of liquid molten metallic iron (thermal and gravitational energy is transformed into a magnetic field)
 
-### Mantle
+## Mantle
 - The mantle is a layer of hot, but mostly **solid** material that makes up 84% of Earth's total volume
     - Composed of **iron, magnesium, silicates (silicon dioxide)**; this is where most of the world's oxygen is, trapped in silicon dioxide
 - Separated from the core by the **Gutenberg discontinuity**
@@ -59,7 +57,7 @@
     - **Asthenosphere** = a plastic-like layer (will slowly flow when a force is present) between the upper mantle and the uppermost mantle
     - **Lithosphere** = a rigid layer (will not flow when a force acts on it; instead will bend or break) which consists of the crust and the uppermost mantle
 
-### Crust
+## Crust
 - Outermost shell of the planet, making up 1% of the Earth's volume
 - The uppermost mantle and the crust above is separated by a boundary called the **Mohorovicic discontinuity**
 
@@ -68,10 +66,10 @@
 
 - **Two layers of the crust:** Continental crust (older), lithosphere (newer)
 
-## Geomagnetism
+# Geomagnetism
 - The flowing of **liquid metal in the outer core** of the planet generates electric currents. The rotation of Earth on its axis causes these electric currents to form a magnetic field which extends around the planet.
 - **Geomagnetic reversal** = when the North and South polls switch
     - Occurs ~800,000 years on average; the last one was 790,000 years B.P. and the next one might be within ~1000 years
 
 - Magnetic poles **do not equal** geographic poles
-    - North magnetic pole is now 85 degrees N, 134 degrees W
+    - North magnetic pole is now 85° N, 134° W

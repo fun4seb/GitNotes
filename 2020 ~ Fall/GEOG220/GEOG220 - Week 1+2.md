@@ -54,7 +54,7 @@
 			- He produced one of the earliest "maps" of the known world
 		2. **Ptolemy (90-168 AD)**
 			-  **Utilized the ability to estimate latitude and longitude to calculate positions of places on a sphere the size Eratosthenes calculated**
-			- Ptolemy's "Atlas" of the known world is based off Eratosthenes calculations which assume a circular world of 360 degrees
+			- Ptolemy's "Atlas" of the known world is based off Eratosthenes calculations which assume a circular world of 360°
 
 # Eratosthenes and the Earth's Circumference
 - Eratosthenes worked at the library of Alexandria, and **started with the assumption the earth was a round sphere**
@@ -82,7 +82,7 @@
 
 - Eratosthenes made some small errors when measuring the longitude and latitude of his points, **these account for a 2% error in his overall calculations of the size of the earth**
 	1. Eratosthenes assumed Syene and Alexandria lie along the same meridian of longitude
-		- **Alexandria does not lie due north of Syene**, they have a difference in longitude of ~3 degrees, however the consequences of this assumption is small (0.14%)
+		- **Alexandria does not lie due north of Syene**, they have a difference in longitude of ~3°, however the consequences of this assumption is small (0.14%)
 	2. Eratosthenes made an error in measuring the latitude of Alexandria, thus the difference in latitudes between Alexandria and Syene were off
 	3. Surveyors who measured the distance between Alexandria and Syene would have followed the Nile (irregularly shaped), rather than a straight path and as a result would have most likely overestimated the distance; **Eratosthenes distance measurements were not reliable**
 
