@@ -1,4 +1,4 @@
-# GEOG274 - Week 1: Endogenic and Exogenic systems, geologic time scale, Anthropocene
+# GEOG274 - Week 1: Endogenic and Exogenic systems, Uniformitarianism, Anthropocene
 
 # A Systems Approach
 > Systems Theory ~ States that a system is any set of ordered, interrelated components and their attributes, linked by flows of energy and matter, as distinct from the surrounding environment outside the system

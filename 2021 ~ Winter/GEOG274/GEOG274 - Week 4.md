@@ -1,0 +1,1 @@
+# GEOG274 - Week 4: Volcanism & Earthquakes

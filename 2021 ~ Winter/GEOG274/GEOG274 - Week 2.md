@@ -1,4 +1,4 @@
-# GEOG274 - Week 2: Earth internal structure, energy, and tectonics
+# GEOG274 - Week 2: Earth internal structure, Energy, and Tectonics
 - Earth's internal structure and energy: refers to the **endogenic system** (internal)
     - Energy source: heat from pressure (gravity) and radioactive decay
 
@@ -44,10 +44,6 @@
 - Separated from the core by the **Gutenberg discontinuity**
 
 - Stratified by **density** (which is controlled by **temperature**)
-- Ductile
-- Heated by radioactive decay and core
-- Rocks in the warmer and **less dense** inner mantle rise upward where they cool and become rigid as their heat is transfered to the outer mantle
-    - As it cools, the density increases and the rocks begin to sink (convection currents)
 
 - Divided between a **lower mantle** and an **upper mantle**
     - Lower mantle density: ~4.5 g/cm
@@ -57,19 +53,30 @@
     - **Asthenosphere** = a plastic-like layer (will slowly flow when a force is present) between the upper mantle and the uppermost mantle
     - **Lithosphere** = a rigid layer (will not flow when a force acts on it; instead will bend or break) which consists of the crust and the uppermost mantle
 
+### Thermal Convection Currents
+- Heated by radioactive decay and core
+- Rocks in the warmer and **less dense** inner mantle rise upward where they cool and become rigid as their heat is transfered to the outer mantle
+    - As it cools, the density increases and the rocks begin to sink (convection currents)
+
+- **Mantle convection currents drive and carry plates**
+    - **Slab pull** = colder, older plates sink under other plates at subduction zones; the cooler sinking plate pulls the rest of the warmer plate
+    - **Ridge push** =
+
 ## Crust
 - Outermost shell of the planet, making up 1% of the Earth's volume
 - The uppermost mantle and the crust above is separated by a boundary called the **Mohorovicic discontinuity**
 
-- Continental crust is thick, old, and light; ~2.7 g/cm (**SIAl**; stands for dominant elements of **silica** and **aluminum**)
-- Oceanic crust is thin, young, and heavy; ~3 g/cm (**SiMa**; stand for dominant elements of **silica** and **magnesium**)
+- **Continental crust** = thick, old, and light; ~2.7 g/cm (**SIAl**; stands for dominant elements of **silica** and **aluminum**)
+- **Oceanic crust** = thin, young, and heavy; ~3 g/cm (**SiMa**; stand for dominant elements of **silica** and **magnesium**)
 
 - **Two layers of the crust:** Continental crust (older), lithosphere (newer)
+
+- Density **rises** the deeper you go into Earth (except where it reverses in parts of the mantle)
 
 # Geomagnetism
 - The flowing of **liquid metal in the outer core** of the planet generates electric currents. The rotation of Earth on its axis causes these electric currents to form a magnetic field which extends around the planet.
 - **Geomagnetic reversal** = when the North and South polls switch
     - Occurs ~800,000 years on average; the last one was 790,000 years B.P. and the next one might be within ~1000 years
 
-- Magnetic poles **do not equal** geographic poles
+- Magnetic poles **do not equal** geographic poles and may **shift over time**
     - North magnetic pole is now 85° N, 134° W
