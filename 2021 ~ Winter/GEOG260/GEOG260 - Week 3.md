@@ -91,17 +91,70 @@
 ## Generalization - Theoretical Frameworks
 - **Generalization** = removing un-relavent information and simplifying where needed
 
-- Graphical constraints
+- Generalization is a process of **selection** and **symbolization**; selection of relavent information to include and symbolization to reduce that information into efficiently readable symbols
+    - Map makers **always subtract** and **NEVER add**; maps should always be a simplification and representation of reality, adding things that do not exist in the real world is bad
 
-- **Selection** & **symbolization**
+- **Operators** = the things you can alter
+    - Content/feature
+    - Geometry
+    - Symbol
+    - Label
+- **Algorithms** = how we alter those operators; what decisions the map-maker is making
+    - Ex: Remove roads with speed limits <20 km/h, simplify coastlines, replace text with symbols, etc.
 
-- Operators & algorithms
-    - **Operators** = the things you can alter
-        - Content
-        - Geometry
-        - Symbol
-        - Label
-    - **Algorithms** = how we alter those operators; what decisions the map-maker is making
-        - Ex: Remove roads with speed limits <20 km/h, simplify coastlines, replace text with symbols, etc.
+- **Generalization is related to SCALE**; all decisions made while generalizing features on a map are to achieve usefulness and aesthetic readability at any specific scale
 
-- **Never add things to maps that aren't there in the real world; things can be removed and simplified but never added to**
+### Content/Feature Typologies
+- All about **SELECTION**
+    - Add/include
+    - Remove or eliminate
+    - Reclassify
+        - **Reclassifying down to a smaller size is what will be done in assignment 1**
+    - Reorder
+        - Merging multiple categories into one (Ex: reducing five different thicknesses of river down to two)
+
+### Geometry Typologies
+- All about **ALTERATION**
+    - Aggregate
+        - Combine possibly cluttered data-points together to improve readability
+    - Collapse
+    - Merge
+    - Displace
+    - Exaggerate
+    - Simplify
+        - Commonly used on coastlines
+    - Smooth
+
+### Symbol Typologies
+- All about the **MODIFICATION OF THE EXISTING**
+    - Adjust color/icon/pattern/shape/size/opacity
+    - Enhance
+    - Rotate
+    - Typify
+
+### Label Typologies
+- All about **IDENTIFICATION**
+    - Add/remove label
+    - Adjust label appearance/location
+
+## Visual Variables
+- A **mark** is "something that is visible and can be used to show relationships within sets of data"
+- **Visual variables** are "the different ways that mark can be varied"
+
+- Every **symbol** has two parts:
+    1. Conceptual (what we think it is)
+    2. Physical (what it actually is)
+
+- a **graphic mark** is made up of code & convention
+    - Denotation = most common **objective** meaning of a word/sign; what you see
+    - Connotation = most common **subjective** meaning of a word/sign; what you think when you see it
+
+### Semiology of Graphics
+- **Semiology:**
+    - Study of particular languages
+    - Ferdinand de Saussure (1875-1973)
+    - Dyadic (two) relation: sign, signifier, signified = meaning
+- **Semiotic:**
+    - Canonic approach of the philosophy of languages
+    - Charles Sanders Peirce (1839-1914)
+    - Triadic (three) relation: sign, signifier, signified, interpreter = meaning

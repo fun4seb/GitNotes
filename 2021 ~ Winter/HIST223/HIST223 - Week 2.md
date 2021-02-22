@@ -17,8 +17,8 @@
 - Later periods become defined based off of specific known datable historic events, gives clear points at which to distinguish them; no longer approximations
 
 ## Relative vs. Absolute Chronology
-- Relative chronology -> **qualitative** descriptors; uses a sequence of events/ages to develop a chronology (more vague)
-- Absolute chronology -> **quantitative** descriptors; uses exact numbers and dates (no vagueness)
+- Relative chronology = **qualitative** descriptors; uses a sequence of events/ages to develop a chronology (more vague)
+- Absolute chronology = **quantitative** descriptors; uses exact numbers and dates (no vagueness)
 	- Absolute chronologies may be more **precise** but they are not necessarily more **accurate**
 
 - Ex: a chart of the list of Greek ages in a sequence are **relative chronology** while the exact dates to each age that accompanies the list is the **absolute chronology**
@@ -99,7 +99,7 @@
 - **Mesolithic**
 	- Much of the same as previous
 - **Neolithic**
-	- More of the same; in general some activity on mainland and a little spreading around the islands
+	- More of the same, in general some activity on mainland and a little spreading around the islands; neolithic revolution takes place
 - **Early Bronze Age**
 	- **3 regions develop:** **Cycladic region** (Cyclades islands), **Minoan region** (around Crete), and **Helladic region** (Greek Mainland)
 	- Also a little activity in the **"Trojan-East Aegean" region** (Asia Minor) however this is not considered part of Greece at the time
