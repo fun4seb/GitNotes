@@ -19,3 +19,8 @@
 - GEOG272 ~ Earth: Air & Water
 - GEOG298 ~ Selected Topics (UN MOOC Course: "Wicked Problems")
 - URBS230 ~ Urbanization: Global & Historical
+
+## 2021 ~ Winter Classes
+- GEOG260 ~ Mapping the Environment
+- GEOG272 ~ The Natural Environment: Land and Life
+- HIST223 ~ Greek History: Bronze Age-Alexander
