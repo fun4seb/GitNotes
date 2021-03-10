@@ -1,10 +1,10 @@
 # HIST223 - Week 4
 
-# Lecture Notes: The Mycenaeans [c. 1500-1200 BCE]
-# Lecture Notes: Linear B [c. 1200 BCE] 
+# Lecture Notes: The Mycenaeans [c. 1500-1200 BC]
+# Lecture Notes: Linear B [c. 1200 BC] 
 
-# Lecture Notes: End of the Bronze Age [c. 1200-1100 BCE]
-# Lecture Notes: Early Iron Age [c. 1100-750 BCE]
+# Lecture Notes: End of the Bronze Age [c. 1200-1100 BC]
+# Lecture Notes: Early Iron Age [c. 1100-750 BC]
 
 # Reading Notes: Parker Ch. 2 (The Mycenaean Age)
 - **Chronological Divisions of the Bronze Age in the Aegean:**

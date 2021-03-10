@@ -1,12 +1,12 @@
 # HIST223 - Week 5:
 
-# Lecture Notes: Colonization [800-480 BCE]
+# Lecture Notes: Colonization [800-480 BC]
 
-# Lecture Notes: Tyranny [800-480 BCE]
+# Lecture Notes: Tyranny [800-480 BC]
 
-# Lecture Notes: Archaic Sparta [800-480 BCE]
+# Lecture Notes: Archaic Sparta [800-480 BC]
 
-# Lecture Notes: Spartan Society [800-480 BCE]
+# Lecture Notes: Spartan Society [800-480 BC]
 
 # Reading Notes: Parker ch. 6
 

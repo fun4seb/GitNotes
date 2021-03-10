@@ -1,6 +1,6 @@
 # HIST223 - Week 3: Early Bronze Age
 
-# Lecture Notes: Early Cycladic/Early Minoan [3200-1900 BCE]
+# Lecture Notes: Early Cycladic/Early Minoan [3200-1900 BC]
 - **Cycladic** = Aegean Islands (cluster of islands North of Crete)
     - **Obsidian** originated on the island of **Melos**
     - Over time Greeks further explore and populate the islands and discover minerals such as silver, copper, and lead, and lots abundances of **marble**
@@ -56,14 +56,14 @@
         - Evidence from this period is found at the larger settlements at **Knossos, Myrtos, and Photostat** and **burials**
         - Burial rituals become more complex, featuring multi-room tombs, cave tombs, kinship group burial pits; indicates a growing respect for the dead/afterlife, and social differentiation (some tombs are more lavish than others)
 
-# Lecture Notes: Early Helladic [c. 3200-1900 BCE]
+# Lecture Notes: Early Helladic [c. 3200-1900 BC]
 - Knowledge of the early Helladic periods is based off of one site, **Lerna**
     - EHI: continuity with earlier Neolithic, mud-brick and stone architecture begins to be prevalent
     - EHII: new population moves into Lerna (and other places); new kinds of ceramics such as sauce-boats (similarities to Cycladic and Minoan material culture, evidence of trade relations), more metal production (notably copper)
 
-# Lecture Notes: Protopalatial/Neopalatial Crete [c. 1900-1500 BCE]
+# Lecture Notes: Protopalatial/Neopalatial Crete [c. 1900-1500 BC]
 
-# Lecture Notes: Middle to Early Late Helladic/Cycladic [c. 1900-1500 BCE]
+# Lecture Notes: Middle to Early Late Helladic/Cycladic [c. 1900-1500 BC]
 
 # Reading Notes: Bintliff Ch. 4
 
