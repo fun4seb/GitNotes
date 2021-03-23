@@ -2,17 +2,15 @@
 > Module 1: Weeks 1 to 4; Mapping Transformations - Cognitive & Mathematical
 
 - Info from **ANY READING** is fair game for exams; read **EVERYTHING**
-
-# Lecture Notes
 - Maps are about **POWER**
 
-## Lab Materials
+# Lab Materials
 - Math drawing kit
 - 30 cm ruler
 - Pigment liner pens (1 fine, medium, and wide)
 - Colored pencils
 
-## History of Cartography
+# History of Cartography
 > Mapping is making things visible and making things visible is making them available to use (Pickles, 2004)
 
 - **Notable timeline:**
@@ -79,10 +77,3 @@
 
 - **Document, Evaluate, Review**
 	- Be constantly critical of your map during its creations, continually evaluate if it is servings its desired purpose
-    -  
-
-# Reading Notes: Perusall
-
-## Chapter 1: Intro
-## Chapter 1.2: Geog Concepts (Space & Distance)
-## Chapter 2.2: Maps and Map Types

@@ -1,0 +1,1 @@
+# GEOG260 - Week 7: Thematic Maps

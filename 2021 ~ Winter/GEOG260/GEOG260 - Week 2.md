@@ -1,8 +1,6 @@
 # GEOG260 - Week 2: What is a Map, Critical Cartography, Scale, Coordinates & Projections
 
-# Lecture Notes: Critical Cartography & Scale
-
-## What is a Map?
+# What is a Map?
 - **Maps can be many things**; no one single definition or use of maps
     - A spatial representation of the environment
     - A graphic statement that locates facts
@@ -14,7 +12,7 @@
     - Energy > engine > work
     - Social energy > map > social space, social order, knowledge
 
-## Critical Cartography
+# Critical Cartography
 - process of pulling apart and analyzing maps to determine why they were made and why certain decisions were made
 - Challenges the traditional practices of maps and links geographic knowledge with political power and understanding this relationship is key in understanding maps
 - Relevant to this course through the idea of **mapping vs. making maps**
@@ -89,7 +87,7 @@
     - "Inflation maps"
     - Distort the map spatially according to the relavent data (Ex: size countries according to their GDP)
 
-## Scale
+# Scale
 > Map scale = distance on the map (Dm) / distance on the ground (Dg)
 
 - **Expressed as a fraction where the distance on the map (Dm) is reduced to 1**
@@ -100,7 +98,7 @@
     - Large scale = "zoomed in" map, meaning scale ratio number is small; **large scale lots of detail**
     - Small scale = "zoomed out" map, meaning scale ratio number is small; **small scale less detail**
 
-# Lecture Notes: Projections & Coordinates
+# Projections & Coordinates
 - **There are two types of coordinate systems:**
     - Non-projected
     - Projected
@@ -140,7 +138,7 @@
         - Direction
     - **There is never a single right answer when choosing a map projection**
 
-### Datums
+## Datums
 - Conversion of the Earth from a blob into a clean mathematic **ellipsoid** (3D sphere) that can be used to project coordinates onto and create maps
 - A "regional surface model" of the Earth; different countries use different ellipsoids that best approximate their portion of the Earth
 
@@ -162,7 +160,7 @@
     - Oblique (center on a non-specific point/line)
     - Transverse (center to a line 90° to the polar axis; parallel to equator)
 
-### Distortion
+## Distortion
 - Whenever a projection is created due to conversion from 3D (Earth) to 2D (map) there is always **distortion**; every projection distorts the world and all projections are based on **compromise**
     - **Tissot's index** = index of distortion measured mathematically by observing the distortion of circles that are placed at the intersections of lat & long points
 
@@ -181,12 +179,3 @@
         - Ex: Gnomic projection (top down view of glob, extreme distortion), and Azimuthal Equidistant (preserves the distance between all points while compromising projection
     - **Interrupted projections** = projections made onto irregular surfaces (Ex: Fuller projection projects landmasses like a chain onto an unfolded dodecahedron)
     - **Compromise projections** = projections do not try to perfectly preserve any property and instead tries to balance distortion between many properties
-
-# Reading Notes: Making Maps Chapter 5 (Geographic Framework)
-
-# Reading Notes: Perusall
-
-## Chapter 2.1: What is Scale
-## Chapter 2.2: Map Scale, Coordinate Systems, and Map Projections 
-## Chapter 2.3: What are Map Projections
-## Chapter 2.4: The Nearly Spherical Earth

@@ -1,8 +1,6 @@
 # GEOG260 - Week 3: Design & Intro to Generalization
 
-# Lecture Notes
-
-## Essential Design Elements
+# Essential Design Elements
 - **Title**
     - Most important information is what, where, and when (Ex: "Median income in PSC 2010 2019 by postal code")
     - Title text should be 2-3 times larger than body text
@@ -28,7 +26,7 @@
 - **Author & date**
     - Important to date and take responsibility for the maps you make; they are a reflection of the creator/time
 
-## The Cartographic Process & Models
+# The Cartographic Process & Models
 - **Process of map creation:**
     - **Environment** (real or imagined) > **map-maker** (who detects patterns in the environment and encodes them into visual information) > **map** (tangible/virtual, static/dynamic) > **map user** (who recognizes patterns and decodes the map) > **environment** (map users now spatially understand the environment and recognize new patterns, encouraging the creation of new maps; cyclical process)
 
@@ -42,12 +40,9 @@
         - Sense of aesthetic, intuition, creativity
             - Both are interrelated, complimentary, and learnable
 
-## Intellectual & Visual Hierarchies
-
-### Layers
 - Think of maps as **layers of information** (Ex: title + basemap + legend + water features + etc.)
 
-## Intro to Visual Principles
+# Intro to Visual Principles
 - **Gestalt principles** = the psychological ways in which we take in visual information and create meaning
     - **Figure-ground relationships**
         - Relationship between objects in the foreground and background and why one might stand out over the other
@@ -71,24 +66,24 @@
     - **Past experience**
         - Cultural association to symbols with common ideas due to past experiences (Ex: cross = religion, green = go)
 
-### Creating Good Figure-Ground Relationships
+## Creating Good Figure-Ground Relationships
 - Use of **contrast** can distinguish between figure and ground
 - Size of objects also play a role; bigger objects are perceived as the figure
     - Things on the bottom half of the page are also perceived as closer and draw the eye
 - Objects in **focus** are perceived as the figure while other less in focus objects are less important
 
-### Creating Effective Closure
+## Creating Effective Closure
 - Effective closure is achieved through reducing the complexity of a design while still suggesting shapes
     - This can be done through the effective use of both positive and negative space to suggest shapes that are not visible
     - Contrast and color
 
-### Tips for Proximity
+## Tips for Proximity
 - Make groups of like objects obvious through consistent use of shape & space
 - Use with figure-ground (et al) to further increase the readability of the objects
 - Exploit white blocks of color
 - Placing text near a group of objects automatically links them together
 
-## Generalization - Theoretical Frameworks
+# Generalization - Theoretical Frameworks
 - **Generalization** = removing un-relavent information and simplifying where needed
 
 - Generalization is a process of **selection** and **symbolization**; selection of relavent information to include and symbolization to reduce that information into efficiently readable symbols
@@ -104,7 +99,7 @@
 
 - **Generalization is related to SCALE**; all decisions made while generalizing features on a map are to achieve usefulness and aesthetic readability at any specific scale
 
-### Content/Feature Typologies
+## Content/Feature Typologies
 - All about **SELECTION**
     - Add/include
     - Remove or eliminate
@@ -113,7 +108,7 @@
     - Reorder
         - Merging multiple categories into one (Ex: reducing five different thicknesses of river down to two)
 
-### Geometry Typologies
+## Geometry Typologies
 - All about **ALTERATION**
     - Aggregate
         - Combine possibly cluttered data-points together to improve readability
@@ -125,19 +120,19 @@
         - Commonly used on coastlines
     - Smooth
 
-### Symbol Typologies
+## Symbol Typologies
 - All about the **MODIFICATION OF THE EXISTING**
     - Adjust color/icon/pattern/shape/size/opacity
     - Enhance
     - Rotate
     - Typify
 
-### Label Typologies
+## Label Typologies
 - All about **IDENTIFICATION**
     - Add/remove label
     - Adjust label appearance/location
 
-## Visual Variables
+# Visual Variables
 - A **mark** is "something that is visible and can be used to show relationships within sets of data"
 - **Visual variables** are "the different ways that mark can be varied"
 
@@ -149,7 +144,7 @@
     - Denotation = most common **objective** meaning of a word/sign; what you see
     - Connotation = most common **subjective** meaning of a word/sign; what you think when you see it
 
-### Semiology of Graphics
+## Semiology of Graphics
 - **Semiology:**
     - Study of particular languages
     - Ferdinand de Saussure (1875-1973)
