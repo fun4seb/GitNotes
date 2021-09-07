@@ -46,7 +46,7 @@
 - 1850's understanding of cholera > spread by miasma in the air (”bad air”); germs were not yet understood (germ theory of disease developed later in 1880)
     - Sudden and serious outbreak of cholera in London's Soho = a mystery! (for 1850)
 - Snow mapped out the locations of the local water wells and cholera deaths to back his argument about the disease spreading through a contaminated pump, convincing the local council to remove the handle to prevent its use. (He also tracked healthy people to verify his theory)
-- Snow used **spatial data** to solve a real world problem
+    - **Snow used spatial data to solve a real world problem**
 
 # The Geographic Inquiry Process
 - The geographic inquiry process = **"the approach"**
