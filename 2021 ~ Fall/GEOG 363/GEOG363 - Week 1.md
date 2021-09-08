@@ -55,3 +55,14 @@
     3. **Explore** geographic data (turn the data into maps, tables, and graphs, and look for patterns and relationships)
     4. **Analyze** geographic information (determine what the patterns and relationships mean with respect to your question)
     5. **Act** on geographic knowledge (use the results of your work to educate, make a decision, or solve a problem)
+
+# Reading Notes: An Introduction to GIS (Perusall)
+- **Reading questions:**
+    1. What is key to all definitions of a GIS?
+        - The synthesis of "where" (spatial data) and "what" (attribute data) is what is constant within all definitions of GIS
+    2. What is the definition of GIS according to this book?
+        - "A GIS is a computer-based system to aid in the collection, maintenance, storage, analysis, output, and distribution of spatial data and information"
+    3. Is there only one right way to create a specific map?
+        - There is no single "correct" way to make a map, the information being presented is arranged at the discretion of the cartographer. For example on cartographer might decide to include data on roads while another cartographer making the same map might not, it all depends on the intended use of the map, audience, etc.; The final map is the result of decisions made by the map-maker and cause the finished product to be unique every time
+    4. What are the components of GIS
+        - The components of GIS are: hardware, software, data, humans, and organizational protocols
