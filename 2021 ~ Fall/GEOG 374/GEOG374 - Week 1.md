@@ -3,7 +3,7 @@
 > Plant Ecology ~ The "Sub-discipline of ecology which studies the distribution and abundance of plants, the effects of environmental factors upon the abundance of plants, and the interactions among and between plants and other organisms”
 
 - **Spectrum of plant ecology:**
-    - Cell (genetic diversity, DNA) > organ (leaves, photosynthesis acclimations) > individual (presence/absence) > communities (species composition, structure) > landscape (disturbance, spatial pattern of communities)
+    - Cell (genetic diversity, DNA) > organ (leaves, photosynthesis acclimations) > individual (presence/absence) > communities (species composition, structure) > landscape (disturbance, spatial pattern of communities); **plants can be studied at many different scale (cell > landscape)**
 
 # The Natural Environment
 - **Components of the biosphere:**
@@ -49,26 +49,29 @@
 
 # Plant Biology
 - **Plant forms:**
-    - Tree
-    - Shrub
-    - Vine
+    - Tree, shrub, vine (wood producing)
     - Herbaceous plants (non-woody stemmed plants)
         - Graminoid (herbs)
-        - Forb
-    - Succulent
+        - Forb (plants with flowers)
+    - Succulent (waxy skin, stores water, found in deserts)
     - Fern
     - Moss
     - Algae (green)
 
 ## Plant Life Span
-- **Biennial vs. Perennial**
+- **Annual vs. Biennial vs. Perennial**
+    - **Annual = live 1 year**
+        - Short life cycle; germination to seed in a single growing season
+        - Limited by length of growing season
+        - Good colonizers because they produce many seeds; aggressive growers
+        - Ex: Wheat, rice
     - **Biennial = live 2 years**
         - Flowing in second year
-        - Occur in succession between ruderals and perennial plants
+        - Occur in succession between ruderals (annuals) and perennial plants
         - Ex: Raspberry
     - **Perennial = live several years**
-        - Flowering delayed to a time with good resources and storage
-        - Can die and re-emerge/regrow
+        - Flowering is delayed to a time with good resources and storage
+        - Can regrow if cut or dead
         - Ex: Banana tree, trees, shrubs
 
 ## Plant Parts and Their Functions
@@ -77,21 +80,33 @@
     - The leaves absorb sunlight and carbon dioxide, transforming them into oxygen, glucose (sugar), and carbon matter (in the form of growth); carbon dioxide -> oxygen and carbon plant matter
 
 - **Stem**
+    - Role of stem is to hold leaves as well as transport the water from the soil to the leaves, the stems also circulate sugars and compounds to other parts of the plant
     - Woody vs. herbaceous stem
+    - Some trees can photosynthesize through the stems
 
 - **Roots**
+    - Capture water and nutrients in the soil
+    - Stores reserves, such as starch in potatoes
+    - Can sometimes be involved in reproduction of the plant
 
 - **Flowers**
+    - Can be different shapes, colors, and configurations
 
 - **Seeds and spores**
+    - Plants can produce different types of seeds, protected within different types of organs
+        - Seeds within a cone (pine cone)
+        - Within a fleshy organ (apples)
+        - Spores
 
-## Seed Reproduction Cycle
+# Seed Reproduction Cycle
 1. **Sexually mature woody plant**
-    - Mature plants are divided by annuals (seeds within a growing season), Biennials (seeds at their second growing season), and perennials (regrow every season)
-        - Chronological vs. physiological age
-2. **Reproductive buds undergo bud loss** through climate (wind) and predation (insects, bats, etc.)
+    - Mature plants are divided by annuals (seeds produced within a growing season), Biennials (seeds produced in their second growing season), and perennials (regrow every season)
+        - Chronological vs. physiological age; plants can grow at different rates and the same plant can be at a different stage in its cycle than another due to better or worse conditions, so its helpful to view trees as having "2 ages"
+2. **Reproductive buds are formed** 
+    - Bud loss can occur through climate (wind, freeze, drought) and predation (insects, bats, etc.)
 3. **Flowering pollination**
-    - Flowering fruit undergo **fruit loss** through climate, predation, and resource availability
+    - Flowering fruit can become pollinated through climate (wind), predation, and resource availability
+        - Some plants may develop flowers with specific colors, or smells to attract predictors to spread their seed
     - Number of fruits increases with plant size and resource availability
 4. **Mature seed**
     - Periodicity in seed production (perennial plants; mast year)
@@ -108,3 +123,13 @@
 7. **Germination**
 8. **Seeding bank**
 9. **Established plant**
+
+## Plant Establishment Case Study
+> An area was harvested of its trees and the tops and branches were left on the ground to germinate, after a while the area was only covered by graminoids (herbs) rather than new growing tree saplings, Why?
+
+- **Hypothesis of instructor:**
+    - Site preparation (clearing offcuts with bulldozers and chains) killed or weakened root suckers (trembling aspen)
+    - Seed rain from adjacent forests did not cover the whole area
+    - Poor seedbeds
+    - Competition from graminoid impeded tree growth (aspens and spruces)
+    - Planted white spruce not adapted to full exposure -> slowly developed an adequate root system
