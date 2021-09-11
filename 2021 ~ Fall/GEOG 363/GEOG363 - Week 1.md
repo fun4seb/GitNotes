@@ -56,7 +56,7 @@
     4. **Analyze** geographic information (determine what the patterns and relationships mean with respect to your question)
     5. **Act** on geographic knowledge (use the results of your work to educate, make a decision, or solve a problem)
 
-# Reading Notes: An Introduction to GIS (Perusall)
+# Reading Notes: Chapter 1 - An Introduction to GIS (Perusall)
 - **Reading questions:**
     1. What is key to all definitions of a GIS?
         - The synthesis of "where" (spatial data) and "what" (attribute data) is what is constant within all definitions of GIS
