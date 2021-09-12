@@ -25,9 +25,9 @@
     - Each refugee becomes a symbol/spokesperson for their community and people
 
 - How does she characterize death?
-    - She re-frames life as worse than death, people wish death because it means a release from the pain of life/persecution
+    - She re-frames life as worse than death within the Jewish experience of the time, people wish death because it means a release from the pain of life/persecution
 
-## Assimilation vs Integration
+# Assimilation vs Integration
 - **Integration**
     - Two-way
     - Free to retain ethnic identity or assimilate or mix and match
