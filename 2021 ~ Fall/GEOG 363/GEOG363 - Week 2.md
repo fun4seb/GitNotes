@@ -27,8 +27,11 @@
 
 - Coordinates are used to define the spatial location and extent of geographic objects, usually in the form of a pair or triplet of numbers that specify location relative to an origin
 
-- All spatial data models are based on a conceptualization of the real world into a graphical simplification of reality in the form of **points, lines, and polygons** to represent all real world entities
+## Common Spatial Data Models (Vector & Raster)
+- All spatial data models are based on a conceptualization of the real world into a graphical simplification of reality in the form of **points, lines, and polygons** to represent all real world entities graphically
+
+- Data models are often interchangeable in that many geographic phenomena can be representing by multiple different models
 
 - **Two main conceptualization for digital spatial data: vector & raster data**
-    - Vector data uses points, lines, and polygons referenced using coordinates to define real world objects; vector data is **discrete** meaning it uses clear definable boundaries (roads, property lines, location of wells, etc.) and has no room for ambiguity such as outlining the boundary of a forest as it thins out into plains
-    - Raster data uses a cell-based grid system to plot data across an array (like pixels on a screen) and uses the value of cells to represent the type or quality of a mapped variable; raster data is best used with variables that change continuously across a region (elevation, slope, temperature, etc.)
+    - **Vector data** uses points, lines, and polygons referenced using coordinates to define real world objects; vector data is **discrete** meaning it uses clear definable boundaries (roads, property lines, location of wells, etc.) and has no room for ambiguity such as outlining the boundary of a forest as it thins out into plains
+    - **Raster data** uses a cell-based grid system to plot data across an array (like pixels on a screen) and uses the value of cells/pixels to represent the type or quality of a mapped variable; raster data is best used with variables that change continuously across a region (elevation, slope, temperature, etc.)
