@@ -103,32 +103,61 @@
     - Mature plants are divided by annuals (seeds produced within a growing season), Biennials (seeds produced in their second growing season), and perennials (regrow every season)
         - Chronological vs. physiological age; plants can grow at different rates and the same plant can be at a different stage in its cycle than another due to better or worse conditions, so its helpful to view trees as having "2 ages"
 2. **Reproductive buds are formed** 
-    - Bud loss can occur through climate (wind, freeze, drought) and predation (insects, bats, etc.)
+    - Bud loss can occur through climate (wind, freeze, drought) and predation (insects, bats, etc.); seeds are spread
 3. **Flowering pollination**
     - Flowering fruit can become pollinated through climate (wind), predation, and resource availability
         - Some plants may develop flowers with specific colors, or smells to attract predictors to spread their seed
     - Number of fruits increases with plant size and resource availability
+    - Fruit loss can occur (thus spreading seeds) through climate and predation
+
 4. **Mature seed**
     - Periodicity in seed production (perennial plants; mast year)
-        - Mast year = year with higher than usual production of seeds
-        - Frequency varies with climate conditions and species
+        - Mast year = year with higher than usual production of seeds; frequency varies with climate conditions and species (Ex: every 2-8 years is a mast year)
         - Strategy = satiate seed predators
+    - Seed production increases with plant size and resource availability
+    - Plants only have a certain amount of energy to expend to produce seeds for reproduction, meaning they may produce many small seeds that spread far (expecting only a few to be successful), or they may produce very few larger seeds that spread close (expecting most to be successful)
 5. **Seed dispersal**
+    - Seed dispersal is accomplished through wind, animals, gravity (apples), water (coconut), ballistic
+    - Primary vs. secondary seed dispersal
+        - Primary seed dispersal is when
+        - Secondary seed dispersal is when
     - Benefits of seed dispersal
-        - Less competition with adult plants
-        - Lowers the impacts of density-dependent seed and seedling predators and pathogens (disease)
         - Helps reaching habitats favorable for the development of offspring/colonize new environments
-    - Seed dispersal is accomplished through wind, animals, gravity, water (coconut), ballistic 
+            - Long distance: Less competition with adult plants
+            - Short distance: land on adequate site conditions
+        - Lowers the impacts of density-dependent seed and seedling predators and pathogens (disease) 
+    
 6. **Seed bank**
+    - Seed bank = seeds remaining available for germination
+    - Sources of seeds:
+        - Annual seed rain
+        - Dormant seed locations
+            - Soil surfaces (Ex: forest floor)
+                - Dormancy: few days to many years
+                - Dormancy seeds are at risk of predation and rotting
+            - Tree crown (cones)
 7. **Germination**
+    - Anatomy of a seed:
+        - Seed coat: protects seed from harm
+        - Plumule: will become the shoot
+        - Hypocotyl: will become the stem
+        - Radicle: will become the root
+        - Cotyledon: acts as food storage
+    - Germination steps:
+    - Importance of seedbeds
+        - Seedbed = spot where seed falls
+        - Seedbed provides moisture and nutrients for the plant to develop; therefor a good seedbed is one which allows for the seed to access adequate moisture and nutrients for growth
+            - Is a seedbed covered in fallen leaves beneficial for germination?; No because it blocks sunlight and restricts a fallen seed's access to the soil
+    - Comparison of seedbeds
 8. **Seeding bank**
 9. **Established plant**
+    - Grows to sexually mature plant, repeating the cycle
 
 ## Plant Establishment Case Study
 > An area was harvested of its trees and the tops and branches were left on the ground to germinate, after a while the area was only covered by graminoids (herbs) rather than new growing tree saplings, Why?
 
 - **Hypothesis of instructor:**
-    - Site preparation (clearing offcuts with bulldozers and chains) killed or weakened root suckers (trembling aspen)
+    - Site preparation (clearing off-cuts with bulldozers and chains) killed or weakened root suckers (trembling aspen)
     - Seed rain from adjacent forests did not cover the whole area
     - Poor seedbeds
     - Competition from graminoid impeded tree growth (aspens and spruces)

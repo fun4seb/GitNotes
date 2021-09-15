@@ -1,5 +1,61 @@
 # GEOG290 - Week 2: The Anthropocene
 
+# Lecture Notes: The Great Acceleration and the Great Divergence
+- **"The two crises of the Anthropocene":** the great acceleration and the great divergence
+
+## The Anthropocene
+> Anthropocene ~ Geological epoch marking the start of significant human impact on Earth's geology and ecosystems, including, but not limited to, anthropogenic climate change
+
+- **The Anthropocene is...**
+    - A way of describing the current problem of environment and society
+    - An attempt to bring many diverse problems together under a label
+    - An attempt to bring people together to make a difference in relation to this collection of problems (like how the term environmentalism functions)
+    - In other words, the Anthropocene is both a **description** and a **story** (see Nixon reading)
+        - There are different ways to tell the story of the Anthropocene and how this story is told matters in what "solutions" get proposed and enacted
+
+## The Great Acceleration
+- 1950's = **"The great acceleration"**
+    - Period of enormous growth, coinciding with the rise of **globalization and industrialization**; significant point in the increased human impact on the Earth's environments
+    - "Hockey stick graph" phenomena found on many graphs where there is a long period of no growth (flat line) and then a short period of enormous growth that coincides with the great acceleration; found on any graphs that mark the growth of some metric over time that is affected by humans across decades (temperature, CO2, plastic production, energy use, etc.)
+
+- The great acceleration is reflected in both...
+    - **Socioeconomic trends:**
+        - Population, GDP, foreign investments (marker of globalization), energy/water use, etc.
+    - **Earth system trends:**
+        - Greenhouse gas levels, surface temperature, ocean acidification, tropical forest loss, land degradation and biodiversity loss, etc.
+
+- Most relavent to the great acceleration are the changes associate with the growing **climate crisis**
+    - Ex: rising temperatures, biodiversity loss, forest coverage loss, rising carbon dioxide levels, etc.
+
+## The Great Divergence
+> "In 2013, the world's eighty-five richest people had a net worth equal to that of 50% of the world population"
+
+- Also known as the **crisis of inequality**
+- Describes the acceleration in wealth disparity between the richest and poorest of the world; "the great acceleration of **inequality**"
+
+- Considerations of growing inequality is often left out of the discussion of the Anthropocene or great acceleration
+
+- **The great divergence in Canada:**
+    - "minimum wage and the average hourly wage have remained the same since the 1970's while Canada's GDP and wealth of the top 1% has exploded during this time"
+
+## Neoliberalism
+- **The great acceleration and great divergence both really took off with the onset of neoliberalism in the late 1970's**
+
+- **Neoliberalism** = a political approach that favors free-market capitalism, deregulation, and reduction in government spending
+    - insists that the market is perfectly efficient and most effective in enacting economic change compared to government policy
+- **Free markets** = an economic system in which prices are determined by **unrestricted competition** between privately owned businesses
+
+- Began with change in social policy headed by major capitalist nations
+    - Election of Margaret Thatcher (UK, 1979) and Ronald Reagan (USA, 1980)
+- End of the **welfare state** (the nanny state) and **Keynesianism**
+- Roll back the state, roll out the market (limit regulation and leave economic change to the prosperity of the **market**)
+
+- **Neoliberalism led too...**
+    1. **Freeing the market:** massive privatization, cuts to government protections for citizens (welfare programs), deregulation of business
+    2. Accelerated and intensified exploitation of working people and natural resources
+    3. Booming economic growth (of which profits were allocated unequally and increasingly to the top 1%)
+    4. Increased inequality and massive transfers of wealth from the working class communities (particularly communities of color) to the wealthiest
+
 # Reading Notes: The Great Acceleration and the Great Divergence - Nixon
 - "Approaching the question of vulnerability in the Anthropocene from the perspective of two of the greatest crises of our time: **the environmental crisis and the inequality crisis**"
 
@@ -23,7 +79,6 @@
     - insists that the market is perfectly efficient and most effective in enacting economic change compared to government policy
 
 - **Free markets** = an economic system in which prices are determined by **unrestricted competition** between privately owned businesses
-    - expand
 
 ## Development of Neoliberalism
 - Influenced by the writing of the neo-classical economist **Friedrich Hayek** and later **Milton Friedman**

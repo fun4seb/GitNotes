@@ -115,7 +115,7 @@
         - Antarctic Circle = 66°33'48.4" S
     - **Meridians (Longitude):** W/E position (prime meridian is used)
 
-- This network of parallels and meridians is called the **graticule**, and locations can be expressed as...
+- This grid/network of parallels and meridians is called the **graticule**, and locations can be expressed as...
     - **DMS (degree, minutes, seconds)**
         - 15° = 1 hour or 60 minutes worth of rotation
     - **DD (decimal degrees)**
