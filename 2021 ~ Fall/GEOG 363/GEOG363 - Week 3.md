@@ -79,7 +79,7 @@
     - Points: different shapes and/or hues, and not different sizes
     - Lines: vary only in pattern and/or hue, not in thickness
     - Polygons: only different area hues or patterns should be used, and not different values of selected hues.
-    - **Not implying ranking or relationship (no variance in size, thickness, or value) only **
+    - **Not implying ranking or relationship (no variance in size, thickness, or value)**
 
 - **For ordinal data:**
     - Points: geometric shape or a pictorial symbol. Variation of size, color or both color and size for emphasis
