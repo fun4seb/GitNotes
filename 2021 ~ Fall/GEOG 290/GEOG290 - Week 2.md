@@ -39,7 +39,7 @@
     - "minimum wage and the average hourly wage have remained the same since the 1970's while Canada's GDP and wealth of the top 1% has exploded during this time"
 
 ## Neoliberalism
-- **The great acceleration and great divergence both really took off with the onset of neoliberalism in the late 1970's**
+> "The great acceleration and great divergence both really took off with the onset of neoliberalism in the late 1970's"
 
 - **Neoliberalism** = a political approach that favors free-market capitalism, deregulation, and reduction in government spending
     - insists that the market is perfectly efficient and most effective in enacting economic change compared to government policy

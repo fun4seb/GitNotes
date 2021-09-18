@@ -119,14 +119,14 @@
 5. **Seed dispersal**
     - Seed dispersal is accomplished through wind, animals, gravity (apples), water (coconut), ballistic
     - Primary vs. secondary seed dispersal
-        - Primary seed dispersal is when
-        - Secondary seed dispersal is when
-    - Benefits of seed dispersal
+        - Primary seed dispersal is when it falls directly from the plant
+        - Secondary seed dispersal is when it is carried to its new place through wind, animals, etc.
+    - Benefits of seed dispersal:
         - Helps reaching habitats favorable for the development of offspring/colonize new environments
             - Long distance: Less competition with adult plants
             - Short distance: land on adequate site conditions
         - Lowers the impacts of density-dependent seed and seedling predators and pathogens (disease) 
-    
+    - Different seeds have a different mortality rate over time compared to total initial seeds produced by the plant (seed survivorship)
 6. **Seed bank**
     - Seed bank = seeds remaining available for germination
     - Sources of seeds:
