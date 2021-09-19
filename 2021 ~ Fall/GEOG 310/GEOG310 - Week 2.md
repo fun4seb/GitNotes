@@ -15,7 +15,7 @@
 
 ### Nation-State
 
-# Reading Notes: Who is a Refugee? - Shacknove
+# Reading Notes: Who is a Refugee? - Andrew Shacknove
 - There are varying definitions of "refugee" from different sources and institutions however most states refer to the UN convention definition
 - According to the UN convention a refugee is someone who **"owing to a well founded fear of being persecuted for reasons of race, religion, nationality, membership in a particular social group or political opinion,is outside the country of his nationality and is unable or, owing to such a fear, is unwilling to avail himself of the protection of that country"**
     - This definition is predicated on the argument that:
@@ -79,7 +79,7 @@
     - Claims processed by the Immigration and Refugee Board of Canada (IRB)
 3. From abroad: refereed by UNHCR to Canada for resettlement or privately sponsored by a group of citizens
 
-# Reading Notes: Violent Borders: Refugees and the Right to Move - Jones
+# Reading Notes: Violent Borders: Refugees and the Right to Move - Reece Jones
 - Outlines the dangers and violence experienced by refugees who attempt to cross borders (Example in the intro of boys clinging to the underside of a bus to get into Europe)
 
 - "This book disputes the idea that borders are a natural part of the human world and that migration is driven primarily by traffickers and smugglers. Instead **the existence of the border itself produces the violence that surrounds it**"
@@ -111,7 +111,7 @@
 ## The Violence of Borders
 - In addition to the direct forms of violence done to migrants at borders, there are also more subtle **systemic** forms of violence; direct vs. systemic violence against migrants
 
-# Reading Notes: The End of the Myth: From the Frontier to the Border Wall in the Mind of America - Grandin
+# Reading Notes: The End of the Myth: From the Frontier to the Border Wall in the Mind of America - Greg Grandin
 
 # Reading Notes: UN 1951 Convention on Refugees
 
