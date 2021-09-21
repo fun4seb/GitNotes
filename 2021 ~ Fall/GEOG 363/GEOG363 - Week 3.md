@@ -17,7 +17,7 @@
 - The main function of a map is to better **understand** and/or **communicate** geographic information and structure
 
 - **Maps must:**
-    1. Include all necessary map elements (north arrow, legend, source, title, scale bar)
+    1. Include all necessary map elements **(ALWAYS: north arrow, legend, source, title, scale bar)**
     2. Be clear (written and visual information)
         - Clear message: adapted to a specific public/viewer (is the map for an expert or novice?)
         - Clear representation: make use of appropriate symbols to represent the spatial pattern and processes; map symbology
@@ -106,13 +106,19 @@
         - Establishes visual hierarchy of importance
 
 - **Visual balance**
+    - Always consider **order** (the sequence in which map readers view components of the map); eye moves from upper left, through the optical center, to the lower right
+        - The sense of orderliness in a map determines if it is comfortable to look at to the eye
+    - Pleasing page layout (symmetrical vs. asymmetrical layout)
 
 - **Visual hierarchy**
+    - Ordering of map elements where important features are "popping" in the foreground and less important features are less visually grabbing; if every feature is competing for your attention the map becomes confusing and messy
+        - Adds **depth** and **ordinality** to map
 
 ### Color Conventions
-- Land masses = tan
-- Water = Blue
-- Vegetation = Greens
+- Certain color associations have been used to derive color conventions in mapping:
+    - Land masses = tan
+    - Water = blue
+    - Vegetation = greens
 
 - **Bold indicates IMPORTANCE**
 
