@@ -1,3 +1,69 @@
 # GEOG290 - Week 3: Environmental Imaginaries & Justice
 
-# Reading Notes: Environmental Geographies - Eden
+# Lecture Notes: Environmental Imaginaries
+- What do we mean by imaginary?
+    - How we **imagine or understand the world**; basically ones worldview
+- Why does it matter how we understand the world?
+    - Our understanding affects our choices and actions
+    - Our understanding even affects what we are able to see
+    - The imagination, of some people and organizations more than others, shapes the world in concrete ways
+
+- What is imagination?
+    - "Imagination is how we see, and how we learn to see, how we suppose the world works, how we suppose that it matters, what we feel we have at stake in it… the bold speculations buried in our everyday lives"
+    - "Imagination also enables us to do things together politically: a new way of seeing the world can be a way of valuing it; a map of things worth saving, or of a future worth creating"
+
+- **Social construction** = idea that the world we experience comes to us through our ideas about it; we construct our own reality through our perceptions and ideas around it
+    - Specifically, how we understand the world depends on (1) how we think and feel about it as individuals, and (2) the range of ways that the society in which we live understands the world
+
+## Environmental Imaginaries
+- Different environmental imaginaries make sense of the environment in quite different ways
+    - Some environmental imaginaries focus on a non-human natural world, others describe human-populated rural and forested environments, the urban environment, or even the whole world!
+    - Not every environmental imaginary is equally valid and some are contradictory to others
+    - **The spatial and material conditions of an environment influence the environmental imaginaries that may emerge from it**; ones understanding of their environment will develop very differently depending on the space they occupy
+
+- Environmental imaginaries are created around perceived environmental problems:
+    - By stakeholders
+    - By audience
+    - Over time
+    - Across space
+
+### Studying Environmental Imaginaries
+- **Big point:** Analyzing environmental imaginaries is one way we will make sense of the various proposals for changing environment and society that we encounter in this class
+
+## Summary
+- The idea of “environmental imaginaries” is a useful conceptual tool, After we work through ‘anointed’, we will have engaged with the three big environmental imaginaries: the Anthropocene (R. Nixon) and the two contrasting visions of nuclear technology
+- Employing the idea of an “environmental imaginary” as we have done today helps us analyze environmental campaigns or projects
+- Environmental imaginaries are diverse and contradictory
+- Some environmental imaginaries reinforce each other, others are in conflict, just like the varied environmental solutions and movements we will study in this class
+- This multiplicity of imaginaries represents a resource on which environmental movements build and through which we can express our ideas about the environment
+
+# Reading Notes: Environmental Geographies & Global and Local Environmental Problems - Eden
+- "Environmentalism collectively describes a wide range of ideas and practices that demonstrate a concern for nature-society relations"
+
+- Technocenstrism vs. ecocentrism
+
+## Environmental Problems and Social Construction
+
+# Reading Notes: After Nature: A Politics for the Anthropocene - Purdy
+
+# Lecture Notes: Environmental Justice
+- Environmental justice is based on the notion that **everyone is entitled to the same levels of environmental and public health protection**
+    - Environmental justice as a field of research seeks to illuminate the processes and situations which lead to the violation of the above standard
+    - This course uses environmental justice as a lens to make sense of all kinds of environmental justice campaigns and solutions
+
+## Pillars of Environmental Justice
+- **Three pillars of traditional environmental justice:**
+    1. The problem of **distribution:** redistributing environmental goods or ‘bads’ does not change the political system or social relations that creates those distributions in the first place
+    2. The problem of **participation:** often those invited to participate are leaders of the larger organizations only, often men, and others are often excluded
+    3. The problem of **recognition and inclusion:** often recognition can happen through the law, but then (1) law is not enforced, (2) getting the law passed may exhaust the people involved in the campaign, (3) some who struggle for environmental justice may not want recognition or inclusion by the state (Ex: indigenous nations on their territories)
+
+- **Four pillars of critical environmental justice:**
+    1. **Focuses on multiple forms of inequality and their relations** with each other; Intersectional approach to oppression that sees links between racism, sexism, homophobia, ableism, colonialism, speciesism, etc.
+    2. Takes seriously the way that environmental injustice (and justice!) **takes places across and between scales** and not just in one community or neighborhood
+    3. Questions **entrenched power relations** including state power
+    4. Insists that **no one is expendable**, that no group should be abandoned, for example, because they don’t have citizenship or because they are in prison, or because of where they live, or their identity etc.
+
+## Summary
+1. We have an approach for analyzing how environmental justice problems are understood and enacted called **environmental imaginaries**
+2. We have an approach to evaluating such projects based on theories of **environmental justice**
+3. We have highlighted some risks associated this approach (see #2 above) as well some additional points that Pellow describes as the field of **critical environmental justice**

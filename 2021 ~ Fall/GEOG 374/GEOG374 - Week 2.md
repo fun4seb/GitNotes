@@ -1,9 +1,5 @@
 # GEOG374 - Week 2
 
-# Plant Clones
-- **Ramet** = refers to a single physiological individual produced by clonal propagation; a single "clone"
-- **Genet** = refers to a group of ramets that originate from a single seed
-
 # Review: Plant Life Span
 - **Annual vs. Biennial vs. Perennial**
     - **Annual = live 1 year**
@@ -20,7 +16,7 @@
         - Can regrow if cut or dead
         - Ex: Banana tree, trees, shrubs
 
-# Continued: Seed Reproduction Cycle
+# Review: Seed Reproduction Cycle
 1. **Sexually mature woody plant**
     - Mature plants are divided by annuals (seeds produced within a growing season), Biennials (seeds produced in their second growing season), and perennials (regrow every season)
         - Chronological vs. physiological age; plants can grow at different rates and the same plant can be at a different stage in its cycle than another due to better or worse conditions, so its helpful to view trees as having "2 ages"
@@ -100,12 +96,26 @@
 - Some plants can both reproduce sexually and vegetatively
     - Plants produce vegetatively when there are unfavorable conditions
 
-## Summary: Regenerative Strategies of Plants
-- Regeneration method:
-    - Vegetative = new vegetative shoots remaining attached to parent plant until well established
-    - Active seed bank = viable seeds that have no dormancy requirement; reside in seed bank less than a year
-    - Dormant/persistent seed bank = viable but dormant seeds present throughout the year; some persisting more than a year
-    - Fire-induced opening of clones = heat of fire opens cones where seeds are stored
+## Plant Clones
+- **Ramet** = refers to a single physiological individual produced by clonal propagation; a single "clone"
+- **Genet** = refers to a group of ramets that originate from a single seed
+
+# Regenerative Strategies of Plants
+- Regeneration methods:
+    - **Vegetative** = new vegetative shoots remaining attached to parent plant until well established
+        - Advantageous when the site is subject to disturbances and sexual reproduction is unfavorable
+    - **Active seed bank** = viable seeds that have no dormancy requirement; reside in seed bank less than a year
+        - Advantageous in sites with favorable weather and predictable seasonal disturbances by climate or biotic factors
+    - **Dormant/persistent seed bank** = viable but dormant seeds present throughout the year; some persisting more than a year
+        - Advantageous when the site is subject to temporally unpredictable disturbances (wait for an opening to germinate)
+    - **Fire-induced opening of clones** = heat of fire opens cones where seeds are stored allowing germination immediately following favorable conditions
+        - Advantageous when the site is prone to frequent, intense fires
+    - **Wind-dispersed seeds** = propagates an abundance of very light seeds that are dispersed over long distances by wind
+        - Advantageous when the site is subject to spatially unpredictable disturbance (spread seeds far to ensure success and avoid disturbances close to parent plant)
+    - **Locally dispersed seeds** = propagates a few heavy seeds that are dispersed by gravity and animals
+        - Advantageous when the site in the vicinity of the parent plant is predictably safe for seedlings
+    - **Persistent juveniles** = seedlings capable of long-term persistence in a juvenile state to wait until conditions are favorable or disturbances stop
+        - Advantageous when the site is subject to low intensities of disturbances (wait for an opening to mature)
 
 # Plant Life Cycles
 - Plant life cycles include:
@@ -134,14 +144,29 @@
     - Helps to understand how much environmental changes a plant can sustain before the survival of individuals, or the normal development of populations can be affected
 
 # Light Availability
-- Uses of light:
+- **Uses of light:**
     - Allows plants to sense day length; reliable to time physiological events
     - Photosynthesis
 
-- **Acclimations to contrasting light environments:**
-    - Photosynthesis
+- **Shade tolerance** = plant's ability to tolerate low light levels; ability to adapt to low light environments to continue growth
+
+- Acclimations to contrasting light environments:
+    - **Photosynthesis**
         - The rate of photosynthesis is boosted in shady environments to allow for maximum light to be absorbed; compensating for scarcity in light by increasing rate of photosynthesis 
-    - Sunflecks and tree canopy
+    - **Sunflecks and tree canopy**
         - Sunfleck = instances of solar irradiance in which sunlight is able to directly reach the ground
-    - Leaves
-        - Leaves may change shape to maximize light interception when in shade (leaf shape at top vs. bottom canopy)
+    - **Leaves and needles**
+        - Leaves/needs may change shape to maximize light interception when in shade (leaf shape at top vs. bottom canopy); Only shade-tolerant species show such plasticity
+        - Full light pattern = light penetrates deeper into the crown (foliage layers)
+    - **Crown architecture**
+        - The shape of the crown may change to optimize light capture in each light environment; Only shade-tolerant species show such plasticity
+    - **Growth allocation**
+        - Full light > allocation to all parts (trees)
+        - Low light environment
+            - Shade intolerant species keep growing in height
+            - Shade tolerant virtually stop growth, except to foliage (sit and wait strategy)
+
+- **Light availability in summary:**
+    - Plants can be subjected to variable light environments
+    - Some species evolved to acclimate their physiology (more efficient), their growth pattern and their shape (improve light capture) to occupy distinct niches
+        - Applies to shade facultative plants

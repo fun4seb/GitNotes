@@ -27,7 +27,7 @@
 ### Simple Vector Data Model
 - **Main features:**
     - Also called "spaghetti" data model
-    - Features of independent of each others
+    - Features are independent of each others
 - **Benefits:**
     - Easy to create and store
     - Can be retrieved and rendered on screen very quickly

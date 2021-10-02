@@ -13,7 +13,7 @@
 - Legal definition = a refugee is a person who has crossed a border due to fear of **persecution**
     - "Persecution" is key to the legal (state) definition and is the root of its problem as there are more threats than just persecution that could cause someone (or entire populations) to flee their country for fear of harm
 
-### Nation-State
+> UN 1951 Convention: A person who owing to a well-founded fear of being persecuted for reasons of race, religion, nationality, membership of a particular social group or political opinion is outside the country of his nationality and is unable or, owing to such fear is unwilling to avail himself of the protection of that country; or who, not having a nationality and being outside the country of his former habitual residence as a result of such events, is unable or, owing to such fear, is unwilling to return to it."
 
 # Reading Notes: Who is a Refugee? - Andrew Shacknove
 - There are varying definitions of "refugee" from different sources and institutions however most states refer to the UN convention definition
@@ -33,13 +33,10 @@
 
 - The author is arguing that neither persecution nor alienage effectively capture what is essential about being a refugee; persecution is only one manifestation of a broader phenomenon, **the absence of state protection of the citizen's basic needs**
 
-## Minimal Social Bond
-- Minimal social bond = 
-
-## Refugees and Basic Needs
+- **Minimal social bond** = minimal requirements of the state to provide for its citizens and protect them from harm; if this minimal assurance of protection is not guaranteed by the state in times of crisis this bond has been broken causing peoples to seek protection from outside entities
 
 # Lecture Notes: Borders and Movement
-- Agenda:
+- **Topics discussed in this lecture:**
     - The border
     - Refugee definition
     - Canada's refugee policies
@@ -71,7 +68,11 @@
 - Monitors compliance with the 1951 convention, 1967 protocols
 - Role is essentially to protect refugees from state persecution
 
-## How is a Refugee Defined?
+## How is a Refugee Categorized?
+- **Migrant** = Someone who moves to another country, either on a temporary
+basis or to permanently resettle
+- **Refugee (international definition)** = (see UN 1951 convention definition)
+- **Refugee (Canadian definition)** = persons in need of protection
 
 ## How can a Refugee or Asylum Seeker enter Canada?
 1. At the border: by making a claim to the border officer
