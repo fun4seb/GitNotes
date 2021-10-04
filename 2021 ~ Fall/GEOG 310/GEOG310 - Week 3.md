@@ -76,13 +76,39 @@ Additional immigration posts were opened in the global south; resulting in a shi
     - You cannot return a refugee to its home-nation where they will experience punishment for seeking international support
 
 ## Boats in relation to Refugees
-- Boats as a symbol of resistance for refugees; the vessel in which they seek freedom and risk their lives in the process
-- St. Louis (1939)
+- Boats as a **symbol** of resistance for refugees; the vessel in which they seek freedom and risk their lives in the process
+    - Boats as a symbol associated with **invasion**
+    - Distinctly irregular form of travel; a refugee arriving to a country by boat sends a different message than arriving by plane
+    - Ex: St. Louis, Komagata Maru, "Summer of Boats"
+
+- Why do boats arriving on shores cause such controversy/panic?
+    - Security issue
+    - **Challenges the sovereignty** of the nation; refugees disregard any border rules and simply take their freedom into their own hands by arriving onshore
+
+- **The geography of Canada in relation to the transport of refugees:**
+    - Due to Canada's location (relatively inaccessible to most nations, other than by boat or air), and refugees must arrive on the west or east coast
+    - In modern times arriving to Canada by boat is an **unusual occurrence** and brings forth societal feelings of apprehension; people(s) arriving unexpectedly by boat at a country's border is cause for alarm
 
 - **Continuous Journey Regulation (1908)**
-    - All migrants must arrive on a continuous, uninterrupted journey from their country of origin to Canada; **subtle way of excluding distant nation (such as Asian countries) from seeking help in Canada**
+    - Rule stating that all migrants must arrive on a continuous, uninterrupted journey from their country of origin to Canada; **subtle way of excluding distant nation (such as Asian countries) from seeking help in Canada**
     - Succeeded in limiting south and east Asians from reaching Canada
-    - **Komagata Maru** (Indian ship holding South Asian migrants) challenged the sovereignty of Canada by disregarding this policy and chartering a ship anyways, resulting in them being sent back and punished by Britain
+    - **Komagata Maru** (Indian ship holding South Asian migrants) **challenged the sovereignty of Canada** by disregarding this policy and chartering a ship anyways, resulting in them being sent back and punished by Britain
+
+## "Summer of Boats"
+- The "Summer of Boats", refers to an event where hundreds of Chinese migrants seeking refugee status arrived on Canadian shores however only **5%** were accepted, mainly **women and children**
+
+- Why were women and children disproportionately accepted as refugees compared to men?
+        - Idea that women and children are the "ultimate" refugee that embodies victim-hood, while men are seen as threats/criminals and not deserving of help or pit; to be a man in need of support, or a confident and determined woman, is to defy the gendered roles of what a refugee should look like
+        - Examination of the successful claims reveals that the men who were successful were those who drew on narratives of masculine heroism and claimed refugee status due to religious persecution while the women who made similar claims based in religious were unsuccessful (because women who show confidence are not in accordance with the normative refugee image)
+        - There was a "script" to follow to prove your refugeeness, i.e. act like a helpless victim if woman, or a "heroic" man seeking shelter from religious/political persecution
+
+- Conflation of migrant women on boats with women being trafficked/sex-trade
+
+## Orientalism
+- **Orientalism** = mode of thought that distinguishes between the "Orient" (far east) and "Occident" (the west)
+
+- Orientalism is responsible with turning Asians in **"generalized others"**; us vs. them
+    - Enforces stereotype of the typical weak, shy, quiet Asian woman with no agency
 
 # Reading Notes: Women, Unaccompanied Minors, and Discourses of Criminalized Victimhood - Park
 - Explores Canadian refugee policy regarding uninvited migrants through the context of the "summer of boats" (event in the summer of 1999 where 600 Chinese migrants from Fujian province arrived off the coast of British Columbia in four separate boats, however 95% of them were denied access, largely only women and children were accepted and the rest were deported) 

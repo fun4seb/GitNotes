@@ -2,26 +2,27 @@
 
 # Lecture Notes: Environmental Imaginaries
 - What do we mean by imaginary?
-    - How we **imagine or understand the world**; basically ones worldview
+    - How we **imagine or understand the world**; basically one's worldview
 - Why does it matter how we understand the world?
-    - Our understanding affects our choices and actions
-    - Our understanding even affects what we are able to see
+    - How we think about things affects how we act
+    - Our understanding affects what we are able to see; the way we frame things in our imagination affects what sort of issues are visible to us
     - The imagination, of some people and organizations more than others, shapes the world in concrete ways
 
-- What is imagination?
+- What is imagination? (from Purdy reading)
     - "Imagination is how we see, and how we learn to see, how we suppose the world works, how we suppose that it matters, what we feel we have at stake in it… the bold speculations buried in our everyday lives"
     - "Imagination also enables us to do things together politically: a new way of seeing the world can be a way of valuing it; a map of things worth saving, or of a future worth creating"
 
 - **Social construction** = idea that the world we experience comes to us through our ideas about it; we construct our own reality through our perceptions and ideas around it
     - Specifically, how we understand the world depends on (1) how we think and feel about it as individuals, and (2) the range of ways that the society in which we live understands the world
+    - Idea that our imagination constructs the world we live in
 
 ## Environmental Imaginaries
 - Different environmental imaginaries make sense of the environment in quite different ways
     - Some environmental imaginaries focus on a non-human natural world, others describe human-populated rural and forested environments, the urban environment, or even the whole world!
-    - Not every environmental imaginary is equally valid and some are contradictory to others
     - **The spatial and material conditions of an environment influence the environmental imaginaries that may emerge from it**; ones understanding of their environment will develop very differently depending on the space they occupy
+    - Not every environmental imaginary is equally valid and some are contradictory to others
 
-- Environmental imaginaries are created around perceived environmental problems:
+- Environmental imaginaries are **created around perceived environmental problems:**
     - By stakeholders
     - By audience
     - Over time
@@ -30,7 +31,26 @@
 ### Studying Environmental Imaginaries
 - **Big point:** Analyzing environmental imaginaries is one way we will make sense of the various proposals for changing environment and society that we encounter in this class
 
-## Summary
+- **"Plowshare" Video Questions:**
+    1. **What is the "environment" according to the individuals or group portraying it?**
+        - A source of untapped potential for resources, a land to be harvested for gain or conquered
+        - Idea that nature is hostile; something to overcome
+    2. **According to them, what is the problem with the environment and who caused it?**
+        - Inaccessible for exploitation, often barren and unwelcoming to human development; this problem must be solved by tightening our grasp on the environment
+        - No existing logistical routes to access new material (uranium); must construct new logistical networks
+    3. **According to them, how is the problem to be resolved?**
+        - With operation "Plowshare"; explore and develop ways to use nuclear explosives in safe ways for land development and agriculture (Ex: clearing hills and rock blasting)
+    4. **Again, according to this group, who has the authority for the environment? Who should make the decisions?**
+        - The United States Atomic Energy Commission; The state
+        - Skilled workers such as engineers and scientists are given authority to make decisions due to their specialized knowledge
+    5. **Who is the intended audience for their proposal?**
+        - "Mankind" (American people); this proposal is seeking the approval of the American people to exploit the environment through nuclear technology and normalize the power source for use in military settings, all for the "betterment of mankind"
+    6. **Who will be included in this effort to solve the environmental problem and whom does it exclude?**
+        - The American people are included in this effort and stand to benefit from the exploitation of the environment due to the fact that it will lead to infrastructure development (the creation of jobs and demand for trades) and positively impact the economy
+        - Aboriginal peoples who depend on the health of the landscape and who are directly negatively impacted by its exploitation are excluded in this effort as their interests do not align with the stakeholders of operation Plowshare
+        - Citizens of foreign countries who stand to be oppressed or threatened with nuclear weaponry (Japan, Russia)
+
+## Environmental Imaginaries Summary
 - The idea of “environmental imaginaries” is a useful conceptual tool, After we work through ‘anointed’, we will have engaged with the three big environmental imaginaries: the Anthropocene (R. Nixon) and the two contrasting visions of nuclear technology
 - Employing the idea of an “environmental imaginary” as we have done today helps us analyze environmental campaigns or projects
 - Environmental imaginaries are diverse and contradictory
@@ -63,7 +83,13 @@
     3. Questions **entrenched power relations** including state power
     4. Insists that **no one is expendable**, that no group should be abandoned, for example, because they don’t have citizenship or because they are in prison, or because of where they live, or their identity etc.
 
-## Summary
+## Environmental Justice Summary
 1. We have an approach for analyzing how environmental justice problems are understood and enacted called **environmental imaginaries**
 2. We have an approach to evaluating such projects based on theories of **environmental justice**
 3. We have highlighted some risks associated this approach (see #2 above) as well some additional points that Pellow describes as the field of **critical environmental justice**
+
+# Reading Notes: Critical Environment Justice Studies - Pellow
+
+# Reading Notes: Climate Justice is Racial Justice - Almahdi
+
+# Reading Notes: The Alarming Impacts of the Pandemic on Bipoc Women - Edwards

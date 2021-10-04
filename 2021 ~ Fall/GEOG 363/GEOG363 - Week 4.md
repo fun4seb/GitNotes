@@ -164,7 +164,7 @@
 - **Usable algebra operators:**
     - **Logical operators:** =, >, <, >=, <=, <>
         - Ex: "Toxicity" > 8
-    - **Arithmetic operators:** +, -, *, /, ^
+    - **Arithmetic operators:** +, -, x, /, ^
         - Ex: "POP2001"/"AREA"
     - **Boolean operators:** AND, OR, NOT, XOR
         - AND: intersection of 2 sets (Belong to A and B)
@@ -188,9 +188,9 @@
 
 - Use **LIKE** to build a partial string search
     - If you are querying a shapefile:
-        - '_' indicates one character
-            - Ex: [OWNER_NAME] LIKE ’_atherine smith‘
-        - '%' indicates any number of characters
+        - ' _ ' indicates one character
+            - Ex: [OWNER_NAME] LIKE ’_ atherine smith‘
+        - ' % ' indicates any number of characters
             - Ex: [STATE_NAME] LIKE 'Miss%'
     
 - Queries are evaluated from according to standard operator precedence rules. Expression enclosed in parentheses is evaluated before the part that isn't enclosed

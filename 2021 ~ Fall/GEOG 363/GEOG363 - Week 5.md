@@ -24,7 +24,7 @@
     - Each GIS project is made of several layers
     - **For Spatial Analysis:** all layers should be in the same coordinate system
 
-- Two major types of coordinate systems:
+- Two major types of coordinate systems in GIS:
     - **Geographic coordinate system** = The mathematical or physical representation of the earth’s surface
         - Geoid (physical)
         - Spheroid (mathematical)
@@ -33,9 +33,18 @@
         - Convert a 3D (spherical) coordinate system into a 2D (planar) coordinate system
 
 # Geoids, Ellipsoids, and Datums
-- Geoid = a close representation or physical model of the figure of the Earth
-    - The shape of the geoid is irregular
+- **Geoid** = a close representation or physical model of the figure of the Earth
+    - **Physical model** for representing the Earth in 3D; accurate way of representing the Earth and its irregular topography however not useful for math or GIS applications
+    - The shape of the geoid is **irregular**; looks lumpy
     - Geoids are mostly used in Geodesy science (more accurate for elevation but cannot be modeled mathematically)
+
+- **Ellipsoid/spheroid** = simplified geometric representation of earth in the form of a perfect sphere or ellipse, it may not correspond perfectly to every place on earth (e.g high mountains)
+    - **Geometric model** for representing the Earth in 3D
+
+- **Datum** = "a mathematical model of the earth, which serves as the reference or base for calculating the geographic coordinates of a location”
+    - A datum is a reference ellipsoid together with an offset from the center of the Earth; By specifying different offsets, we can use the same standard ellipsoids in many different regions of the Earth
+    - Different countries will often use the same ellipsoid but with different offsets/datums
+    - A datum roughly approximates the surface of the earth at some mean sea level value
 
 # Geographic Coordinate Systems
 - A Geographic coordinate system is a non-projected coordinate system
@@ -43,7 +52,7 @@
 - Coordinate are given in **latitude** and **longitude** (Lat/Long)
     - Lat/Lon correspond to angles at the center of earth based on a defined origin
 
-- **Graticule** = spherical grid of co-ordinate lines over the planetary surface; graphical grid on a map or globe
+- **Graticule** = spherical grid of coordinate lines over the planetary surface; graphical grid on a map or globe
 
 - **Latitude:**
     - **Parallels** = lines of latitude
