@@ -119,7 +119,7 @@
     - Limit redundancy and duplication
     - **NOTE: tables cannot be linked through the FID**
 
-## Join and Relate
+### Join and Relate Tables
 - **Join:**
     - Consists in appending the attributes from one table into the other based on a common key field (Ex: joining two tables by ID's)
     - Can be used to join a non-spatial table(s) to a georeferenced feature attribute table

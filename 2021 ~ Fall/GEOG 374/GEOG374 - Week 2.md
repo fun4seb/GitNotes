@@ -1,22 +1,6 @@
-# GEOG374 - Week 2
+# GEOG374 - Week 2: Plant Establishment & Reproduction
 
-# Review: Plant Life Span
-- **Annual vs. Biennial vs. Perennial**
-    - **Annual = live 1 year**
-        - Short life cycle; germination to seed in a single growing season
-        - Limited by length of growing season
-        - Good colonizers because they produce many seeds; aggressive growers
-        - Ex: Wheat, rice
-    - **Biennial = live 2 years**
-        - Flowing in second year
-        - Occur in succession between ruderals (annuals) and perennial plants
-        - Ex: Raspberry
-    - **Perennial = live several years**
-        - Flowering is delayed to a time with good resources and storage
-        - Can regrow if cut or dead
-        - Ex: Banana tree, trees, shrubs
-
-# Review: Seed Reproduction Cycle
+# Seed Reproduction Cycle
 1. **Sexually mature woody plant**
     - Mature plants are divided by annuals (seeds produced within a growing season), Biennials (seeds produced in their second growing season), and perennials (regrow every season)
         - Chronological vs. physiological age; plants can grow at different rates and the same plant can be at a different stage in its cycle than another due to better or worse conditions, so its helpful to view trees as having "2 ages"
@@ -79,27 +63,6 @@
 
 - Impacts of earthworms increases with diversity in earthworm ecological groups (greater disturbance level)
 
-# Vegetative Reproduction
-- **Vegetative reproduction** = any form of asexual reproduction occurring in plants in which a new plant grows from a fragment of the parent plant or grows from a specialized reproductive structure
-
-- **Ways in which plants reproduce include:**  
-    - Underground organs (tuber, bulb, rhizomes)
-    - Root suckers
-    - Stolon
-    - Layering
-    - Sprouts
-    - Plantlets
-    - Bulbils (above ground bulbs)
-    - Clonal fragmentation
-    - Seeds
-
-- Some plants can both reproduce sexually and vegetatively
-    - Plants produce vegetatively when there are unfavorable conditions
-
-## Plant Clones
-- **Ramet** = refers to a single physiological individual produced by clonal propagation; a single "clone"
-- **Genet** = refers to a group of ramets that originate from a single seed
-
 # Regenerative Strategies of Plants
 - Regeneration methods:
     - **Vegetative** = new vegetative shoots remaining attached to parent plant until well established
@@ -117,6 +80,27 @@
     - **Persistent juveniles** = seedlings capable of long-term persistence in a juvenile state to wait until conditions are favorable or disturbances stop
         - Advantageous when the site is subject to low intensities of disturbances (wait for an opening to mature)
 
+## Vegetative Reproduction
+- **Vegetative reproduction** = any form of asexual reproduction occurring in plants in which a new plant grows from a fragment of the parent plant or grows from a specialized reproductive structure
+
+- **Ways in which plants reproduce include:**  
+    - Underground organs (tuber, bulb, rhizomes)
+    - Root suckers
+    - Stolon
+    - Layering
+    - Sprouts
+    - Plantlets
+    - Bulbils (above ground bulbs)
+    - Clonal fragmentation
+    - Seeds
+
+- Some plants can both reproduce sexually and vegetatively
+    - Plants produce vegetatively when there are unfavorable conditions
+
+- **Plant Clones:**
+    - **Ramet** = refers to a single physiological individual produced by clonal propagation; a single "clone"
+    - **Genet** = refers to a group of ramets that originate from a single seed
+
 # Plant Life Cycles
 - Plant life cycles include:
     - Growth
@@ -129,44 +113,3 @@
 - **Modular growth of plants:**
     - **Module** = length of stem between two nodes
     - It is beneficial for plants to grow in modular sections because if a higher module dies, a lower module will continue growing
-
-# Functional Ecology
-- **Functional ecology** = Role of physiology and traits of plants in their response to the environment
-
-- Helps to answer questions such as...
-    - Why are some species found in different light environments while others are only found in open environment?
-    - Why are species found in a specific soil conditions while others are more generalists?
-
-## Concept of Niche
-- **Fundamental niche** = the range of conditions that a species is physiologically capable of growing in
-
-- Importance of "niche" in environmental assessments
-    - Helps to understand how much environmental changes a plant can sustain before the survival of individuals, or the normal development of populations can be affected
-
-# Light Availability
-- **Uses of light:**
-    - Allows plants to sense day length; reliable to time physiological events
-    - Photosynthesis
-
-- **Shade tolerance** = plant's ability to tolerate low light levels; ability to adapt to low light environments to continue growth
-
-- Acclimations to contrasting light environments:
-    - **Photosynthesis**
-        - The rate of photosynthesis is boosted in shady environments to allow for maximum light to be absorbed; compensating for scarcity in light by increasing rate of photosynthesis 
-    - **Sunflecks and tree canopy**
-        - Sunfleck = instances of solar irradiance in which sunlight is able to directly reach the ground
-    - **Leaves and needles**
-        - Leaves/needs may change shape to maximize light interception when in shade (leaf shape at top vs. bottom canopy); Only shade-tolerant species show such plasticity
-        - Full light pattern = light penetrates deeper into the crown (foliage layers)
-    - **Crown architecture**
-        - The shape of the crown may change to optimize light capture in each light environment; Only shade-tolerant species show such plasticity
-    - **Growth allocation**
-        - Full light > allocation to all parts (trees)
-        - Low light environment
-            - Shade intolerant species keep growing in height
-            - Shade tolerant virtually stop growth, except to foliage (sit and wait strategy)
-
-- **Light availability in summary:**
-    - Plants can be subjected to variable light environments
-    - Some species evolved to acclimate their physiology (more efficient), their growth pattern and their shape (improve light capture) to occupy distinct niches
-        - Applies to shade facultative plants

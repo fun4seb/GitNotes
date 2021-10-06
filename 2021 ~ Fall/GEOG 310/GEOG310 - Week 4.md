@@ -105,7 +105,7 @@
 - **What cause this change in reaction to providing support to migrants arriving by boat?**
     - Controversial change in Canadian immigration policy (Bill C-11)
 
-# Reading Notes: Mystery Ships and Risky Boat People - Bradimore
+# Reading Notes: Mystery Ships and Risky Boat People - Bradimore & Bauder
 > ABSTRACT ~ On October 17, 2009, seventy-six Tamil refugees arrived off the coast of Victoria, British Columbia. This study examines how the Canadian newsprint media portrayed this event and in which policy context this coverage occurred. We analyze articles published between October 2009 and January 2010 from the Vancouver Sun, the Toronto Star, and the National Post. A discourse analysis addresses issues of framing, representation, and identity to understand how the Tamil refugee migration was represented in media debate. Our results show that there was an overall negative representation of the Tamil refugees as the press emphasized issues of criminality and terrorism, and constructed the refugees as risk. The discussion established security—rather than human rights—as a focal point and portrayed the immigration system as both “failing” and “abused” by “bogus claimants.” This security-oriented framework provided a discursive background for the refugee reform Bill C-11 to be ushered through Parliament later that summer
 
 - Article is examining the discourse and representation surrounding Tamil refugees in the media discourse and how this influenced/caused their (cold) reception among the Canadian population
