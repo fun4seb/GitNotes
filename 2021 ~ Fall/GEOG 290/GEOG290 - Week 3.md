@@ -19,7 +19,8 @@
 ## Environmental Imaginaries
 - Different environmental imaginaries make sense of the environment in quite different ways
     - Some environmental imaginaries focus on a non-human natural world, others describe human-populated rural and forested environments, the urban environment, or even the whole world!
-    - **The spatial and material conditions of an environment influence the environmental imaginaries that may emerge from it**; ones understanding of their environment will develop very differently depending on the space they occupy
+    - **The spatial and material conditions of an environment influence the environmental imaginaries that may emerge from it**; ones understanding of their environment will develop very differently depending on the space they occupy and the environment that shaped them
+        - How you are situated affects the kind of imaginaries you can come up with
     - Not every environmental imaginary is equally valid and some are contradictory to others
 
 - Environmental imaginaries are **created around perceived environmental problems:**
@@ -51,7 +52,7 @@
         - Citizens of foreign countries who stand to be oppressed or threatened with nuclear weaponry (Japan, Russia)
 
 ## Environmental Imaginaries Summary
-- The idea of “environmental imaginaries” is a useful conceptual tool, After we work through ‘anointed’, we will have engaged with the three big environmental imaginaries: the Anthropocene (R. Nixon) and the two contrasting visions of nuclear technology
+- The idea of “environmental imaginaries” is a useful conceptual tool to make sense of environmental campaign projects and how they conceptualize the environment
 - Employing the idea of an “environmental imaginary” as we have done today helps us analyze environmental campaigns or projects
 - Environmental imaginaries are diverse and contradictory
 - Some environmental imaginaries reinforce each other, others are in conflict, just like the varied environmental solutions and movements we will study in this class
@@ -67,15 +68,22 @@
 # Reading Notes: After Nature: A Politics for the Anthropocene - Purdy
 
 # Lecture Notes: Environmental Justice
-- Environmental justice is based on the notion that **everyone is entitled to the same levels of environmental and public health protection**
-    - Environmental justice as a field of research seeks to illuminate the processes and situations which lead to the violation of the above standard
-    - This course uses environmental justice as a lens to make sense of all kinds of environmental justice campaigns and solutions
+- **Environmental justice** = movement based on the notion that **everyone is entitled to the same levels of environmental and public health protection**; equal distribution of environmental responsibility and support for all peoples
+    - Environmental justice as a field of research seeks to understand the processes and situations which lead to the violation of the above standard
+    - This course uses environmental justice as a lens to make sense of all kinds of environmental campaigns and solutions and their efficacy
 
-## Pillars of Environmental Justice
-- **Three pillars of traditional environmental justice:**
-    1. The problem of **distribution:** redistributing environmental goods or ‘bads’ does not change the political system or social relations that creates those distributions in the first place
-    2. The problem of **participation:** often those invited to participate are leaders of the larger organizations only, often men, and others are often excluded
-    3. The problem of **recognition and inclusion:** often recognition can happen through the law, but then (1) law is not enforced, (2) getting the law passed may exhaust the people involved in the campaign, (3) some who struggle for environmental justice may not want recognition or inclusion by the state (Ex: indigenous nations on their territories)
+- An example of **environmental injustice** would be a situation where certain groups or regions are not receiving the same level of environmental and public health protection (Ex: People being exposed to pesticides, local industrial waste, or lack of clean drinking water)
+
+## Pillars of Traditional & Critical Environmental Justice Approaches
+- **Three pillars of traditional Environmental justice:**
+    1. **Distribution:** environmental justice is achieved through a fair distribution of environmental "goods" and "bads" to everyone regardless of race, region, class, etc.
+    2. **Participation** people that are affected by environmental justice need to be involved in the solutions
+    3. **Inclusion**
+
+- **Critical environmental justice goes beyond the traditional approach**, one way it does this is by **questioning the role of the state** and how it relates to the previous pillars:**
+    1. **The problem with distribution:** redistributing environmental "goods" or bads" does not change the political system or social relations that creates those distributions in the first place
+    2. **The problem with participation:** often those invited to participate are leaders of the larger organizations only, often men, and others are often excluded
+    3. **The problem with recognition and inclusion:** often recognition can happen through the law, but then (1) law is not enforced, (2) getting the law passed may exhaust the people involved in the campaign, (3) some who struggle for environmental justice may not want recognition or inclusion by the state (Ex: indigenous nations on their territories)
 
 - **Four pillars of critical environmental justice:**
     1. **Focuses on multiple forms of inequality and their relations** with each other; Intersectional approach to oppression that sees links between racism, sexism, homophobia, ableism, colonialism, speciesism, etc.
