@@ -1,4 +1,4 @@
-# GEOG310 - Week 5: Sanctuary Cities
+# GEOG310 - Week 5: Sanctuary Cities & Refugee Rights
 
 # Lecture Notes: Sanctuary Cities
 - **What is sanctuary?**
@@ -65,3 +65,7 @@
     4. **The problem of familism**
     
 ## From Reformist Reform to Transformative Reform
+
+# Lecture Notes: Do Refugees Have Rights?
+
+# Reading Notes: Right of Death and Power over Life - Foucault
