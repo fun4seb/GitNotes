@@ -17,6 +17,9 @@
     - Idea that our imagination constructs the world we live in
 
 ## Environmental Imaginaries
+- **Environmental imaginary** = ones unique vision of the world
+    - The material conditions of ones environment shapes their conception of what "environment" even means and this impacts how they choose to solve problems or perceive issues
+
 - Different environmental imaginaries make sense of the environment in quite different ways
     - Some environmental imaginaries focus on a non-human natural world, others describe human-populated rural and forested environments, the urban environment, or even the whole world!
     - **The spatial and material conditions of an environment influence the environmental imaginaries that may emerge from it**; ones understanding of their environment will develop very differently depending on the space they occupy and the environment that shaped them
@@ -63,8 +66,6 @@
 
 - Technocenstrism vs. ecocentrism
 
-## Environmental Problems and Social Construction
-
 # Reading Notes: After Nature: A Politics for the Anthropocene - Purdy
 
 # Lecture Notes: Environmental Justice
@@ -77,24 +78,42 @@
 ## Pillars of Traditional & Critical Environmental Justice Approaches
 - **Three pillars of traditional Environmental justice:**
     1. **Distribution:** environmental justice is achieved through a fair distribution of environmental "goods" and "bads" to everyone regardless of race, region, class, etc.
-    2. **Participation** people that are affected by environmental justice need to be involved in the solutions
-    3. **Inclusion**
+    2. **Participation** people and communities that are affected by environmental justice need to be involved in the solutions; environmental justice must be achieved through participatory efforts of all parties
+    3. **Recognition:** there must be formal laws and structures that are recognized by government advocating for environmental justice and equality; formal recognition (under law) in the eyes of the state
 
-- **Critical environmental justice goes beyond the traditional approach**, one way it does this is by **questioning the role of the state** and how it relates to the previous pillars:**
-    1. **The problem with distribution:** redistributing environmental "goods" or bads" does not change the political system or social relations that creates those distributions in the first place
-    2. **The problem with participation:** often those invited to participate are leaders of the larger organizations only, often men, and others are often excluded
+- **Critical environmental justice goes beyond the traditional approach**, one way it does this is by **questioning the role and efficacy of the state** and how it relates to the previous pillars:**
+    1. **The problem with distribution:** redistributing environmental "goods" or bads" does not change the political system or social relations that creates those distributions in the first place; band-aid solutions of redistribution cannot fix complex environmental or social issues
+    2. **The problem with participation:** often those invited to participate are leaders of the larger organizations only, often men, and others are often excluded; biased form of participation
     3. **The problem with recognition and inclusion:** often recognition can happen through the law, but then (1) law is not enforced, (2) getting the law passed may exhaust the people involved in the campaign, (3) some who struggle for environmental justice may not want recognition or inclusion by the state (Ex: indigenous nations on their territories)
 
 - **Four pillars of critical environmental justice:**
-    1. **Focuses on multiple forms of inequality and their relations** with each other; Intersectional approach to oppression that sees links between racism, sexism, homophobia, ableism, colonialism, speciesism, etc.
+    1. **Focuses on multiple forms of inequality and their relations** with each other; **Intersectional** approach to oppression that recognizes links between racism, sexism, homophobia, ableism, colonialism, speciesism, etc. and how these structures combine to oppress groups of people
+        - Ex: Black women may experience increased oppression due to the **intersection** of racism and sexism
     2. Takes seriously the way that environmental injustice (and justice!) **takes places across and between scales** and not just in one community or neighborhood
     3. Questions **entrenched power relations** including state power
-    4. Insists that **no one is expendable**, that no group should be abandoned, for example, because they don’t have citizenship or because they are in prison, or because of where they live, or their identity etc.
+    4. Insists that **no one is expendable**; no group should be abandoned or sacrificed (Ex: because they don’t have citizenship, are in prison, where they live, their identity etc.) so that others (global North) may live comfortably
+
+## Environmental Justice Atlas
+https://ejatlas.org/
+
+- **Premise/hypothesis of the environmental justice atlas:**
+    - Capitalist economies require raw materials to continue to grow
+    - As a result, the **frontiers of extraction** of these raw materials continue to expand; these frontiers are reaching increasingly sensitive, sacred, and protected areas
+    - There is an unequal spatial distribution of the effects of this extraction, causing environmental justice protests/campaigns to emerge and intensify as a result
+    
+- **Why collect these campaigns together in the environmental justice atlas?**
+    - Make struggles visible which are often invisible
+    - Advance understanding at multiple scales and places
+    - Encourage the environmental justice struggles
+    - Help organizers to connect with each other, to learn from each other, and eventually to join there voice together
 
 ## Environmental Justice Summary
 1. We have an approach for analyzing how environmental justice problems are understood and enacted called **environmental imaginaries**
-2. We have an approach to evaluating such projects based on theories of **environmental justice**
+    - What does the "environment" mean to these groups and how does that notion influence how they act and the solutions they create
+2. **Environmental justice** is a field which helps us to make sense of the efficacy of proposed environmental campaigns
+    - Environmental justice helps us analyze these campaigns and evaluate the outcome of proposed environmental projects
 3. We have highlighted some risks associated this approach (see #2 above) as well some additional points that Pellow describes as the field of **critical environmental justice**
+    - Critical environmental justice highlights the impact of the state on justice campaigns and how it can undermine the goal of environmental justice projects
 
 # Reading Notes: Critical Environment Justice Studies - Pellow
 

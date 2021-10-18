@@ -1,4 +1,4 @@
-# GEOG374 - Week 6: Life History
+# GEOG374 - Week 6: Life History Strategies
 - **Terraforming of Mars case study:** Identify the characteristics of the plant used for terraforming (Ideally, these characteristics must be found in one plant species)
     - **Growing conditions on Mars:**
         - Cold (average temperature is -64 C)
@@ -86,7 +86,7 @@
 - No consistent relationship between r-species or K-species and the amount of plants that produce many seeds often, however most species that produce few seeds infrequently are usually K-species
     - This is because the classification scheme of r and K species is **relative** determining on the scale of species measuring (Ex: a certain tree may be a K-species compared to weeds, but also considered a r-species when relating it to all trees)
 
-## Factors Limiting Biomass (Stress & Distrubance)
+## Factors Limiting Biomass (Stress & Disturbance)
 - Two factors limiting plant biomass:
     1. **Stress**
         - Conditions that restrict growth (Ex: shortages of light, water, or mineral nutrients and sub-optimal temperature)
@@ -120,3 +120,87 @@
 - Triangle matrix of: **competition, stress, disturbance**
     - Unit: % (maximum value)
     - % = importance in selection of species
+        - Competition important at 25%
+        - Stress important at 75%
+        - Disturbance important at 0%
+
+## Life History Strategies Summary
+- Life history strategies determine the success of organisms in their environment
+- Involves **trade-offs** between where and how to allocate resources (e.g., physiology, growth, architecture, reproduction)
+
+- **Ways of classifying life history strategies:**
+    - r-species and K-species
+    - CSR model (competition, stress and ruderal)
+
+# Plant Interactions
+- **Plant interactions between 2 species:**
+    - **Competition** = negative interaction between both species (they are competing with each other)
+    - **Amensalism** = neutral interaction for one species, but negative for the other
+    - **Neutralism** = neutral interaction between both species
+    - **Allelopathy parasitism** = positive interaction for one species (the parasite), but negative for the other
+    - **Commensalism (facilitation)** = neutral interaction for one species, but positive for the other
+    - **Mutualism** = positive interaction between both species
+
+# Competition
+- **Competition** = an interaction between individuals, brought about by a shared requirement for a resource in limited supply, and leading to a **reduction** in the **survivorship, growth and/or reproduction** of the competing individuals concerned
+
+- **Evaluating the impacts of competition (Grime vs. Tilman):**
+    - Scale
+        - Grime: individual
+        - Tilman: population
+    - Measure of success
+        - Grime: large size
+        - Tilman: dominance
+    - Why successful?
+        - Grime: capture + resources
+        - Tilman: less demanding
+    - Time scale
+        - Grime: short term
+        - Tilman: long term
+
+- **Impact of growing conditions on competitive hierarchy:**
+    - The growing conditions of an area have no consistent impact on the competitive hierarchy of species
+    - There are other factors involved in the dominance of a species in an ecosystem
+
+- **Impact of growing conditions on the evolution of competition:**
+    - While growing conditions may not impact the final outcome of competition between species (who thrives or fails), it does affect the speed in which competition plays out between plants
+    - **Competition increases more rapidly over time under favorable conditions**; good growing conditions allow competition to run its course more swiftly
+
+- **Type of competition:**
+    - Intraspecific and interspecific
+    - Symmetric (same regardless of plant size)
+    - **Asymmetric** (varies with plant size, Ex: light)
+        - Competitive success > greater resource capture > faster growth > larger size > greater resource capture **(feedback loop)**
+        - Why is asymmetric competition favored?
+            - Higher resource availability
+            - Higher resource capture (Ex: through mycorrhizae)
+            - Earlier germination
+            - Genes favor faster growth rates (leading to better resource capture/competitive advantage)
+
+- **Impacts of the type of competition on composition of communities:**
+    - **Symmetric competition** ("very similar") > **coexistence**
+        - Composition of community: balance between similar sized plants
+    - **Asymmetric competition** ("dissimilar") > **exclusion**
+        - Composition of community: domination of larger plants over smaller ones
+    - **Niche differentiation** ("very different") > **coexistence**
+        - Composition of community: coexistence of many species that each fill a specific niche within the area and do not interfere in success of other species (as each species is so different in its function/strategies)
+
+- **Impacts of competition on individual plants:**
+    - The amount of competition in an area impacts how the plant allocates its energy for growth to achieve the best results
+    - Plants situated in areas with a high density of competition allocate **less energy towards reproduction**, and **more energy towards stem and root growth** (to better capture resources and gain a competitive advantage)
+
+- **Description of populations:**
+    - Stand = 
+    - Even-aged vs. uneven-aged stand = 
+    - Balanced vs. unbalanced stand =
+
+- **Impacts of competition on populations:**
+
+- **Why are there still less competitive species?**
+    - Less competitive species may still thrive as they may establish in **unoccupied areas**, or have **alternative life strategies** (Ex: some species may be an inferior competitor but a much better disperser)
+
+## Competition Summary
+- Competition occurs when a resource (Ex: light, water, etc.) is in **limited supply**, possibly leading to a reduction in the survivorship, growth, and/or reproduction of plants who fail to compete against others for the limited resources
+- Can be assessed at the scale of an **individual** or a **population**
+- Competition increases more rapidly over time under **favorable conditions**; good growing conditions allow competition to run its course more swiftly
+- Competition is a key factor determining the **size distribution** of a population (better competitors outgrowing weaker ones) and in the **species composition** in a community (entire species out-competing other species)
