@@ -8,22 +8,23 @@
 
 ## Immigration/Refugees Categories in Canada
 - Various ways one may cross the border into Canada:
-    - Family reunification:
+    - **Family reunification:**
         - members of the family class
-    - Humanitarian:
+    - **Humanitarian:**
         - Convention refugees
         - Members of designated classes; persons eligible under special humanitarian measures
-    - Economic/business immigrants:
+    - **Economic/business immigrants:**
         - Entrepreneurs
         - Self-employed persons
         - Investors
         - Retirees
         - Other independent immigrants
 
-## What does "Illegal" Migration Generally Refer To
-- Anyone who's movement has not been sanctioned by the state
+## "Illegal" Migration
+- What does "Illegal" Migration Generally Refer To
+    - Anyone who's movement has not been sanctioned by the state
 
-- Processes that can "illegalize" a migrant:
+- **Processes that can "illegalize" a migrant:**
     - Someone who has entered with false documents
     - Unauthorized entry
     - Overstayed visa or work permit
@@ -31,18 +32,21 @@
 
 - Hanan stresses the importance of **language** and how it dictate the discourse surrounding refugees
 
-## How Many People are Illegalized Migrants in Canada?
-- Short answer is we don't know due to lack of data however it is an estimated 0.2-1.5 percent of Canada's population
+- How Many People are Illegalized Migrants in Canada?
+    - Short answer is we don't know due to lack of data however it is an estimated 0.2-1.5 percent of Canada's population
 
-## Canada Immigration and Refugee Protection Act
+- **Canada Immigration and Refugee Protection Act:**
+    - 34 (1) A permanent resident or a foreign national is inadmissible on security grounds for (f) being a member of an organization that there are reasonable grounds to believe engages, has engaged, or will engage in acts referred to in paragraphs (a) (espionage or subversion), (b) (subversion by force) or (c) (terrorism)
 
-## The Nation-State Retains the Power to Detain an Illegalized Migrant If...
-- They pose a public safety threat
-- There is a fear the illegalized migrant might flee (Ex: go underground)
-- The government is unsure of who they are (they cannot prove their identity)
+- The Nation-State retains the power to detain an illegalized migrant if...
+    - They pose a public safety threat
+    - There is a fear the illegalized migrant might flee (Ex: go underground)
+    - The government is unsure of who they are (they cannot prove their identity)
 
 ## UN Convention on Refugees
-- "The convention further stipulates that, subject to specific exceptions, **refugees should not be penalized for their illegal entry or stay**. This recognizes that the seeking of asylum can require refugees to breach immigration rules..."
+- The convention further stipulates that, subject to specific exceptions, **refugees should not be penalized for their illegal entry or stay**. This recognizes that the seeking of asylum can require refugees to breach immigration rules. Prohibited penalties might include being charged with immigration or criminal offences relating to the seeking of asylum, or being arbitrarily detained purely on the basis of seeking asylum. Importantly, the Convention contains various safeguards against the expulsion of refugees
+
+- Each Contracting State shall accord to refugees lawfully in its territory the right to choose their place of residence to move freely within its territory, subject to any regulations applicable to aliens generally in the same circumstances
 
 ## "Irregular Arrivals"
 - Undocumented
@@ -57,6 +61,7 @@
     - Most illegalized have come because they are in search of work or safety. If they are "unskilled" labor, they have few means to enter through an immigration system
     - Border patrols, walls, and militarized enforcement of borders is expensive
     - Migrants are integral to the economy, specific industries rely on cheap migrant labor (Ex: US agriculture)
+
 - **Reasons against amnesty:**
     - Amnesty would encourage more illegal migration, and undercut the wages of a local labor force
     - The government should not reward those who break the law

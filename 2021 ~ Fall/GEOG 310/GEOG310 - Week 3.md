@@ -28,22 +28,25 @@
 - Discrimination against minorities, migrants, and refugees was done not through overt violence but through selective policy
     - Ex: Chinese head tax to restrict immigration after Chinese migrants were no longer needed to build railways
 
-### 20th Century
-- 1930's: closed to newcomers except those from Britain and the US (selectively those of European descent; racist)
-- 1940's: large influx of displaced persons from Europe, establishment of clear ethnic and economic goals for immigration policy
-- 1952: new immigration act allows refusal of admission on the grounds of nationality, ethnic group, geographical area of origin, peculiar customs, habits and modes of life, unsuitability with regard to climate, probable inability to become assimilated
-- 1962: Canada abandoned its preference for White immigrants
+### Canadian Immigration Policy in the 20th Century
+- **1930's:** closed to newcomers except those from Britain and the US (selectively those of European descent; racist)
+- **1940's:** large influx of displaced persons from Europe, establishment of clear ethnic and economic goals for immigration policy
+- **1952:** new immigration act allows refusal of admission on the grounds of nationality, ethnic group, geographical area of origin, peculiar customs, habits and modes of life, unsuitability with regard to climate, probable inability to become assimilated
+- **1962:** Canada abandoned its preference for White immigrants
     - Admission to be based on individual personal characteristics; not nationality
-1967: point system created to facilitate and encourage the flow of skilled migrants
-Additional immigration posts were opened in the global south; resulting in a shift in typical region of immigrant origin
+- **1967:** point system created to facilitate and encourage the flow of skilled migrants
+
+- Additional immigration posts were opened in the global south; resulting in a shift in typical region of immigrant origin
 
 - These changes in policy resulted in a change in the demographics of Canadian society and lead to Canada being considered a **multicultural** nation
-    - **Multiculturalism understood as...**
-        - Empirical fact/lived realities:
-        - An ideology:
-        - A theory: sociological theories of difference and integration
-        - Government policy and programs:
-        - A practice
+
+## Multiculturalism
+- **What is multiculturalism?**
+    - **Empirical fact/lived realities:** More than 200 ethnic origins were reported in the 2011 National Household Survey (NHS). In 2011, 13 different ethnic origins had surpassed the 1-million mark
+    - **An ideology:** This values and encourages diversity and is usually associated with the view that we are tolerant, non-discriminatory, and respectful of others
+    - **A theory:** sociological theories of difference and integration
+    - **Government policy and programs:** It was adopted as official policy in Canada in 1971, that is, a policy of multiculturalism within a bilingual framework. A Multiculturalism Act was passed by Parliament and proclaimed in 1988. Canadian Heritage has a number of multicultural programs, such as heritage languages, support to multicultural councils, and ethnic events/ celebrations
+    - **A practice:** A multicultural practice means that institutionally there should be fair and equitable treatment of others by individuals, groups, and institutions (e.g. settlement services, diversity and equity policies, are not a part of Canada’s official multicultural policy but part of its ethos)
 
 ## Tibetan Refugee Pilot Project
 - In order to test the ramifications of an influx of displaced people into Canadian society and their ability to assimilate to a new community, Pierre Trudeau allowed a small amount of young Tibetan families (so they would assimilate easier) to enter Canada 
@@ -68,9 +71,9 @@ Additional immigration posts were opened in the global south; resulting in a shi
 
 ## Convention Relating to the Status of Refugees 1951
 - **Defines what is a refugee**
-- Rights
-- Obligations
-- Commitment of States
+    - Rights
+    - Obligations
+    - Commitment of States
 
 - **Principle of non-refoulement:** "No contracting state shall expel or return a refugee in any manner whatsoever to the frontiers of territories where his life or freedom would be threatened on account of his race, religion, nationality, membership of a particular social group or political opinion"
     - You cannot return a refugee to its home-nation where they will experience punishment for seeking international support
@@ -84,6 +87,7 @@ Additional immigration posts were opened in the global south; resulting in a shi
 - Why do boats arriving on shores cause such controversy/panic?
     - Security issue
     - **Challenges the sovereignty** of the nation; refugees disregard any border rules and simply take their freedom into their own hands by arriving onshore
+    - Irregular form of transportation
 
 - **The geography of Canada in relation to the transport of refugees:**
     - Due to Canada's location (relatively inaccessible to most nations, other than by boat or air), and refugees must arrive on the west or east coast

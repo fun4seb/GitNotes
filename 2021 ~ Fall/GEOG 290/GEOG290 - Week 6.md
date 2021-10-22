@@ -1,0 +1,1 @@
+# GEOG290 - Week 6: Transition to Capitalism in the Americas
