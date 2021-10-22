@@ -1,4 +1,4 @@
-# GEOG310 - Week 5: Sanctuary Cities & Refugee Rights
+# GEOG310 - Week 5: Sanctuary Cities & Biopower/State of Exception
 
 # Lecture Notes: Sanctuary Cities
 - **What is sanctuary?**

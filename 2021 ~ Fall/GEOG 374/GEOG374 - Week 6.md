@@ -1,4 +1,4 @@
-# GEOG374 - Week 6: Life History Strategies
+# GEOG374 - Week 6: Life History Strategies & Competition
 - **Terraforming of Mars case study:** Identify the characteristics of the plant used for terraforming (Ideally, these characteristics must be found in one plant species)
     - **Growing conditions on Mars:**
         - Cold (average temperature is -64 C)
