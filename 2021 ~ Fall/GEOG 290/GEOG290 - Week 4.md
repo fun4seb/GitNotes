@@ -61,3 +61,9 @@
     - We can describe what came before it (antecedents)
     - We can document alternatives to it (it is not the only way of conceptualizing the world)
     - We can trace geographies and histories of this concept 
+
+# Reading Notes: The Holy Bible, Genesis Chapter 1 - King James Version
+
+# Reading Notes: The Death of Nature - Merchant
+
+# Reading Notes: The Words Which Come First - Gabriel-Doxtater & Van den Hende

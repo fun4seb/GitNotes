@@ -1,4 +1,4 @@
-# GEOG363 - Week 7: Vector Analysis
+# GEOG363 - Week 7: Vector Analysis I
 
 # Measuring Vectors
 - Measuring objects: **lines**

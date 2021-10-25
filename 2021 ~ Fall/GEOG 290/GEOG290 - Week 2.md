@@ -1,9 +1,7 @@
 # GEOG290 - Week 2: The Anthropocene
-
-# Lecture Notes: The Great Acceleration and the Great Divergence
 - **"The two crises of the Anthropocene":** the great acceleration and the great divergence
 
-## The Anthropocene
+# The Anthropocene
 > Anthropocene ~ Geological epoch marking the start of significant human impact on Earth's geology and ecosystems, including, but not limited to, anthropogenic climate change
 
 - **The Anthropocene is...**
@@ -13,7 +11,7 @@
     - In other words, the Anthropocene is both a **description** and a **story** (see Nixon reading)
         - There are different ways to tell the story of the Anthropocene and how this story is told matters in what "solutions" get proposed and enacted
 
-## The Great Acceleration
+# The Great Acceleration
 - 1950's = **"The great acceleration"**
     - Period of enormous growth, coinciding with the rise of **globalization and industrialization**; significant point in the increased human impact on the Earth's environments
     - "Hockey stick graph" phenomena found on many graphs where there is a long period of no growth (flat line) and then a short period of enormous growth that coincides with the great acceleration; found on any graphs that mark the growth of some metric over time that is affected by humans across decades (temperature, CO2, plastic production, energy use, etc.)
@@ -27,7 +25,7 @@
 - Most relavent to the great acceleration are the changes associate with the growing **climate crisis**
     - Ex: rising temperatures, biodiversity loss, forest coverage loss, rising carbon dioxide levels, etc.
 
-## The Great Divergence
+# The Great Divergence
 > "In 2013, the world's eighty-five richest people had a net worth equal to that of 50% of the world population"
 
 - Also known as the **crisis of inequality**
@@ -38,7 +36,7 @@
 - **The great divergence in Canada:**
     - "minimum wage and the average hourly wage have remained the same since the 1970's while Canada's GDP and wealth of the top 1% has exploded during this time"
 
-## Neoliberalism
+# Neoliberalism
 > "The great acceleration and great divergence both really took off with the onset of neoliberalism in the late 1970's"
 
 - **Neoliberalism** = a political approach that favors free-market capitalism, deregulation, and reduction in government spending
@@ -114,6 +112,7 @@
     - defines the type of capitalist growth associated with Neoliberalism as **“accumulation by dispossession”** to highlight the extent to which these policies have redistributed wealth from the poorest to the wealthiest of people and places
 
 # Reading Notes: What the new UN report warning of climate impacts means for Canadians - Mortillario
+- Article reporting on the warming of the climate and the effects it will have on our planet and lives
 
 ## Deep Changes in the Arctic
 - The Arctic is warming at more than twice the rate than the rest of the world and polar regions have begun to experience extreme heat events at more than three times the global rate

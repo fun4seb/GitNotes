@@ -1,6 +1,12 @@
 # GEOG290 - Week 3: Environmental Imaginaries & Justice
+- **Organization of today's class:**
+    - What is an imaginary? Why should we care?
+    - What is an **environmental imaginary?**
+        - Two examples: "plowshare" and "anointed"
+    - What is **environmental justice?**
+        - Traditional and critical environmental justice
 
-# Lecture Notes: Environmental Imaginaries
+# Environmental Imaginaries
 - What do we mean by imaginary?
     - How we **imagine or understand the world**; basically one's worldview
 - Why does it matter how we understand the world?
@@ -16,8 +22,7 @@
     - Specifically, how we understand the world depends on (1) how we think and feel about it as individuals, and (2) the range of ways that the society in which we live understands the world
     - Idea that our imagination constructs the world we live in
 
-## Environmental Imaginaries
-- **Environmental imaginary** = ones unique vision of the world
+- **Environmental imaginary** = ones unique vision of the environmental world
     - The material conditions of ones environment shapes their conception of what "environment" even means and this impacts how they choose to solve problems or perceive issues
 
 - Different environmental imaginaries make sense of the environment in quite different ways
@@ -32,7 +37,9 @@
     - Over time
     - Across space
 
-### Studying Environmental Imaginaries
+## Plowshare: Studying Environmental Imaginaries
+https://www.youtube.com/watch?v=kpjFU_kBaBE
+
 - **Big point:** Analyzing environmental imaginaries is one way we will make sense of the various proposals for changing environment and society that we encounter in this class
 
 - **"Plowshare" Video Questions:**
@@ -68,7 +75,7 @@
 
 # Reading Notes: After Nature: A Politics for the Anthropocene - Purdy
 
-# Lecture Notes: Environmental Justice
+# Environmental Justice
 - **Environmental justice** = movement based on the notion that **everyone is entitled to the same levels of environmental and public health protection**; equal distribution of environmental responsibility and support for all peoples
     - Environmental justice as a field of research seeks to understand the processes and situations which lead to the violation of the above standard
     - This course uses environmental justice as a lens to make sense of all kinds of environmental campaigns and solutions and their efficacy

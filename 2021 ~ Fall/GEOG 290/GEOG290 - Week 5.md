@@ -31,29 +31,35 @@
     
 - The transition to capitalism resulted in a shift in the dominant understanding of nature; the western understanding of **environment as separate and subordinate to society** becomes the dominant view
 
-## Gender & Capitalism
+## The Commons and the Subordination of Women under Capitalism
+**Commons** = essentially nature/the public space used for the subsistence of peasants; includes all the resources and abundances of nature
+
 - **Gendered violence** toward women during the transition to capitalism:
     - As capitalism and western science emerged (1505-1650), women were targeted as "witches" and subject to violence
         - Witch hunts spread to the colonies
     - **Why were peasant women targeted by capitalism?**
         - Rural peasant women had a privileged position in the world of organic nature because they **embodied and knew the commons**
         - Because women embodied the common spaces that peasants depended on for resources, they **fiercely opposed the enclosure movement**
-        - They knowledge of the commons extended to medicines that grew in common lands
+        - Their knowledge of the commons extended to medicines that grew in common lands
         - Midwives and others who were knowledgeable about reproduction were seen as a threat to authorities and by the new institutions of science
 
 - **The labor status of women changed as the working class was made**; change in the distribution of labor forced women into the home while men occupy the public space
-    - Men received the work that was previously done by the women within the commons (that they had now lost), and women were now expected to do unpaid work within the household to support men making low wages
+    - Men received the work that was previously done by the women within the commons, and women were now expected to do unpaid work within the household to support men making low wages
         - Real wages were able to decline during the transition to capitalism primarily because **women were now performing unpaid labor to support men**
     - Women were forced into dependence on men because they were now expected to work inside the home
     - Huge increase in the number of sex workers
     - Creation of **nature enclosures** that reinforced the separation between environment and society
 
 - How were these new arrangements enforced?
-    - Context of the **birth of the modern state**; as the state increased its ability to target individuals in society through taxation, conscription, and policing, it facilitated capitalist relationships, the creation of the labor force, and the subjugation of women
-    - **administrative authority over the behavior of the people is strengthened during the transition to capitalism**, allowing the state to enforce economic change more radically
+    - Birth of the modern state; **administrative authority over the behavior of the people (through taxation, conscription, and policing) is strengthened during the transition to capitalism**, allowing the state to enforce economic change more radically (creation of labor force, subjugation of women, etc.)
+    - The new hierarchies that affected land ownership and gender relations were enforced by laws and ultimately state violence (Ex: witch trials)
 
-- **In sum, new environmental imaginaries that understood humans as separate from environment "naturalized" inequality in Europe:**
+- **New Capitalist environmental imaginaries that understood humans as separate from environment "naturalized" inequality in Europe:**
     - Enclosures lead to a loss of access to the commons including the medicinal plants and spiritual spaces found there
     - New "natural" gender roles in which women had almost no access to employment and depended on husbands and male family members for survival
     - For working class and peasant men, the new system offered a bargain: the loss of access to commons was "replaced" by the support of women doing unpaid labor in the home
     - The new gender hierarchies and land ownership patterns were enforced by violence, including gender-based violence (Ex: witch trials)
+
+# Reading Notes: Unearthing the Capitalocene - Moore
+
+# Reading Notes: Reading Caliban and the Witch Politically - Jeffries
