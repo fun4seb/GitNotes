@@ -1,5 +1,5 @@
-# GEOG290 - Week 7: Nature and Nation, Early Environmentalisms
-
+# GEOG290 - Week 7: Early Environmentalisms
+- **Environmentalism** = 
 # Reading Notes: The American Environment - Nash
 
 # Reading Notes: Wilderness, a Troubling Discourse - Robbins

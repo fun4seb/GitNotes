@@ -31,7 +31,9 @@
     
 - The transition to capitalism resulted in a shift in the dominant understanding of nature; the western understanding of **environment as separate and subordinate to society** becomes the dominant view
 
-## Subordination of Women under Capitalism
+## The Commons and the Subordination of Women under Capitalism
+**Commons** = essentially nature/the public space used for the subsistence of peasants; includes all the resources and abundances of nature
+
 - **Gendered violence** toward women during the transition to capitalism:
     - As capitalism and western science emerged (1505-1650), women were targeted as "witches" and subject to violence
         - Witch hunts spread to the colonies
@@ -50,7 +52,7 @@
 
 - How were these new arrangements enforced?
     - Birth of the modern state; **administrative authority over the behavior of the people (through taxation, conscription, and policing) is strengthened during the transition to capitalism**, allowing the state to enforce economic change more radically (creation of labor force, subjugation of women, etc.)
-    - The new hierarchies that affected land ownership and gender realtions were enforced by laws and ultimately state violence (Ex: witch trials)
+    - The new hierarchies that affected land ownership and gender relations were enforced by laws and ultimately state violence (Ex: witch trials)
 
 - **New Capitalist environmental imaginaries that understood humans as separate from environment "naturalized" inequality in Europe:**
     - Enclosures lead to a loss of access to the commons including the medicinal plants and spiritual spaces found there
