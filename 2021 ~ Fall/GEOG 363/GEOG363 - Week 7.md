@@ -15,11 +15,14 @@
 # Geoprocessing Tools
 - **Boolean operators:**
     - AND: intersection of 2 sets (Belong to A and B)
+        - Selects the area in common with two intersecting datasets
     - OR: Union of 2 sets (belong either to A or B)
+        - Selects everything from both datasets
     - XOR: Exclusive OR (Belong to A or B but not both)
     - NOT: Difference operator (belong to A but not to B)
 
 - **Buffering:**
+
 - **Overlay:**
     - Vector based overlaying in ArcGIS:
         - **Erase** = A NOT B
