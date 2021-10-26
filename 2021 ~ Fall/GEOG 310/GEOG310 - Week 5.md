@@ -66,6 +66,6 @@
     
 ## From Reformist Reform to Transformative Reform
 
-# Lecture Notes: Do Refugees Have Rights?
+# Lecture Notes: Biopower & State of Exception
 
 # Reading Notes: Right of Death and Power over Life - Foucault

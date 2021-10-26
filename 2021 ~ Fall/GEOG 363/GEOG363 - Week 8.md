@@ -1,19 +1,19 @@
-# GEOG363 - Week 8: Vector Analysis II
+# GEOG363 - Week 8: Vector Analysis II (Network Analysis)
 
 # Other Vector Layer Tools
-- **Clip:**
+- **Clip tool:**
     - Same principle of intersect
     - "Cookie cutter"; will cut this shape out of a larger area
 
-- **Dissolve:**
+- **Dissolve tool:**
     - Merges many polygons into newer aggregate polygons; Ex: dissolving provinces into a larger country
-    - "Uses attributes to aggregate unit polygons into lew, larger polygons which contain at least one common attribute from the samller polygons"
+    - "Uses attributes to aggregate unit polygons into few, larger polygons which contain at least one common attribute from the smaller polygons"
 
-- **Merge:**
+- **Merge tool:**
     - Bringing together 2 adjacent (in space) data layers in order to create a larger database
 
-- **Eliminate:**
-    - Used to eliminate polygons with an area less than a certain threshhold value; used to remove slivers
+- **Eliminate tool:**
+    - Used to eliminate polygons with an area less than a certain threshold value; used to remove slivers
     - Cleans up presentation of polygons and removes statistically insignificant polygons
 
 # Network Analysis
@@ -30,13 +30,13 @@
 
 ## Network Types
 - Transportation/**undirected network**
-    - Roads, rails, subways, pedestrian networks that can be travelled in **any directions**
+    - Roads, rails, subways, pedestrian networks that can be traveled in **any directions**
 
 - Geometric utility/**directed network**
     - Water, sewers, natural gas, electrical networks are networks that **only flow in one direction** often due to natural forces
 
 ## Example of Applications of Network Analysis
-- **Shortest path analysis** = find the shortest parth between two points
+- **Shortest path analysis** = find the shortest path between two points
 - **Service area solver** = find all areas within a set distance that can be reached from one point; determine pizza place service area
 
 ## Utility Network
