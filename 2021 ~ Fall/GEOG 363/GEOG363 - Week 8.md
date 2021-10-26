@@ -44,9 +44,4 @@
     - A **source**, pushing the resource
     - A **sink**, pulling the resource
 
-<<<<<<< HEAD
-- Ex: If a valve fails, how many and which consumers will be affeceted?
-
-=======
-- Ex: If a valve fails, how many and which consumers will be affeceted?
->>>>>>> 50d6624867569fd646c265c7b3eeff52a3c883ca
+- Ex: If a valve fails, how many and which consumers will be affected?
