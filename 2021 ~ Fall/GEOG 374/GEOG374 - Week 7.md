@@ -96,7 +96,7 @@
 ## Specificities of Plant Population
 - **Plant age/size can be unreliable**
     - Some plants can sit and wait or grow rapidly in the same time
-    - Events can revert plants to a "younger" age
+    - Certain events or disturbances can revert plants to a "younger" age
 
 - Because of unreliability of plant age, **life stage** can be used in population models
 
@@ -161,4 +161,14 @@
         - Species are distributed individualistically
         - Gradual changes in composition along environmental gradients (usually)
         - Species interactions may influence community structure
-    - 
+    - We can observe any pattern between community unit and individualistic
+
+- **Bioclimatic domains** = an area characterized by a particular type of vegetation and climate
+    - Ex: Forest tundra zone, boreal forest zone, northern temperate zone
+
+## Plant Communities Summary
+- Communities are a collection or association of plant species within a designated geographical unit (local)
+- Communities result from a structured and/or random clustering of species
+    - Environmental and/or species interactions
+
+- The concept of communities is used as a tool for the management of natural resources or for the description of local vegetation
