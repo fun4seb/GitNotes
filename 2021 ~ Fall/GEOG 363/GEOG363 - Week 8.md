@@ -45,5 +45,3 @@
     - A **sink**, pulling the resource
 
 - Ex: If a valve fails, how many and which consumers will be affeceted?
-=======
->>>>>>> d5c8257363b6308627fe53551fde850be3879a57
