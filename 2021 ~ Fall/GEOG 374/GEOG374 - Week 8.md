@@ -68,3 +68,39 @@
         - Low mortality
     - Creeping ground fire > some snags (but most trees survive)
         - Low mortality
+
+## Return Interval
+- **Return interval** = The time between fires in a defined area
+    - Average frequency of fires for a given area; different depending on local conditions and biome
+
+- The return interval of a fire impacts the average **age distribution** of plants in an area:
+    - Shorter return intervals mean fires are more frequent and result in the average age of plants in an area being younger (older plants are wiped out by frequent fires)
+    - Ex: an area with a return interval of 10 years will have many younger plants vs. an area with a return interval of 100 years will have more mature plants as there is more time to grow between disturbances
+
+- Examples of fire return interval:
+    - Prairies: 2-3 years
+    - Chaparral: 25-100 years
+    - Boreal forest: 25-1000 years
+    - Pacific Northwest coastal forest: rare or absent
+
+## Vegetation Response to Fire
+- Species attributes relative to early post fire rejuvenation:
+    - First vital process: mode of regeneration and reproduction
+        - **Vegetative based:**
+            - V species: able to resprout if burned in the juvenile stage
+            - W species: able to resist fire in the adult stage and to continue extension growth after it (although fire kills juveniles)
+        - **Disseminule based:**
+            - D species: with highly disperse propagules
+            - S species: storing long-lived propagules in the soil
+            - C species: storing propagules in the canopy
+    - Second vital process: communal relationships
+        - T species: tolerants that can establish immediately after a fire and can persist indefinitely thereafter without further perturbations
+        - R species: tolerants that cannot establish immediately after fire but must wait until some requirement has been met (Ex: shade)
+        - I species: intolerants that can only establish immediately after a fire; Rapid growth pioneers, they tend to die out without recurrent disturbances
+
+## Fire Summary
+- Weather, fuel quantity, fuel continuity, and landforms determine fire behavior
+- Plant mortality and legacy observed at several scales (individual/local to landscape)
+- Fire return interval influences the age distribution of communities
+- Fire types and return interval vary among ecosystems
+- Different strategies used by plants allow them to survive or establish after a fire event

@@ -1,9 +1,10 @@
 # GEOG363 - Week 8: Vector Analysis II (Network Analysis)
 
-# Other Vector Layer Tools
+# Other Geoprocessing Tools
 - **Clip tool:**
     - Same principle of intersect
     - "Cookie cutter"; will cut this shape out of a larger area
+    - Similar to boolean operator AND (union tool)
 
 - **Dissolve tool:**
     - Merges many polygons into newer aggregate polygons; Ex: dissolving provinces into a larger country
