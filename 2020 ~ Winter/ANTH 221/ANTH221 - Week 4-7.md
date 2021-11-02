@@ -1,4 +1,4 @@
-# ANTH221 - Week 4 -7
+# ANTH221 - Weeks 4-7
 
 - Key idea of lecture: **Does culture have to “make sense”? Do religious symbols need to have a “rational” basis to be meaningful?**
 
@@ -133,7 +133,7 @@ The only real difference between the symbolic “dirt” of “primitives” and
 - CATEGORIES ARE SYMBOLIC CONSTRUCTS.
 - This does not mean that categories do not have a material reality, simply that material “reality” is interpreted by humans in symbolic ways.
 
-## IS OUR EXPERIENCE OF COLOR BIOLOGICALLY PRE-DETERMINED OR CULTURALLY PARTICULAR? ~ What about colors?: 
+## IS OUR EXPERIENCE OF COLOR BIOLOGICALLY PRE-DETERMINED OR CULTURALLY PARTICULAR? ~ What about colors?:
 - Aren’t those “universal” symbols?
 - In other words, don’t we all perceive (at least a minimal set of) colors?
 - Yes, we do perceive colors, but the “colors” thatwe see are by no means the same

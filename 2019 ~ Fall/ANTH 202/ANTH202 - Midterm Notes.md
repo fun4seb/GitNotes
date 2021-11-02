@@ -54,7 +54,7 @@
 * Fallowing is crucial in maintaining the viability of horticulture
 * Allows the plot to recover lost nutrients and improves soil quality by allowing the growth of weeds whose root systems keep the soil loose
 
-# Theory of Entitlement 
+# Theory of Entitlement
 * Amartya Sen, an economist and a philosopher, proposed the theory of entitlements to explain why some groups suffer more than others during a famine
 
 > Entitlement ~ culturally defined right to life-sustaining resources
@@ -200,7 +200,7 @@ and Central Africa
     - Everyone has equal access to all resources
   - Most agricultural and industrial/digital societies exhibit consumption inequalities, some severe
 
-## Consumption funds 
+## Consumption funds
 * Category of a personal or household budget used to provide for consumption needs and desires
 * Five consumption funds:
   1. Basic needs fund
