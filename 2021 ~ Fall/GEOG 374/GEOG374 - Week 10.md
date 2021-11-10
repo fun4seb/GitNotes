@@ -39,7 +39,7 @@
         - Wind concentrates as it flows upward over hills
         - Wind flowing through a valley (like a river) is strongest at the peak and valley
         - Wind flowing across a valley is strongest at the peak and weakest in the valley (wind shade)
-    - 
+
 ## Wind Disturbance in Dune Communities
 - **Response of plants to wind** is determined by:
     - Frequency and magnitude of soil movements

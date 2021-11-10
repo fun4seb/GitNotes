@@ -1,6 +1,4 @@
 # GEOG363 - Week 2: Vector & Raster Data
-
-# Lecture Notes: Vector Data
 - **Spatial features/entities on earth can be described by their:**
     - Location (Ex: latitude, longitude)
     - Characteristics (Ex: color red, width of 5m, population of 435); represented by **attribute data**
@@ -18,13 +16,13 @@
     - Building blocks: points, lines, polygons
     - Usable for: **discrete data**
 
-## Vector Data
+# Vector Data
 - With vector data, spatial features are identified individually and represented by **coordinates**
     - A **point** is the building block of **lines and polygons**
         - A line is a set of connected points
         - A polygon is a closed circuit of lines
 
-### Simple Vector Data Model
+## Simple Vector Data Model
 - **Main features:**
     - Also called "spaghetti" data model
     - Features are independent of each others
@@ -35,7 +33,7 @@
 - **Drawbacks:**
     - Inefficient for modeling relationships between geographic objects (Ex: road network)
 
-### Topological Vector Data Model
+## Topological Vector Data Model
 - **Topology** = a set of rules that model the relationship between neighboring points, lines, and polygons and determines how they share geometry
     - **Concerned with connectivity vs. contiguity**
         - Connectivity = if two arcs are connected at nodes; is there a path between nodes?
@@ -65,14 +63,7 @@
         - The space of a real map must be completely filled
         - Polygons must not overlap
 
-## Summary: Which Data Model Should You Use
-- **General rule:**
-    - **Vector model:** for discrete data such as rivers, roads, buildings, and political boundaries
-        - **Topological:** when concerned with analysis related to connectivity or contiguity
-        - **Simple:** all other cases
-    - **Raster model:** for continuous data such as elevation, temperature, etc.
-
-# Lecture Notes: Raster Data
+# Raster Data
 - **Review**
     - **Geographic information systems (GIS)**
         - Purpose:
@@ -205,6 +196,13 @@
     2. The category at the **central point** of each cell gets represented
 
 - **If a small entity is located at the intersection between 4 cell, it is possible it will not be shown according to each assignment method** (doesn't take up the majority of any one cell and isn't at the center of any one cell)
+
+## Summary: Which Data Model Should You Use
+- **General rule:**
+    - **Vector model:** for discrete data such as rivers, roads, buildings, and political boundaries
+        - **Topological:** when concerned with analysis related to connectivity or contiguity
+        - **Simple:** all other cases
+    - **Raster model:** for continuous data such as elevation, temperature, etc.
 
 # Reading Notes: Chapter 2 - Data Models (Perusall)
 - **Reading questions:**

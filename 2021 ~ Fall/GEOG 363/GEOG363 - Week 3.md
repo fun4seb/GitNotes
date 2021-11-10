@@ -1,6 +1,4 @@
 # GEOG363 - Week 3: Mapping
-
-# Lecture Notes: Mapping I
 - **Cartography** = "representation, normally to scale and on a flat medium, of a selection of material or abstract features on, or in relation to, the surface of the Earth"
 
 - **Maps and GIS**
@@ -13,7 +11,7 @@
     - Locations in 2 dimensions (x,y); describes **where**
     - Attributes related to the "where" (describes **what**)
 
-## The Cartographic Elements
+# The Cartographic Elements
 - The main function of a map is to better **understand** and/or **communicate** geographic information and structure
 
 - **Maps must:**
@@ -24,7 +22,7 @@
         - Clear visual perception: follow the rules of visual perception and design (color conventions, visual hierarchy, balance)
         - Conventional (water in blue, etc.)
 
-### Map Elements
+## Map Elements
 1. **Projection** (depends)
     - The link between the ellipsoid (Earth) and a flat map; projection method of projecting the 3-D earth onto a 2-D map (Ex: Mercator, Robinson, etc.)
     - Fundamental concept in GIS
@@ -72,7 +70,7 @@
         - Avoid redundancy and non-useful information (Ex: "Legend" heading)
         - Information should be consistent
 
-### Map Symbology
+## Map Symbology
 - **Map Symbology** = the use of appropriate **symbols** to represent the spatial patterns and process
 
 - **For nominal data:**
@@ -91,7 +89,7 @@
     - Lines: can be graduated. Contours are the most common form of this line symbol (elevation value and position & calculation of slope).
     - Polygons: can use variations in color value and pattern to show a gradual progression of data values
 
-### Rules of Visual Perception
+## Rules of Visual Perception
 - **Visual acuity**
     - Ability of the human eye to differentiate between fine details; includes differentiation of gray tones, color hues, linework, symbol, etc.
     - Legibility of the smallest details: (assumes perfect vision)
@@ -114,7 +112,7 @@
     - Ordering of map elements where important features are "popping" in the foreground and less important features are less visually grabbing; if every feature is competing for your attention the map becomes confusing and messy
         - Adds **depth** and **ordinality** to map
 
-### Color Conventions
+## Color Conventions
 - Certain color associations have been used to derive color conventions in mapping:
     - Land masses = tan
     - Water = blue
@@ -122,15 +120,15 @@
 
 - **Bold indicates IMPORTANCE**
 
-## Map Types
+# Map Types
 - **Reference maps:**
-    - Emphasis is on location; the **
+    - Emphasis is on location; the **where**
     - All data is at the same level of importance
     - Serve mobility and navigation needs
     - Reference map examples: topographic, street, atlas
 
 - **Thematic maps:**
-    - Emphasis is on location AND attribute values
+    - Emphasis is on location AND attribute values ("where" + "what")
     - Attributes = qualities or magnitudes related to the graphical information (non-graphical information that describes the **"what"**)
     - By mapping locations AND attributes we can formulate:
         - Relationships among locations (Ex: distance)
@@ -138,12 +136,6 @@
         - Relationships among the locations of a given attribute (e.g. rainfall or temperature from place to place)
         - Two or more levels of importance
     - Thematic map examples: choropleth, dot, graduated symbol, isoline, flow, value-by-area maps
-
-# Lecture Notes: Mapping II
-- Map types:
-    1. Reference maps
-    2. Thematic maps
-        - Require a **classification method**
 
 ## Reference Maps
 - Emphasis is on location; the **“where”**
@@ -170,6 +162,8 @@
     - Dot density (can be used with count or raw data, and rates)
     - Cartograms
     - Isarithmic/isoline
+
+- Thematic maps require a **classification method**
 
 ### Choropleth
 - Uses graduated colors to show **relative data** (no raw data, no counts)
@@ -214,7 +208,7 @@
 - Isoline refers to a line symbol to connect points of equal or constant value.
 - For interval/ratio data
 
-## Classification
+# Classification
 - **Classification** = process of transforming quantitative data into ordinal data (classes)
 
 - **Two step process:**
@@ -241,7 +235,7 @@
     - **Median** = the median of a finite list of numbers can be found by arranging all the observations from lowest value to highest value and picking the middle one
     - **Mode** = represents the most frequent value occurring in a sampling of a random variable
 
-### Classification Methods
+## Classification Methods
 - **Natural Breaks or Jenks method**
     - Class breaks are set where there are jumps in values
     - Minimizes within-class variation, maximizes between-class variation
