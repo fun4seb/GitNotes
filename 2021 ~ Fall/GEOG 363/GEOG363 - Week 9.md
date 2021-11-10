@@ -135,22 +135,77 @@
         - Those that work on cell locations within a neighborhood
     - **Zonal functions**
         - Those that work on cell locations within zones
-    - **Global functions; proximity functions**
+    - **Global/proximity functions**
         - Those that work on all cells within a raster (global)
     - **Application functions**
         - Those that perform a specific application (Ex: hydrologic analysis functions)
     - **Cartographic model**
 
 ## Local Functions
-- Operate on the value of each cell
+- Operate on the value of each **single cell**
 - Operations are independent of attribute values in neighboring cells
 - New raster layer as function of input raster layers
 
+- For a single dataset, examples of per-cell functions are mathematical functions (e.g. square root, sin, exponential log, etc), reclassification
+
 ## Focal Functions
-- The value of a cell is determined by neighboring cells
+- The value of a cell is determined by **neighboring cells**
 - Explicitly make use of spatial associations to determine value of locations in output layer
 
 - **Three elements of focal functions:**
     1. Target location
     2. Specification of neighborhood around target
     3. Determine function to perform calculation (Ex: mean, std, min, etc.)
+
+### Filtering
+- **Filtering using moving windows**
+    - Involves moving a window of 3x3, 5x5, etc. an image 1 pixel at a time
+    - Applies a mathematical calculation using pixel values under that window (e.g. mean, median, or mode)
+    - Replace central pixel under window with new value
+
+- **Low pass filter** = smooths an image
+    - Emphasizes gradual trends at expense of local variability
+    - Can be used to remove noise or artifacts in raster images
+
+- **High pass filter** = sharpens an image (enhances edges)
+    - Emphasizes abrupt changes in cell values
+    - Brings out detail, high frequency information at expense of general trends
+
+## Zonal Functions
+- Operate on properties of **region (or zone)** to which a cell belongs
+- These properties might be area, or shape
+- Or attributes having a certain value on one grid with an area defined by a region on another grid
+
+- **Applications of zonal functions:**
+    - Urban planner may want to know average green space per planning zone or unit
+    - Hydrologist may want to know average slope and height per watershed
+    - Crop scientist may want to compute average soil nitrogen content per paddy field
+
+## Global Functions
+- **Proximity functions** = compute an attribute value for each cell according to length of shortest path between that cell and a target location/area
+
+## Application Functions
+- An application function performs an analysis that is specific to a discipline
+    - Ex: hydrology functions create a stream network and delineate a watershed. You may find that a specific application function can manipulate cell-based data for an entirely different application from its category. For example, calculating slope is a surface analysis function that can be useful in hydrologic analysis as well
+
+- **Application functions include the following:**
+    - Density analysis
+    - Surface generation
+    - Surface analysis
+    - Hydrologic analysis
+    - Geometric transformation
+    - Generalization
+    - Resolution altering
+
+## Cartographic Model
+- **Cartographic model** = Set of interacting, ordered map operations that act on raw data, as well as derived and intermediate data, to simulate a spatial decision making process
+    - Usually presented in graphic form
+    - Implemented in the form of macros or a graphic modelling environment
+    - An organizational tool; helps you think
+
+- The functions associated with raster cartographic modeling can be divided into five types:
+    1. Those that work on single cell locations **(local functions)**
+    2. Those that work on cell locations within a neighborhood **(focal functions)**
+    3. Those that work on cell locations within zones **(zonal functions)**
+    4. Those that work on all cells within the raster **(global functions)**
+    5. Those that perform a specific **application** (Ex: hydrologic analysis functions)

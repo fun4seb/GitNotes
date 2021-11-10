@@ -22,7 +22,7 @@
     - **Physical** impacts on a plant: membrane damage (viscosity, leakage) > Osmotic breakdown > Wilting/drying of tissues > **heat death**
     - **Biochemical** impact on a plant: protein/enzyme inactivation > protein denaturation > **heat death**    
 
-## Tolerance adaptations to high temperatures
+## Tolerance Adaptations to High Temperatures
 - **Morphological** adaptations:
     - Insulation by hairs; insulate tissues against high temperature by becoming more "hairy"/fuzzy on the surface of the plant
     - Reflection by hairs; reflect heat by making leaves lighter in color through growing this hair/fuzz
@@ -37,7 +37,7 @@
     - Heat shock proteins
     - Leads to **acquired thermotolerance** which = **heat survival**
 
-## Tolerance adaptations to low temperatures (frost survival)
+## Tolerance Adaptations to Low Temperatures (Frost Survival)
 - Frost Survival is accomplished through...    
     - **Prevention of freezing:**
         - Insulation (Ex: grow under the snow cover)

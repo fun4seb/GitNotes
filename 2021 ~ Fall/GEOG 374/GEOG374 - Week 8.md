@@ -60,8 +60,8 @@
         - Surface
         - Ground
 
-## Mortality Patterns
-- **Fire behavior** determines the **fire affects**
+### Mortality Patterns
+- **Fire behavior** determines the **fire affects** (mortality pattern; what is left surviving after a fire)
     - Crown fire > snags (completely burnt trees are left behind)
         - High mortality
     - Active surface fire > scorched lower needles (but tops of forest cover left intact)
@@ -69,8 +69,8 @@
     - Creeping ground fire > some snags (but most trees survive)
         - Low mortality
 
-## Return Interval
-- **Return interval** = The time between fires in a defined area
+## Return Interval of Fire
+- **Return interval** = The time between fires in a defined area; frequency of fires
     - Average frequency of fires for a given area; different depending on local conditions and biome
 
 - The return interval of a fire impacts the average **age distribution** of plants in an area:
@@ -97,6 +97,39 @@
         - T species: tolerants that can establish immediately after a fire and can persist indefinitely thereafter without further perturbations
         - R species: tolerants that cannot establish immediately after fire but must wait until some requirement has been met (Ex: shade)
         - I species: intolerants that can only establish immediately after a fire; Rapid growth pioneers, they tend to die out without recurrent disturbances
+
+## Controlling Wildfires: To Burn or not to Burn?
+- Use of fire by Native Americans and European settlers
+- Fire became an enemy > control of wildfires to limit losses
+- As a result:
+    - Longer period between fires
+    - Change in species composition and structure (succession)
+    - Endangered species
+    - More fuel biomass
+
+- Having control over wildfires (i.e. stopping all periodic fires) leads to:
+    - **More severe (suppressed) fires**, due to more biomass/ladder fuel being available to burn (not being periodically burnt away by a healthy frequency of fires)
+        - Stopping ALL fires actually leads to more severe suppressed fires from emerging due to the fact that healthy periodic fires limit the biomass available for severe fires to emerge
+
+- **Ladder fuel** = medium height biomass (dead trees, shrubs, etc.) that when burnt allows fire to travel up (like a ladder) to the crown from the surface
+    - Periodic fires limit the abundance of ladder fuel and make more severe crown fires less likely in the future
+
+- **Fire severity:** periodic fire vs. suppressed fire
+    - **Periodic fires** burn away surface biomass and ladder fuel and limit the accumulating fuel that may cause a more severe crown fire in the future
+    - **Suppressed fires** occur when fire has attempted to be avoided and the buildup of biomass on the surface causes a severe fire to take place and quickly spread to crown/other areas
+
+## Fire Solutions
+- To reduce the threat of catastrophic fire > **reduce fuel load and fuel continuity preemptively**
+    - Grazing/mowing grass
+    - Controlled burns
+    - Partial harvesting with controlled burns
+    - Pruning
+
+- **Measures to limit fuel continuity:**
+    - Fuel breaks (features that separate the continuity of fuel within an area)
+        - Roads
+        - Hardwood stands
+    - Sprinkler lines
 
 ## Fire Summary
 - Weather, fuel quantity, fuel continuity, and landforms determine fire behavior
