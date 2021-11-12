@@ -4,9 +4,15 @@
 - **Film review questions:**
     1. Briefly summarize the topic of the film
     2.  What are its themes? What issues does the film-maker raise? What is the purpose of the film?
+        - Hopelessness
+        - Vulnerability
+        - (lack of) fairness/justice
+        - Liminality
     3. Evaluate the representation of refugees in the films. How are refugees portrayed? How are these portrayals in conversation with our readings? Are the representations of refugees helpful to raising awareness and ultimately supporting those fleeing persecution, conflict, etc? What are your critique(s) of the film?
         - Refugees as people in a state of permanent transit and displacement
         - Allowing people to become refugees as an act of cruelty; robbing people of all security and normalcy, reducing them to helpless people without agency over their future at the mercy of unwelcoming host countries
+        - The film is portraying refugees as people deserving of respect and humane consideration.
+        - Ai Weiwei created this film to humanize refugees. To recognize each one as individuals with individual needs and aspirations beyond their immediate situation; Ai Weiwei is demanding the viewer to respect the struggles of refugees and empathize with their lives on a more personal and human level than explored by the media
 
 - Displaced people as people united under a common struggle
     - How is this idea presented in the film?
@@ -50,6 +56,18 @@
 - The film also highlight the realities of refugee lives, instances of sexual violence are commonplace
 
 - Ai Weiwei, states plainly "I respect you", when sharing passports with a Syrian man loving at a camp
+
+- Dr. Cem Terzi explains that the people living in Turkish camps without humanitarian aid are only allowed within Turkey under temporary protection, meaning they have no international rights as refugees; Many refugees have no form of legal protection and are at the mercy of host countries who may expel them at any time due to not being recognized as a refugee.
+    - Due to many displaced peoples not being recognized as refugees, it gives countries such as Turkey "just" cause to deport them and actively act against migrant interests
+    - He goes on to outline actionable ways these refugees can be helped by host countries such as a creating social integration programs, issuing job permits, providing a standard livable income, education for displaced youth
+
+- Many cuts and editing decisions in the film are deliberately jarring to represent the chaotic reality of a refugee's lifestyle
+
+- "Prison" of Gaza
+
+- Despite growing refugee numbers, resources for providing aid is dwindling
+
+- The film ends on a long reverse-zoom showing an enormous and seemingly unending pile of discarded life jackets
 
 # Lecture Notes: Emotional Geographies
 - **Emotional geography** = 
