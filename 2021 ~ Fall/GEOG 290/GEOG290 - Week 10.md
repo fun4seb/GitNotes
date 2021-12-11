@@ -1,0 +1,1 @@
+# GEOG290 - Week 10: Technical Solutions
