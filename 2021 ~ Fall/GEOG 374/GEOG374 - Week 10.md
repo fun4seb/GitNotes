@@ -1,10 +1,9 @@
-# GEOG374 - Week 10: Disturbances (Wind & Herbivory)
+# GEOG374 - Week 10: Disturbances (Wind)
 - Disturbances:
     - Wind
-    - Herbivory
 
 # Wind
-- Causes of damages:
+- **Causes of wind damage**:
     - Tornadoes, hurricanes/typhoon, and macroburst (mass amount of wind moving downward)
         - Large scale events
     - Wind gust (sudden increase in wind velocity) and microburst (smaller scale macroburst)
@@ -40,17 +39,8 @@
         - Wind flowing through a valley (like a river) is strongest at the peak and valley
         - Wind flowing across a valley is strongest at the peak and weakest in the valley (wind shade)
 
-## Wind Disturbance in Dune Communities
-- **Response of plants to wind** is determined by:
-    - Frequency and magnitude of soil movements
-    - Legacy
-
 ## Wind Summary
-- Damages by wind occur at different scales
-    - Ex: hurricanes; larger, microburst; smaller
+- Damages by wind occur at different scales Ex: hurricanes (larger), microburst (smaller)
+    - The impacts of wind damage also occurs at different scales (leaves to landscape)
 - Damages to trees depends on wind velocity, tree characteristics (Ex: length of crown), the surroundings of the trees (Ex: soil depth), and the location in the landscape (Ex: bottom of valley)
-- Impacts of wind on dune communities depends on the frequency of disturbance and the magnitude of change in growing conditions (sand erosion or deposition)
-
-# Herbivory
-- **Case study:** Impact of Earth insects on Mars ecosystems
-    - Objective:    
+- Impacts of wind on dune communities depend on the frequency of disturbance and the magnitude of change in growing conditions (sand erosion or deposition)

@@ -12,12 +12,8 @@
         - Refugees as people in a state of permanent transit and displacement
         - Allowing people to become refugees as an act of cruelty; robbing people of all security and normalcy, reducing them to helpless people without agency over their future at the mercy of unwelcoming host countries
         - The film is portraying refugees as people deserving of respect and humane consideration.
-        - Ai Weiwei created this film to humanize refugees. To recognize each one as individuals with individual needs and aspirations beyond their immediate situation; Ai Weiwei is demanding the viewer to respect the struggles of refugees and empathize with their lives on a more personal and human level than explored by the media
-
-- Displaced people as people united under a common struggle
-    - How is this idea presented in the film?
-
-- What is the films portrayal of the global North?
+        - Ai Weiwei created this film to humanize refugees. To recognize each one as individuals with individual needs and aspirations beyond their immediate situation; Ai Weiwei is demanding the viewer to respect the struggles of refugees and empathize with their lives on a more personal and human level than explored by the media.
+        - Displaced people as people united under a common struggle
 
 - Association of migrants with boats
     - Film opens to a tranquil sequence, fit with soothing ambient music, of an inflatable raft full of people ending their journey as they reach the shore
