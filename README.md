@@ -23,10 +23,16 @@
 ## 2021 ~ Winter Classes
 - GEOG260 ~ Mapping the Environment
 - GEOG272 ~ The Natural Environment: Land and Life
-- HIST223 ~ Greek History: Bronze Age-Alexander
+- HIST223/CLAS240 ~ Greek History: Bronze Age-Alexander
 
 ## 2021 - Fall Classes
 - GEOG290 - Environment & Society
 - GEOG363 - Introduction to Geographic Information Systems
 - GEOG374 - Plant Ecology
 - GEOG310 - Migration & Refugee Studies
+
+## 2022 ~ Winter Classes
+- GEOG315 ~ Social and Cultural Geographies
+- GEOG330 ~ Urban Geography
+- GEOG355 ~ Resource Analysis and Management
+- CLAS 265 ~ Mythologies of the Ancient Mediterranean
