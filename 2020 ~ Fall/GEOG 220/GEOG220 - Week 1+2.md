@@ -7,7 +7,7 @@
 - The Ancient Greeks are often cited as the creators of geography. **This is WRONG, knowledge of geography starts with the beginnings of humanity since everyone needs to know about their world to survive in it**
 	- This is supported by cases such as the extensive geographic knowledge of indigenous and early peoples to navigate their environment
 
-##  This Class Defines Geography As...
+## This Class Defines Geography As...
 1. An interest in knowing where we are
 2. An interest in describing the characteristics of the Earth
 3. A knowledge of who/what lies beyond our own "world"

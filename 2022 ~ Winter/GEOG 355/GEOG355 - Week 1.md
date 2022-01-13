@@ -70,3 +70,6 @@
 - Is there a clear different between a legitimate use (making a medication, or saving space for diverse animals) and exploitation (making an absurd profit, or forcing people away from their ancestral place), or is it always/usually somewhat fuzzy and open to interpretation depending on the argument (R&D costs, banking resources for future generation that otherwise are gone before possibly knowing their value)
 
 - Can you have **Liberty (freedom to do whatever you want)** and **Equality (equal access to resources for all)** at the same time in the content of Natural Resource use?
+
+# Reading Notes: United Nations Resource Management System
+- Link: https://unece.org/info/publications/pub/350876
