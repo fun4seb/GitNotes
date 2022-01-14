@@ -1,4 +1,4 @@
-# GEOG355 - Week 1: Course Introduction to Resource Analysis and Management
+# GEOG355 - Week 1: Course Introduction
 - Course Information:
     - Professor: Prof. Karen Fisher Favret (karenelainefisher.favret@concordia.ca)
 
@@ -14,6 +14,7 @@
         - Energy
         - Mineral resources
 
+# Lecture Notes: Introduction to Resource Analysis and Management
 - Idea of viewing the globe at night (black marble) to see how human cities/energy consumption (designated by light production seen at night from space) are distributed across the world
     - Points of light (major settlements) as **attractors for resources** and **centers for energy consumption**
     - The location of settlements is often determined by geological features
@@ -26,14 +27,14 @@
     3. People should adjust to their environment
     4. People should adjust their environment
 
-# Use of the Earth's Natural Resources
+## Sharing the Earth's Natural Resources
 - The interface between Earth and people is the **utilization of natural resources**
     - The Earth is dynamic
     - People are dynamic
     - **Who gets to use what?**
         - Relevant texts: Who Gets What, When, How - Harold D. Lasswell (1936) & United Nations Resource Management System - UNECE Energy Series
 
-## The Earth
+### The Earth
 - All the resources we have access to as humans come from this one planet
 - In addition to this all the resources we have access to as humans is dynamic and changing due to the fact that the **Earth is dynamic and changing**
     - The resources we have do not stay fixed in time or space
@@ -53,7 +54,7 @@
     - **Hydrosphere (water)**
         - The water of the Earths that carves and shapes the Lithosphere
 
-## Three Fundamental Ways to Get People to Cooperate
+### Three Fundamental Ways to Get People to Cooperate
 - Back in the 1980's, a Berkley Political Science Professor William K. "Sandy" Muir taught that there are **three kinds of power:**
     - Coercion/brute force/hostage taking; **Power of the Sword** (strongest, most aggressive gets own way via intimidation)
     - Reciprocity/economic/money; **Power of the Purse** (richest, most resource-laden gets own way via money/trading)
@@ -61,7 +62,7 @@
 
 - Most interactions that involve transfers of resources involve a synthesis of these three power spheres: **reciprocity, persuasion, and coercion**
 
-## Questions about Use: Who gets to use what?
+### Questions about Use: Who gets to use what?
 - Are there different kinds of use that need different classification?
     - If yes, should some uses have priority? Why? **(Moral power)**
     - If no, then what is there to prevent the strongest/fastest from taking everything **(Coercion)**
@@ -73,3 +74,5 @@
 
 # Reading Notes: United Nations Resource Management System
 - Link: https://unece.org/info/publications/pub/350876
+
+- Plan to harmonize the terminology that countries are using to manage their resources
