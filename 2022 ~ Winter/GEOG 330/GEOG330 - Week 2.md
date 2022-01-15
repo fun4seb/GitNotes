@@ -80,5 +80,12 @@
     - Dismantling of the welfare state, rise of the entrepreneurial city, inner city politics replaced with middle class liberalism, suburban conservatism
 
 # Reading Notes: The Socio-Spatial Dialectic - Soja
+- "Space and the political organization of space express social relationships but also react back upon them"
+    - "Industrialization, once the producer of urbanism, is now being produced by it"
+
+## The Organization of Space as a Social Project
+- Contextual vs. created space
+
+## Organized Space and the Mode of Production
 
 # Video Notes: Interview with Henri Lefebvre - NFB Film
