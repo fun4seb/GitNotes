@@ -8,7 +8,7 @@
 - Importance of the 1000 year global current in regulating global temperatures and allowing oxygenated water to reach the ocean floor
 
 - Ways of observing the patterns in the ocean:
-    - Using sonar imagining (like a fish finder) to map concentrations of plankton at various depths within a column of water
+    - Using sonar imagining (like a fish finder) to map concentrations of plankton (or other things) at various depths within a column of water
  
 # Reading Notes: The New Lobster Wars - Heaps-Tennant
 - Link: http://thewalrus.ca/the-new-lobster-wars/
