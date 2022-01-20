@@ -93,5 +93,15 @@
 # Video Notes: Racism, A History
 - **Response Questions:**
     - What ideas about race do you see in the film?
+        - Being a history of racism, ideas about race are obviously at the forefront
+        - Secondary ideas related to race include the brutalization and dehumanization of other peoples (Ex: Spanish Conquistadors in the Americas)
+        - Emergence of biological theories related to explaining differences in skin color, eventually leading to **racist theories** about differences in skin color
+        - Association of black people with animals and apes, insinuating animalistic and savage nature
+        - Capitalism being rooted in the exploitation of slave labor and conquered land for profit
+        - Interpretations of religious ideas justifying racism, such as the "Curse of Ham" justifying the enslaving of others
+        - "Slave" only became racialized when the Portuguese began enslaving West Africans
     - What ideas about geography (potentially tied to ideas about race)?
+        - Example of Ancient Greeks using geographical ideas such as inclusion based on shared space/border to inform and justify ideas of superiority over others (non-Greeks); sense of belonging and exclusion to geographic space
     - What geographical tools or products do you see in the film (connected to the ideas)?
+        - Colonial dependence on geographical tools of navigation and , such as maps, to even reach exploitable lands in the first place; tools such as maps are always implicated in the activities of geographically inclined colonizers
+        - Geographic tools are directly implicated in the actions of colonizers as they facilitate the expression of imperial power upon weaker "savage" civilizations/peoples
