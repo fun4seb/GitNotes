@@ -1,5 +1,7 @@
 # GEOG330 - Week 3: Urban Structure and Development
 
+# Lecture Notes: Urban Structure and Development
+
 # Reading Notes: The Changing Economic Context of City Life - Knox and Pinch (Chapter 2)
 - Questions addressed in this chapter:
     - What were the main characteristics of the pre-industrial city?
@@ -48,5 +50,3 @@
 - Third major criticism 
 
 ## Los Angeles: A Paradigmatic City?
-
-# Reading Notes: Postmodern Urbanism - Dear and Flusty
