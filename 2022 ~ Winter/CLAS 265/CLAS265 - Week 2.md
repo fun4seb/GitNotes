@@ -29,7 +29,7 @@
 - **Parthenogenesis** = Creation of new life by a female only; miraculous conception
     - Ex: Gaia's three children are produced this way
 
-- **Hieros Gamos** = "Sacred/holy marriage", refers to the creative union of gods and goddess
+- **Hieros Gamos** = "Sacred/holy marriage", refers to the creative (sexual) union of gods and goddess
     - Ex: Union of Erebos and Night (brought together by Eros)
 
 ## Children of Gaia

@@ -2,6 +2,7 @@
 - Topics covered this week:
     - Different approaches to urban social geography
     - The Socio-spatial dialectic
+        - Soja reading
 
 # Lecture Notes: Thinking Urban Geography
 - Pre-1990 perspectives/approaches:

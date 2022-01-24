@@ -1,19 +1,19 @@
 # GEOG315 - Week 2: Geography's Implications I
-- **Main topic of lecture and readings:** looking at how geography, as a tool and science, is implicated in colonialism/racism/slavery
+- **Main topic of lecture and readings:** looking at how geography, as a tool and science, is implicated in the activities of colonialism/racism/slavery
     - Geography as a tool to gain domination/power over others
 
 - What do this weeks readings have in common:
     - All of the readings look at how geography has been implicated in power relations, specifically the relation between European/white societies and various non-European/non-white societies
     - They all examine ideas about "race" and how ideas about geography often underwrite these ideas
 
-- What do this readings NOT have in common; what distinguishes them:
+- What do these readings NOT have in common; what distinguishes them:
     - One focuses on European countries during the era of "Geography Militant" (late 1800's, early 1900's)
     - One focuses on white settlers in British Columbia from the late 1700's to the late 1800's
     - One focuses on professional geographers from Kant (around 1800) to the present
         - Race as a man-made construct that is used to categorize people and discriminate against them (historically)
 
 # Lecture Notes: Geographies Implications I
-- **Key Questions of this lecture:**
+- **Key questions of this lecture:**
     1. What is the relationship between geography (in the sense of research by geographers) and the real world?
     2. What are some of the key geographical **ideas** that have shaped the world?
     3. What are some of the key geographical **tools or products** that have shaped the world?

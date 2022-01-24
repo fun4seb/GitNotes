@@ -1,6 +1,148 @@
 # GEOG330 - Week 3: Urban Structure and Development
+- Exploring the history of urbanization and transition into the industrial city and beyond
 
 # Lecture Notes: Urban Structure and Development
+- Interested in the socio-spatial dialectic in relation to the development of cities; how have large scale socio-economic changes shaped cities
+
+## Urban Hearths
+- There are around **8 hearths of urbanization**; strongly linked to the agricultural revolution
+    1. Mesoamerica
+    2. Andean America
+    3. West Africa
+    4. Nile River Valley
+    5. Mesopotamia
+    6. Indus River Valley
+    7. Ganges River Valley
+    8. Wei/Huang Rivers
+
+- Urbanization in these lands was mostly driven by **sedentary** agriculture, trade, religious and political organization, and social stratification
+    - Demand for central places to store agricultural surplus, conduct trade, etc.; such spaces would become cities
+    - Sedentary farming and surplus food storage created the need for permanent settlements, further leading to the diversification of labor (organic labor; not everyone is farming) and thus to social stratification
+
+## Agricultural Surplus Theory
+- **Agricultural Surplus Theory** = the development of permanent settlements and cities is dependent on the creation of **agricultural surplus**
+
+- **Steps leading to development of cities following the agricultural surplus theory:**
+    1. Domestication of plants & animals
+    2. Agricultural surplus
+    3. Liberation from subsistence
+    4. Demand for Trade
+    5. Demand for central places
+    6. Urban occupations
+    7. Social stratification
+    8. Urban society
+
+### Idea of "Hydraulic" Civilizations
+- **Hydrological/hydraulic societies** = a social or government structure which maintains power and control through **exclusive control over access to water**
+    - It arises through the need for flood control and irrigation, which requires central coordination and a specialized bureaucracy
+
+- Most powerful early civilizations developed alongside/between rivers due to the power that control over water brings
+    - Ex: Egyptian & Harappan urbanization; development of agricultural surplus and trade was highly dependent on the society's advantageous location in relation to major rivers
+
+## Other Factors Fueling Urbanization
+- **Religion:**
+    - The first cities (may have) developed to serve religious leaders
+    - Religious leaders organized the production/stockpiling of surplus
+    - Cities as centers of religious worship and power
+- **Defense:**
+    - The first cities (may have) developed to create a protected environment for leaders and their peoples
+    - Trade and social organization developed within walls
+- **Governance:**
+    - The first cities (may have) developed as centers of power and monuments to political leaders
+    - Religious structures and walls were for control
+
+## Catal Huyuk (7000 BC)
+- **Antithesis to the ancient archetypal city**; "the ancient city that was not a city"
+    - Proto-city settlement, located in Anatolia Turkey
+    - Resource town for obsidian miners
+    - Composed entirely of **domestic** structures
+    - No public buildings, **no social hierarchy**; i.e. not a city
+
+- Catal Huyuk is presented to counter the idea that agricultural surplus created the worlds first cities (agriculture surplus theory)
+    - It is an ancient example of a "city" that emerged first and developed agriculture later
+
+- **Problem with this example:** this is **not a city**, it is a proto-city used for gathering resources equivalent to a mining camp; does not refute the agricultural surplus theory
+    - Missing many of the key qualifiers of urban space; does not have any monuments or public buildings, no social hierarchy, etc.
+
+## Babylon Reconstruction (2000 BC)
+- Center of the Babylonian Empire
+- Center held castle and ziggurat
+- Surrounded by two walls
+- First appearance of suburbs (growing settlements outside city walls); what Sjoberg calls "Faubourg"
+
+- **Structure/pattern of urban development emerges:**
+    - Symbolic powerful center
+    - Domestic mixed area surrounding center
+    - Wall
+    - Outer settlements/suburbs
+
+## Mohenjo-Daro (2000 BC)
+- The first "planned" city, built by Harappan people of Pakistan (Indus River Valley)
+- Elevated citadel, "the great granary", public baths, public buildings, well system, central marketplace
+
+## Chang'an (700 CE)
+- Main city of the Tang dynasty and end of the Silk Road
+- Contained palaces, markets, temples
+- Designed according to Taoist principles of symmetry and oriented in the cardinal directions; "rectilinear" planning structure
+
+## Machu Pichu (15th Century CE)
+- Built by the Incas as part of a network of cities in the Andes
+- Royal estate of Pachacutec; full of temples, palace structures, and homes for nobility
+
+- Exception to the typical circular development of cities (influenced by the topography of the Andes)
+
+## Pre-Industrial Cities
+- Typical qualities of pre-industrial cities:
+    - Organic street layout; no organization or structure of growth
+    - Densely populated and compact
+    - Center of trade and artisan production
+    - Centered on a core zone housing the market, temple, and granary/government buildings
+
+- Why did pre-industrial cities share these qualities?
+    - Necessity to be close to the center
+
+### Pre-Industrial City Model (Sjoberg)
+- Model to understand and describe the structure of pre-industrial cities
+    -  **Core of the city:** (elites and dominant institutions)
+        - Temple
+        - Market
+            - Where the agricultural surplus is sold
+        - Granary
+            - Where the agricultural surplus is stored
+    - **Surrounding the city center:** (artisans and merchants)
+        - Guild district
+            - Form of urban organization around occupation
+        - Ethnic districts
+            - Ex: Jewish districts in ancient cities
+    - **Outside the city walls:** (domain of the serfs/outcast groups)
+        - Farms
+        - Faubourg (first suburbs)
+            - Home to the working poor, traveling merchants, farmers, non-citizens
+
+- **Class structure/pyramid of pre-industrial cities:**
+    1. Elites (few)
+        - Religious and political leaders in charge of the agricultural surplus (and thus economy)
+    2. Lower class (moderate amount)
+        - Merchants and artisans
+    3. "Outcasts" (many)
+        - Serfs/indentured laborers; peasants
+        - Not allowed to live within city walls
+
+### Pre-Industrial Medieval City: Paris
+- Roman site on river for access and trade
+- Circular form derives from necessity to access the center
+- Organic street pattern
+- Central access running into center from the hinterland
+- Surrounded by farms
+
+- Medieval Paris as the quintessential city exemplifying Sjoberg's model for pre-industrial city development
+
+## The Rise of the Industrial City
+- Begins in Europe in the 18th century alongside the **industrial revolution**
+- Industrial colonial system of production changed the spatial order (how cities were organized)
+    - Production became centralized in cities
+    - Enclosure moment forced farmers off of common lands
+    - Mass urbanization transformed the social structure
 
 # Reading Notes: The Changing Economic Context of City Life - Knox and Pinch (Chapter 2)
 - Questions addressed in this chapter:
