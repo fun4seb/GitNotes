@@ -128,7 +128,7 @@
         - Serfs/indentured laborers; peasants
         - Not allowed to live within city walls
 
-### Pre-Industrial Medieval City: Paris
+### Archetypal Pre-Industrial City: Medieval Paris
 - Roman site on river for access and trade
 - Circular form derives from necessity to access the center
 - Organic street pattern
@@ -138,11 +138,100 @@
 - Medieval Paris as the quintessential city exemplifying Sjoberg's model for pre-industrial city development
 
 ## The Rise of the Industrial City
-- Begins in Europe in the 18th century alongside the **industrial revolution**
-- Industrial colonial system of production changed the spatial order (how cities were organized)
+- Begins in Europe in the 18th century; product of the **industrial revolution**
+- Industrial colonial system of production **changed the spatial order** (how cities were organized)
     - Production became centralized in cities
     - Enclosure moment forced farmers off of common lands
     - Mass urbanization transformed the social structure
+
+- Industrial cities have unique **pulling and pushing** factors that draw people in while also pushing some away
+    - **Pull factors:**
+        - Availability of jobs; economic stability
+    - **Push factors:**
+        - Low wages
+        - Poor working conditions
+
+- Industrial cities emerged due to the forces of **industrialization & urbanization:**
+    - **Mode of production:**
+        - Forces of production: new technology allows for industry to thrive
+        - Relations of production: new division of labor (capitalist system)
+    - **Technology:**
+        - Inanimate energy (coal, steam engine)
+        - Innovation in machinery and transportation (transportation allows for workers to reach industry zones)
+    - **Division of labor:**
+        - Capitalist: owns means of production
+        - Proletariat: sells labor
+    - **Urban form:**
+        - Large scale urbanization & expansion
+        - Inner-city slums & flight of the middle class
+
+## Industrial Cities
+- Large populations (reaching 500,000 or 1,000,000 in 19th century)
+- Powered by steam, electricity, petrochemicals
+- Centers of industrial production and distribution
+- Centered on factory, railway, banks, and transportation (CBD)
+- Vertical expansion through increased building height
+- Class segregation with increase in social status away from center
+    - Leads to development of **suburbs** (wealthy classes living in periphery) and **slums** (poor working class living close to center)
+
+### Industrial City Model (Chicago School)
+- City organized as a series of concentric zones centered on the central business district and industrial zones (means of production): 
+    1. Innermost layer is the **central business district (CBD)**
+    2. Industrial zone surrounding the city center
+    3. Zone of transition (slums); dynamic zone between the inner city and working class residential zone
+    4. Working class zone (middle class worker)
+    5. Residential zone (suburbs)
+    6. Commuter zone
+
+### Archetypal Industrial City: Manchester
+- The first archetypal industrial city; named "Cottonopolis" as Manchester developed to be the world center of cotton production
+- Over 30 years between 1800 and 1830, the city was totally transformed by the forces of the Industrial Revolution and the Capitalist mode of production
+
+- **Pre-conditions to industrialization in Manchester:**
+    - Good transportation links
+        - Port of Liverpool
+        - Coal fields in Wigan
+    - Rivers Irk and Irwell gave power and transportation
+    - Center of weaving since the 16th century
+        - Sheep farming woolen center
+        - Putting-out system of spinners and weavers
+        - Growing wealth of local merchants due to weaving (merchants will grow to become the leaders of industrial cities under capitalism)
+    - Mechanization of farming created a captive labor force
+    - Iron production for factory buildings and machines
+    - No pre-existing medieval infrastructure (no courts, walls, guilds, etc.)
+        - No guilds means no powers to oppose mechanization and industrialization
+    - Its most important buildings were churches and the stock exchange
+
+- **Industrial Manchester:**
+    - New growth in the sprawl of the city
+    - New built forms:
+        - Factory and commercial buildings
+        - Banks and the exchange
+    - Increase in population (demonstrated by the increase in number of churches)
+    - Signifies the emergence of a new type of city based on **wealth generation and production**
+
+## The Capitalist City
+- Economies of scale
+- Land becomes **private property** (enclosure movement)
+- Competition for space (changing spatial order)
+    - Capitalist land-uses:
+        - Factories
+        - Transportation infrastructure
+        - Offices and banks
+    - Residential zones:
+        - Working-class needed affordable housing near work (inner-city slums)
+        - Middle and upper class begin to move out of the center (suburbs)
+
+- Industrial class structure:
+    - **Capitalists**
+        - People who own the means of production
+        - Comprised of merchants who accumulated capital and dominate urban government
+    - **Proletariat**
+        - People displaced by the mechanization of farming
+        - They sell their labor and pay rent to the capitalists
+    - **New Middle-Class**
+        - People who work for the capitalists to organize the means of production
+        - Expands as a class as the industrial city grows
 
 # Reading Notes: The Changing Economic Context of City Life - Knox and Pinch (Chapter 2)
 - Questions addressed in this chapter:

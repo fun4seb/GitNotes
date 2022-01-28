@@ -1,1 +1,3 @@
 # CLAS265 - Week 4: Atrahasis; Deucalion, Pyrrha and the great flood; Lycaon & his sons (Apollodorus); The Flood; Deucalion and Pyrrha (Ovid)
+
+# Lecture Notes: Myths of the Flood

@@ -8,7 +8,8 @@
     6. Conclude reflecting on LA as a postmodern city (paragraph 4)
 
 # Lecture Notes: Post-Modern Urbanism
-
+- Post-Modern Urbanism Glossary:
+    - 
 ## Neo-Marxist Theory
 - Economic base (the mode of production)
     - Forces of production (technology)
