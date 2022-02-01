@@ -175,7 +175,7 @@
     - Leads to development of **suburbs** (wealthy classes living in periphery) and **slums** (poor working class living close to center)
 
 ### Industrial City Model (Chicago School)
-- City organized as a series of concentric zones centered on the central business district and industrial zones (means of production): 
+- City organized as a series of **concentric zones** centered on the central business district and industrial zones (means of production): 
     1. Innermost layer is the **central business district (CBD)**
     2. Industrial zone surrounding the city center
     3. Zone of transition (slums); dynamic zone between the inner city and working class residential zone
@@ -183,35 +183,9 @@
     5. Residential zone (suburbs)
     6. Commuter zone
 
-### Archetypal Industrial City: Manchester
-- The first archetypal industrial city; named "Cottonopolis" as Manchester developed to be the world center of cotton production
-- Over 30 years between 1800 and 1830, the city was totally transformed by the forces of the Industrial Revolution and the Capitalist mode of production
+### The Capitalist City
+- Makes use of "economies of scale"; costs of producing and selling products are cheaper (per product) if you produce them en mass
 
-- **Pre-conditions to industrialization in Manchester:**
-    - Good transportation links
-        - Port of Liverpool
-        - Coal fields in Wigan
-    - Rivers Irk and Irwell gave power and transportation
-    - Center of weaving since the 16th century
-        - Sheep farming woolen center
-        - Putting-out system of spinners and weavers
-        - Growing wealth of local merchants due to weaving (merchants will grow to become the leaders of industrial cities under capitalism)
-    - Mechanization of farming created a captive labor force
-    - Iron production for factory buildings and machines
-    - No pre-existing medieval infrastructure (no courts, walls, guilds, etc.)
-        - No guilds means no powers to oppose mechanization and industrialization
-    - Its most important buildings were churches and the stock exchange
-
-- **Industrial Manchester:**
-    - New growth in the sprawl of the city
-    - New built forms:
-        - Factory and commercial buildings
-        - Banks and the exchange
-    - Increase in population (demonstrated by the increase in number of churches)
-    - Signifies the emergence of a new type of city based on **wealth generation and production**
-
-## The Capitalist City
-- Economies of scale
 - Land becomes **private property** (enclosure movement)
 - Competition for space (changing spatial order)
     - Capitalist land-uses:
@@ -232,6 +206,149 @@
     - **New Middle-Class**
         - People who work for the capitalists to organize the means of production
         - Expands as a class as the industrial city grows
+
+### Archetypal Industrial City: Manchester
+- The first archetypal industrial city; named "Cottonopolis" as Manchester developed to be the world center of cotton production
+- Over 30 years between 1800 and 1830, the city was totally transformed by the forces of the Industrial Revolution and the Capitalist mode of production
+
+- **Pre-conditions to industrialization in Manchester:**
+    - It had good transportation links
+        - Port of Liverpool
+        - Coal fields in Wigan
+    - Rivers Irk and Irwell gave power and transportation
+    - Center of weaving since the 16th century
+        - Sheep farming woolen center
+        - Putting-out system of spinners and weavers
+        - Growing wealth of local merchants due to weaving (merchants will grow to become the leaders of industrial cities under capitalism)
+    - Mechanization of farming created a captive labor force that must now work for food
+    - Iron production for factory buildings and machines
+    - No pre-existing medieval infrastructure (no courts, walls, guilds, etc.)
+        - No guilds means no powers to oppose mechanization and industrialization
+    - Its most important buildings were churches and the stock exchange
+
+- **Industrial Manchester:**
+    - New growth in the sprawl of the city
+    - New built forms:
+        - Factory and commercial buildings
+        - Banks and the exchange
+    - Increase in population (demonstrated by the increase in number of churches)
+    - Signifies the emergence of a new type of city based on **wealth generation and production**
+
+- Engels' observations of Manchester in the 1840's outlined in his book **"The Condition of the Working Class in England" (1845)**
+    - He observed that around the center of the city is the **"Industrial collar"** where one can see all of the below characteristics taking place and concentrated in the city center
+    - Lack of sanitation; lead to disease outbreak
+        - Cellar dwellings
+        - Back-to-back housing
+    - Lack of zoning; mix of industry and housing
+    - Class segregation
+
+- Conditions in the **"Industrial Collar"**
+    - Mixed land uses with no zoning
+    - Back-to-back housing mixed with industrial land uses
+    - High pollution levels due to industry
+    - Overcrowding in dwellings
+    - Lack of privies and sanitation
+
+- Back-to-back housing in Manchester:
+    - Built to accommodate the rapidly increasing population
+    - Dwellings share party walls on three of their four sides, with the front wall having the only door and windows
+    - High density levels, lack of ventilation, overcrowding
+    - Shared central courtyard
+
+## A New Social Geography
+- As industry is exported through the colonial settler process, a new social geography emerges that sees the city centered around the industrializing CBD (concentric zone model)
+
+- Center/CBD: symbols of industrial city
+    - Stock exchange
+    - Offices
+    - Rail lines, stations and yards
+- Transition zone:
+    - Mills, factories
+    - Working-class housing
+- Suburbs: middle and upper-class homes
+
+## Expansion of North American Industrial Cities
+- Between the late 1700's and 1929, US cities grew dramatically in terms of **land area**
+- Once primarily small port, urbanization and transportation innovations expanded the **extent of cities**
+
+- Expansion dynamics of the Industrial City:
+    - Centrifugal forces; **the outward expansion of...**
+        - Higher class residences move outward to escape industrial city life
+        - Household retailers
+    - Centripetal forces; **the inward expansion of...**
+        - Factories, warehouses, offices, hotels move inward to create industrial city life
+        - Specialized retailers
+    - Vertical forces; **the upward expansion of...**
+        - Buildings (skyscrapers); allows for increased efficiency within the same building footprint
+        - Transportation; allows for the wealthy and working class to commute to the center, enables outward expansion
+
+- Economies of scale:
+    - Economies of scale seek to cut costs by decreasing the cost per unit of production and increasing the amount of production, thus decreasing the turn-around time to bring goods to the market
+    - A decrease in cost per unit of output enables an increase in scale of production by expanding market share and decreasing purchase price
+    - Economies of scale require **expanded production spaces** for assembly line production and large labor pools
+
+- Assembly line production:
+    - Economies of scale rely on the assembly line to increase efficiency
+        - Workers on the line specialize in different stages of the process 
+    - First used in Chicago by Armour to break down the steps of pig slaughter into progressive steps done by workers along a line, allowing for faster efficiency
+    
+## Phases of Transportation Technology
+1. **Walking and horse car era (pre-1890)**
+    - Individual mobility within 4-6 km
+    - Only allows high density around a single center
+2. **Streetcar era (1890-1940)**
+    - Mass transit brings collective mobility
+    - Allowed city to expand outwards along streetcar lines (star shaped pattern)
+    - Allows for the specialization of land uses & classes
+3. **Early automobile era (1920-1945)**
+    - Cars and buses increase all forms of mobility
+    - Expansion and "filling in" around areas where the streetcar line didn't allow access (circular pattern)
+4. **Highway era (1945+)**
+    - The construction of highways lead to expansion of the fringe
+    - Increased individual mobility
+    - Decentralization of jobs and residents
+
+- Relationship between transportation & density; how transportation allows cities to expand in certain ways
+    - Increased speed of transportation in Phase 2 (streetcars) expanded the area of the city and lowered densities along tramlines (star-shaped cities)
+    - Individual forms of transportation in Phase 3 (automobiles) extended and filled in the middle areas previously untouched due to the rigidity of the tram lines
+    - In the highway era (Phase 4), densities increase around suburban downtowns or "edge cities"
+
+## Chicago as the Archetypal American Industrial City
+- Chicago became the archetypal city of the industrial age
+- It was seen as "paradigmatic" of the North American industrial city, an archetype of its social organization and structure
+
+- **Chicago's concentric zones:**
+    - Loop I: CBD
+    - Zone II: Zone in transition
+    - Zone III: Workers' homes
+    - Zone IV: Residential zone
+
+- The rise of the **office** in Chicago
+    - The industrial city also brought the separation of home and work and initiated commuting to the central city
+    - The office, a place from which to manage production and capital, clustered in the central area of Chicago's "loop"
+
+- The rise of the **department store** in Chicago
+    - With the creation of large scale retailing in the central city, the department store implanted consumption as a central function
+    - Consumption no longer literally meant purchasing goods because window technology and shop displays spectacularized the goods on offer; you do not need to buy anything to participate in consumption (Ex: you can just walk around a department store)
+
+- Factory zones in Chicago:
+    - An American extension of Engels' "industrial collar", factory zones spread out horizontally in the "Zone in Transition"
+    - They displaced housing and came to dominate the band around the central business district
+    - Chicago's meatpacking district on its South-side provides an example of a large specialized zone completely dedicated to industry and organized to accommodate the assembly line
+
+- "Bright lights" districts (entertainment districts):
+    - Specialization of land uses brought "brought lights districts", concentrations of entertainment establishments such as cabarets or theaters usually advertised by brightly lit entrances especially with marquees
+    - Usually zoning and permits, civic leaders could effectively concentrate all such activities in specific areas so as to protect "family neighborhoods" aggregating them with taverns and hotels
+
+- Immigrant districts:
+    - As a result of mass migration from Europe and the Great Migration of African Americans from the South, distinctive neighborhoods formed in the inner-city which had their own institutions and commerce at their center along shopping streets
+
+- Workers' housing:
+    - Homes for workers were built using assembly line techniques on small lots defined by the city's grid patterned streets, giving the middle zones of the city and industrialized uniformity 
+
+- Suburbs:
+    - Riverside, west of Chicago, was designed in 1869 by Calvert Vaux and Frederick Law Olmsted as an elite bedroom community served by a commuter train line
+    - In contrast with industrial Chicago, the town's plan was **picturesque**, with curvilinear streets, landscaped topography, and the winding Des Plaines River. The plan included a central village square, main railroad station, and a Grand Park system
 
 # Reading Notes: The Changing Economic Context of City Life - Knox and Pinch (Chapter 2)
 - Questions addressed in this chapter:

@@ -10,6 +10,7 @@
 # Lecture Notes: Post-Modern Urbanism
 - Post-Modern Urbanism Glossary:
     - 
+
 ## Neo-Marxist Theory
 - Economic base (the mode of production)
     - Forces of production (technology)
@@ -166,3 +167,10 @@
     - Changing gender relations are amongst the most significant changes in the postmodern city
 
 # Reading Notes: Postmodern Urbanism - Dear and Flusty
+- Key topics:
+    - Edge cities
+    - City as a theme park
+    - Fortified city
+    - Fordist vs. post-Fordist regimes of accumulation and regulation
+
+- Argueing that cities no longer follow the concentric ring model of the Chicago school, and rather follow the **keno-capitalism** model
