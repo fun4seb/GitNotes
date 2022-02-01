@@ -100,14 +100,14 @@
     - The Maclean's article focused on Winnipeg's North End Neighborhood and the many social and economic problems that impact the well-being of Indigenous peoples
         - Problems include substance abuse, low graduation rates, high suicide rates, high hospitalization rates, police harassment, and lack of funding for social support systems
 
-- Eve Tuck's critical analysis of **damage-centered research** (research that focuses on hardships experienced by Indigenous communities)
+- Eve Tuck's critical analysis of **damage-centered research** (research that only focuses on hardships experienced by Indigenous communities)
     - She observes that studies of pain and loss are often mobilized in order to make political gains, generating damage-centered research that places hurt and loss at the forefront of analysis
     - Damage-centered research approaches make it difficult for communities to think of themselves as anything other than broken and stunts possibilities for community growth; they naturalize the effects of colonialism rather than effectively combating them
 
 - This chapter analyzes how the Maclean's article uses **damage-centered research** to reinforce negative perceptions of Winnipeg's North End, and aids in the creation of settler colonial urban space by circulating a specific set of narratives about Indigenous people that naturalize Indigenous death and dispossession, and normalize the settler colonial logic of elimination
 
 # Reading Notes: How Capitalism will save Colonialism; The Privatization of Reserve Lands in Canada - Pasternak
-- Reading talks about attempts to privatize reserve land, 
+- Reading talks about attempts to privatize reserve land
 
 # Reading Notes: Awawanenitakik; The spatial politics of recognition and relational geographies of Indigenous self-determination - Daigle
 - Idea of **self-determination** for Indigenous peoples

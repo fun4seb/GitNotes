@@ -5,7 +5,7 @@
     - When talking about issues of migration, we are mostly talking about people migrating from the third world to the first world; from formerly colonized powers to colonized powers
     - Migration as a post-colonial/neo-colonial process
 
-- Idea of "race" as a fiction, but with real world effects
+- Idea of "race" as a **fiction, but with real world effects**
     - We must recognize that races don't exist, they were made up to colonize and oppress the world; while "real" differences in humans exist (skin color, hair texture, etc.), these differences are just categories recognize physical differences that say nothing about the nature of the person
     - Despite being made-up, ideas of race have real-world impacts; these "fictional" ideas are used to organize the world, creating very different realities for different "races" of people
 
@@ -66,4 +66,4 @@
 # Reading Notes: Transnational Productions of Remoteness; Building Onshore and Offshore Carceral Regimes Across Borders - Mountz & Loyd
 
 ## Conclusions
-- The US strategy of relying on the **threat of detention** as a deterent clashed with its **capacity to detain**
+- The US strategy is relying on the **threat of detention** as a deterent clashed with its **capacity to detain**

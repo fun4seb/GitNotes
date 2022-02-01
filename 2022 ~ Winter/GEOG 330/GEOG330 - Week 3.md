@@ -395,6 +395,4 @@
 
 - Second major criticism of the California School is their silence on the matter of **race** and its impact on the development of Los Angeles
 
-- Third major criticism 
-
-## Los Angeles: A Paradigmatic City?
+- Third major criticism

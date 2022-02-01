@@ -1,4 +1,4 @@
-# GEOG330 - Week 4: Urbanism
+# GEOG330 - Week 4: Post-Modern Urbanism
 - **Assignment 1 tasks:**
     1. Read Dear & Flusty
     2. Summarize of Dear & Flusty (paragraph 1)
@@ -8,8 +8,12 @@
     6. Conclude reflecting on LA as a postmodern city (paragraph 4)
 
 # Lecture Notes: Post-Modern Urbanism
-- Post-Modern Urbanism Glossary:
-    - 
+- Topics of this class:
+    - Fordism & Keynesianism
+    - Post-industrial cities
+    - Chicago School vs. LA School
+        - Concentric zone model (Chicago School)
+        - Post-Modern Urbanism (LA School)
 
 ## Neo-Marxist Theory
 - Economic base (the mode of production)
@@ -168,6 +172,7 @@
 
 # Reading Notes: Postmodern Urbanism - Dear and Flusty
 - Key topics:
+    - Keno capitalism
     - Edge cities
     - City as a theme park
     - Fortified city
