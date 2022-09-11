@@ -110,12 +110,12 @@
 
 - Writing algorithms ultimately comes down to breaking up a larger problem into smaller sub-problems, each with sub-algorithms to complete
 
-> **Sub-problem: get ready**
-    Sub-algorithm:
-        Brush your teeth
-        Shower
-        Get dressed
-        Comb your hair
+- **Sub-problem: get ready**
+    - Sub-algorithm:
+        - Brush your teeth
+        - Shower
+        - Get dressed
+        - Comb your hair
 
 - It is important to think about the **order** of the steps (Ex: you don't get dressed and comb hair before the shower, they must be done after); the order of the steps matters
 - The steps in the sub-algorithm are at different levels of detail
@@ -129,49 +129,57 @@
 
 - Basic algorithmic construction: **the if statement**, which allows us to branch the program into multiple paths
 
-> **If** condition is true **then**
+```
+If condition is true then
     do A
-**else**
+else
     do B
-**end if**
+end if
+```
 
-> **Sub-sub-problem: Get dressed**
-    Sub-sub-algorithm (Get dressed):
-        Put on underwear
-        Put on shirt
-        Put on pants
-        **If** it is cold outside **then**
-            Put on sweater
-        **End if**
-        Put on socks
-        Put on shoes
+- **Sub-sub-problem: Get dressed**
+```
+Sub-sub-algorithm (Get dressed):
+    Put on underwear
+    Put on shirt
+    Put on pants
+    If it is cold outside then
+        Put on sweater
+    End if
+    Put on socks
+    Put on shoes
+```
 
 - The **if statement** is the **most common** algorithmic construct in programming
 
 ## Example: Write an Algorithm for Buried Treasure
-> **Possible solution:**
-    Problem: get buried treasure
-    Algorithm:
-        Go to where the treasure is buried
-        **Dig until you can see the treasure**
-        Remove the treasure
+- **Possible solution:**
+```
+Problem: get buried treasure
+Algorithm:
+    Go to where the treasure is buried
+    **Dig until you can see the treasure**
+    Remove the treasure
+```
 
 - This is fine, but second step is not **atomic**; Assuming the algorithm is written for R (or any other programming language), the second step is not reduced to an instruction simple enough that the processor will understand
 
-> **We could try this:**
-    Sub-problem: Dig until you can see the treasure
-    Sub-algorithm:
+- **We could try this:**
+```
+Sub-problem: Dig until you can see the treasure
+Sub-algorithm:
+    Remove a shovel-full of dirt
+    If you cannot see the treasure then
         Remove a shovel-full of dirt
-        If you cannot see the treasure then
-            Remove a shovel-full of dirt
-        End if
-        If you cannot see the treasure then
-            Remove a shovel-full of dirt
-        End if
-        If you cannot see the treasure then
-            Remove a shovel-full of dirt
-        End if
-        (repeating infinitely until you possibly find the treasure)
+    End if
+    If you cannot see the treasure then
+        Remove a shovel-full of dirt
+    End if
+    If you cannot see the treasure then
+        Remove a shovel-full of dirt
+    End if
+    (repeating infinitely until you possibly find the treasure)
+```
 
 - The problem is that we **cant write an algorithm this way**
     - Since we don’t know how deeply the treasure is buried, we don’t know how many times to write down "If you cannot see the treasure then, Remove a shovel-full of dirt, End if"
@@ -179,22 +187,24 @@
 
 # Conditional Loops
 ``` 
-**Loop**
+Loop
     Do A
-    **If** condition is true **then**
+    If condition is true then
         Leave the loop
-    **End if**
+    End if
     Do B
-**End Loop**
+End Loop
 ```
 
-> **Loop**
+```
+Loop
     Remove a shovel-full of dirt
-    **If** you can see the treasure **then**
+    If you can see the treasure then
         Leave the loop
-    **End if**
+    End if
     (Do nothing)
-**End Loop**
+End Loop
+```
 
 - This algorithm will then loop the instructions **until the conditions to leave the loop have been met** (if you can see the treasure)
 
@@ -215,17 +225,21 @@
 - What we need is an algorithm that loops **for a specific amount of times**
 
 ## Conditional For Loops
-> **For** some fixed number of repetitions
-Do A
-**End for**
+```
+For some fixed number of repetitions
+    Do A
+End for
+```
 
-> Efficient algorithm:
-    **For** dishes 1 to 20
-        pick up dirty dish
-        scrub dish with sponge
-        rinse dish
-        put dish in drainer
-    **End for**
+- **Efficient algorithm:**
+```
+For dishes 1 to 20
+    pick up dirty dish
+    scrub dish with sponge
+    rinse dish
+    put dish in drainer
+End for
+```
 
 - If you only wanted to wash 10 dishes you could change the for statement to say "1 to 10"
 
@@ -259,39 +273,39 @@ Do A
 ## Conditional If Statements
 - Basic algorithmic construction: **the if statement**, which allows us to branch **if condition is true**
 
-> **If** condition is true **then**
-    Do A
-**Else**
-    Do B
-**End if**
+- **If** condition is true **then**
+    - Do A
+- **Else**
+    - Do B
+- **End if**
 
 - If statements can branch further with **"else if"** statements
 
-> **If** condition1 is true **then**
-    Do A
-**Else if** condition2 is true **then**
-    Do B
-**Else**
-    Do C (only gets done if none of condition1 and condition2 are true)
-**End if**
+- **If** condition1 is true **then**
+    - Do A
+- **Else if** condition2 is true **then**
+    - Do B
+- **Else**
+    - Do C (only gets done if none of condition1 and condition2 are true)
+- **End if**
 
 - You can include as many branching "else if" statements as you need
 
 ## Conditional Loops
-> **Loop**
-    Do A
-    **If** condition **then**
-        Leave the loop
-    **End if**
-    Do B
-**End loop**
+- **Loop**
+    - Do A
+    - **If** condition **then**
+        - Leave the loop
+    - **End if**
+    - Do B
+- **End loop**
 
 - This form is used when you **don’t know the number of repetitions**
 
 ## Conditional For Loops
-> **For** some fixed number of repetitions
-    Do A
-**End for**
+- **For** some fixed number of repetitions
+    - Do A
+- **End for**
 
 - Use when you **know exactly the number of repetitions beforehand**
 - Anything a for loop can do, a conditional loop can also do (just more verbosely)
