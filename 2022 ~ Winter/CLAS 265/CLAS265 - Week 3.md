@@ -1,10 +1,9 @@
 # CLAS265 - Week 3: Creation Myths
-- Creation myths covered this week:
+- Creation myths covered:
     1. The Babylonian Epic of Creation
     2. The Theogony of Dunnu
     3. Ovid's Myth of Creation (in Metamorphoses)
 
-# Lecture Notes: The Babylonian Epic of Creation; The Theogony of Dunnu; Ovid's Myth of Creation
 - Types of creation myths:
     - **Cosmogony** = a myth about the creation and development of the universe
     - **Theogony** = a story about the creation and development of the divine family
@@ -15,7 +14,7 @@
         - Succession is natural and present in the human world and thus is present in the stories of deities
     - Reproduction
 
-## Babylonian Epic of Creation
+# Babylonian Epic of Creation
 - Epic of creation written on clay tablets
     - Other copies have been found since its discovery which differ remarkably little, alluding to the fact that it was either canonized at some point, or that there was no oral storytelling history surrounding this story and it was **copied/shared in the written medium**
 
@@ -62,7 +61,7 @@
 - The Epic of Creation as **religious propaganda**
     - Story created to increase the prestige of Marduk by making his exploits the most amazing
 
-## The Theogony of Dunnu
+# The Theogony of Dunnu
 - This myth, while briefly told, has significance as it indicates the possibility of competing versions of creation myths that circulated in ancient Babylon/Mesopotamia
 
 - **Characters (by generation):**
@@ -81,7 +80,7 @@
     - Details the (violent) succession of younger generations overtaking older ones; each son and daughter kills their parents to succeed them
     - Pattern of succession through acts of violence
 
-## Ovid's Myth of Creation (in Metamorphoses)
+# Ovid's Myth of Creation (in Metamorphoses)
 - Roman myth of creation within an epic poem (Metamorphoses)
 
 - In the beginning all the elements of the universe existed already in a state of **chaos**

@@ -1,4 +1,4 @@
-# Week 7: Class & Inequality	
+# Week 7: Class & Inequality
 
 ## Content
 - Pierre Bourdieu: "The Forms of Capital"
@@ -206,7 +206,7 @@
 
 ## Film Context: Slumdog Millionare
 - Based on a novel (“Q&A” by Swarup)
-- Portrayal of the global south BUT through a western lens! This created different reactions in western audiences and indian audiences - ethnocentrism and anthropological lens
+- Portrayal of the Global South BUT through a western lens! This created different reactions in western audiences and indian audiences - ethnocentrism and anthropological lens
 - Power imbalances in neoliberal globalized context
 - Ethical issues: the children in the film are real children living in slums; they were underpaid even though the movie made enormous profits
 

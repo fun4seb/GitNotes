@@ -350,7 +350,7 @@
     - Riverside, west of Chicago, was designed in 1869 by Calvert Vaux and Frederick Law Olmsted as an elite bedroom community served by a commuter train line
     - In contrast with industrial Chicago, the town's plan was **picturesque**, with curvilinear streets, landscaped topography, and the winding Des Plaines River. The plan included a central village square, main railroad station, and a Grand Park system
 
-# Reading Notes: The Changing Economic Context of City Life - Knox and Pinch (Chapter 2)
+# Reading Notes: The Changing Economic Context of City Life - Knox & Pinch (Chapter 2)
 - Questions addressed in this chapter:
     - What were the main characteristics of the pre-industrial city?
     - In what ways did industrial capitalism affect the structure of cities?
@@ -372,7 +372,7 @@
 - 2.4: **Globalization** has had profound impacts upon cities, leading to the emergence of **world cities**, centers of corporate and financial control. It has also fostered increased competition between cities and intensified social polarization
 - 2.5: New telecommunications systems have allowed the exchange of ever more complex information over greater distances. However, as yet, they have not been associated with a decline in the strength of cities as centers for information production and exchange
 
-# Reading Notes: Los Angeles and the 'California School' - Knox and Pinch (Chapter 14.1)
+# Reading Notes: Los Angeles and the 'California School' - Knox & Pinch (Chapter 14.1)
 - **Chapter Summary:**
     - The "Los Angeles School" has portrayed Los Angeles as a harbinger of urban developments to be seen elsewhere
     - This claim (and whether Los Angeles can be envisaged as a general model of urban development) is much disputed
@@ -382,7 +382,7 @@
 
 - Underlying themes of the California School:
     - Attempts to link the sprawling suburbs of Los Angeles with a new regime of flexible accumulation manifested in high-technology agglomerations based around dynamic creative industries such as movie production, and industrial clusters based around low-skilled/illegal workers
-    - Los Angeles as a young city that displays little of the typical industrial legacy found in industrial-era cities, allowing it to be the site for new urban forms such as a **reduced significance of the central business district and the present of many competing decentralized centers (multiple nuclei model)**
+    - Los Angeles is a young city that displays little of the typical industrial legacy found in industrial-era cities, allowing it to be the site for new urban forms such as a **reduced significance of the central business district and the present of many competing decentralized centers (multiple nuclei model)**
         - This dispersion was made possible by the newly widespread adoption of the automobile for transportation
 
 - This **dispersion** and **lack of recognizable pattern** has been a key theme developed by the Los Angeles School

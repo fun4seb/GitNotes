@@ -1,5 +1,5 @@
 # GEOG315 - Week 3: Settler Colonialism
-- What do this weeks readings have in common:
+- What do these readings have in common:
     - They all analyze settler colonialism in so-called Canada
     - They all contrast settler-colonial ideas and/or practices with Indigenous ideas and/or practices; multiple ways to view land and property
 

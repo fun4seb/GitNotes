@@ -56,9 +56,9 @@
 
 ### Three Fundamental Ways to Get People to Cooperate
 - Back in the 1980's, a Berkley Political Science Professor William K. "Sandy" Muir taught that there are **three kinds of power:**
-    - Coercion/brute force/hostage taking; **Power of the Sword** (strongest, most aggressive gets own way via intimidation)
-    - Reciprocity/economic/money; **Power of the Purse** (richest, most resource-laden gets own way via money/trading)
-    - Persuasion/leadership/moral power' **Power of the Pen** (most charismatic, most convincing gets own way via words)
+    - **Coercive force**; "Power of the Sword" (strongest, most aggressive gets own way via intimidation)
+    - **Economic reciprocity**; "Power of the Purse" (richest, most resource-laden gets own way via money/trading)
+    - **Charismatic persuasion**; "Power of the Pen" (most charismatic, most convincing gets own way via words)
 
 - Most interactions that involve transfers of resources involve a synthesis of these three power spheres: **reciprocity, persuasion, and coercion**
 

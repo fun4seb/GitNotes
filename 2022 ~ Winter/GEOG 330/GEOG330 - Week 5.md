@@ -164,14 +164,44 @@
     - What are the roles of space and place in the formation of culture?
     - What is meant by the "postmodern city"?
 
+- **Ethnoscape** = landscape of immigrants, tourists, refugees, exiles, guest workers, and other moving groups to be found in contemporary cities
+
 ## 3.1 What is Culture?
-- Culture as **"ways of life"**
+- Culture as **"ways of life"**; comprised of:
+    1. The values that people hold; their ideals and aspirations
+    2. The norms that people follow; the rules and principles that govern their lives
+    3. The material objects that people use; Ex: consumer goods, transportation systems, buildings/urban facilities
+
+- Central to culture are shared sets of understandings, often called **discourses/narratives**
+
+- **Semiology** = study of shared meanings
+    - **Signifiers** = things that point to these shared meanings
+    - **Signified** = the cultural meaning itself
+    - **Signifying practices** = activities rich in cultural symbolism
+
+- **Iconography** = the study of meanings behind urban landscapes
+    - **Monumental architecture** = large architectural projects full of symbolism; Ex: expensive and imposing business headquarters signifies corporate power
 
 ## 3.2 Postcolonial Theory and the City
+- **postcolonial theory** = examination of **imperialist discourses** that govern Western representations of non-Western cities and societies
+    - Attempts to undermine **ethnocentrism** (notion that Western thought is superior)
+
+- **Subaltern classes** = those subjected to Western hegemony; those who are having Western discourses imposed on them
+
+- **Hybridity** = idea that all cultures are **mixtures** of other culture, also meaning that there no single "authentic" culture for a particular place; culture as always mixing and changing as it interacts with other cultures
 
 ## 3.3 Space, Power, and Culture
+- Crucial role of **space** in the formation of culture, and the fact that "space" itself is **socially constructed**
 
+- Some people are **excluded** from public spaces (homeless, mentally ill, drunks, etc.), representing the fact that there are power dynamics taking place within space that govern who does and doesn't "belong"
+    - Spaces reinforce culture because certain patterns of behavior (norms) are expected within them, reflecting certain cultural values held within space
+
+- Power (within space) is expressed through the monopolization of space by some groups, and the exclusion of certain weaker groups
+    - These power relations are taken for granted/naturalized as a part of everyday life, leading to **cultural imperialism**; dominant power relations become "invisible" while excluded groups are marked as "other"
 ## 3.4 Postmodernism
+- **Modernism** = school of thought that uses rational thought to determine universal patterns/generalities that govern space
+- **Postmodernism** = rejection of the idea that there are universal patterns
+    - Recognizes the diversity and uniqueness of different groups, that there is no one "pure, immediate, undistilled experience"
 
 ## Chapter Summary
 - 3.1: Cities play a crucial role in the formation of cultures; These cultures involve **‘ways of life’** including the values that people hold, the norms that they follow, and the material objects that they use

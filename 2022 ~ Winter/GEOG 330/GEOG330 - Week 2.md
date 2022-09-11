@@ -81,12 +81,17 @@
     - Dismantling of the welfare state, rise of the entrepreneurial city, inner city politics replaced with middle class liberalism, suburban conservatism
 
 # Reading Notes: The Socio-Spatial Dialectic - Soja
+> This is the principle work on the socio-spatial dialectic. You really only need to read to page 217 (up to "The Urban Spatial Problematic") to get a understanding of the concept
+
 - "Space and the political organization of space express social relationships but also react back upon them"
     - "Industrialization, once the producer of urbanism, is now being produced by it"
 
-## The Organization of Space as a Social Project
-- Contextual vs. created space
+- The organization of space as a social project
+    - Contextual vs. created space
 
-## Organized Space and the Mode of Production
+- Organized space and the mode of production
 
 # Video Notes: Interview with Henri Lefebvre - NFB Film
+> In this short NFB film, Henri Lefebvre is interviewed about his theories on "Urban Revolution". You really only need to watch the first 10 minutes or so to get a sense of his understanding of the socio-spatial dialectic (until about 10:50). After that, he discusses the functionalism and technocracy of urban planning. Please note that there are no English subtitles for this short film. In "settings", go to "subtitles" and turn on "auto translate". You might be better off with French subtitles though, because the auto-translate is terrible
+
+- Link: https://www.youtube.com/watch?v=0kyLooKv6mU&feature=emb_logo

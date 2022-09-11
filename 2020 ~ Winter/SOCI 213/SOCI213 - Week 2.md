@@ -72,7 +72,7 @@
 - Ideal; respects all 5 rules
 - Selects sampling categories based on the proportions of the larger populations in relation to each other; stays insistent with ratios between sampling groups and ratios between population groups
 
-## Calculating 
+## Calculating
 1. Calculate proportions between population groups as a decimal integer out of 1.0
 	- Ex: Population of departments: production = 1350, marketing = 900, management = 450	
 	- -> Population proportions: production = 0.50, marketing = 0.33, management = 0.17

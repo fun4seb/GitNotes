@@ -1,7 +1,6 @@
-# CLAS265 - Week 2: Hesiod's Journey
+# CLAS265 - Week 2: Hesiod's Theogony
 - First few myths are concerned with **creation**; creation of life/universe/gods/etc.
 
-# Lecture Notes: Hesiod's Theogony
 - Greek creation poem detailing the systematic creation of the universe and the genealogy of the gods
     - Also refereed to as the Olympian Creation Myth (due to its focus on the accounts of the Olympians Ex: Zeus)
 
@@ -13,7 +12,7 @@
     - Ouranos = Uranus
     - Kronos = Cronus
 
-## Creation of the Universe
+# Creation of the Universe
 - Chaos is perceived as a great **void/abyss** from which **Gaia (Earth)**, **Tartarus (Hell)**, and **Eros (love)** emerged; Chaos as the starting point in the creation of the universe
     - The universe is created from the bottom up as Tartarus emerges to sit on top of Chaos and Gaia to sit on top of Tartarus
     - Who is Eros?
@@ -25,14 +24,14 @@
     - In addition to this they are also **anthropomorphic beings (human like)**
         - Ex: They can lay together to create new life 
 
-## Methods of Reproduction
+# Methods of Godly Reproduction
 - **Parthenogenesis** = Creation of new life by a female only; miraculous conception
     - Ex: Gaia's three children are produced this way
 
 - **Hieros Gamos** = "Sacred/holy marriage", refers to the creative (sexual) union of gods and goddess
     - Ex: Union of Erebos and Night (brought together by Eros)
 
-## Children of Gaia
+# Children of Gaia
 - **Ouranos**
     - Gaia also produces children with Ouranos (non-parthenogenically)
 - The Hills
@@ -59,7 +58,7 @@
         - The genitals of Ouranos, after being chopped off, ends up in the sea where it is surrounded by sea-foam, from which a girl emerged to form the goddess of love and beauty **Aphrodite**
         - After the castration Ouranos retreats to his rightful place (the starry skies), his departure allows for "space in which all others may flourish"
 
-## The (Original) Olympians
+# The (Original) Olympians
 - Deity children of Rheia and Kronos:
     - Hestia
     - Demeter
@@ -90,13 +89,3 @@
     - It was prophesied that, much like Kronos' children, Metis would produce a child that would surpass Zeus in strength and wisdom
     - With counseling from Gaia and Ouranos, Zeus tricks Metis and traps her in his belly so that she can never produce his successor
     - This is to cement Zeus as the only one who will reign as king over the immortals and break the cycle of children surpassing their fathers 
-
-# Reading Notes: Hesiod's Theogony
-- Plot summary:
-
-- Dichotomies:
-    - Chaos vs. Gaia
-    - Olympos vs. Tartaros
-    - Eros vs. Erebos
-
-- Prophecy of Kronos' downfall:

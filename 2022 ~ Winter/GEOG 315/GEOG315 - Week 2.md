@@ -2,7 +2,7 @@
 - **Main topic of lecture and readings:** looking at how geography, as a tool and science, is implicated in the activities of colonialism/racism/slavery
     - Geography as a tool to gain domination/power over others
 
-- What do this weeks readings have in common:
+- What do these readings have in common:
     - All of the readings look at how geography has been implicated in power relations, specifically the relation between European/white societies and various non-European/non-white societies
     - They all examine ideas about "race" and how ideas about geography often underwrite these ideas
 

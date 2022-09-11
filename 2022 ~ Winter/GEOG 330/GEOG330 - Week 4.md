@@ -170,12 +170,15 @@
 - Spain: What Happened to Gender
     - Changing gender relations are amongst the most significant changes in the postmodern city
 
-# Reading Notes: Postmodern Urbanism - Dear and Flusty
+# Reading Notes: Postmodern Urbanism - Dear & Flusty
+> This reading is the central text for Assignment 1. Please read it for the overall concept and avoid getting bogged down in Dear and Flusty's "neologisms", essentially newly coined words that characterize the new concepts they are introducing. Our goal with this paper is to critically evaluate their proposal that contemporary North American cities may be more like Los Angeles than Chicago, the paradigmatic city of the industrial era
+
 - Key topics:
     - Keno capitalism
+    - LA as the "paradigmatic city"
     - Edge cities
     - City as a theme park
     - Fortified city
     - Fordist vs. post-Fordist regimes of accumulation and regulation
 
-- Argueing that cities no longer follow the concentric ring model of the Chicago school, and rather follow the **keno-capitalism** model
+- Arguing that cities no longer follow the concentric ring model of the Chicago school, and rather follow the **keno-capitalism** model

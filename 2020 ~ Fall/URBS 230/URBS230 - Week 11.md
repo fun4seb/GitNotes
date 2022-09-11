@@ -24,7 +24,7 @@
 	- In many cities the proportion of the housing stock in non-market forms has **fallen considerably since the 1980's** due to **neoliberal policies** and **rapid growth of the private-market stock**
 
 - Market forms of housing involve differed kinds of **tenures**: free hold ownership, **condominium** (strata) tenure, rent-to-own arrangements, market rental (leasehold) tenures
-	- In the global North, the proportion of the population that own their housing ranges from 44% in Switzerland to over 90% in Eastern European countries; in the global South, a very large proportion if the housing stock is in market or quasi-market forms, with the vast majority involving **semi-legal or illegal squatter settlements** in which residents have limited tenure and land rights
+	- In the Global North, the proportion of the population that own their housing ranges from 44% in Switzerland to over 90% in Eastern European countries; in the Global South, a very large proportion if the housing stock is in market or quasi-market forms, with the vast majority involving **semi-legal or illegal squatter settlements** in which residents have limited tenure and land rights
 
 - In **market-based** housing forms, occupants are chosen according to **willingness and ability to pay**; in competitive markets prices are picked due to variance in quality, maintenance, size, level of amenity, and location, all under to context of the **equilibrium between the supply and demand of unites**
 	- **"Hedonistic"** = preference-satisfying model of price and rent determination

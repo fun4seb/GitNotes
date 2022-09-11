@@ -27,12 +27,12 @@
 	- both communicate, but symbols carry more content and are suggestive of larger ideas(cultural, social, emotional, psychological) than simple signs
 - Non-human animals communicate by way of signs rather than symbols; prof says **animals are not capable of symbolic communication in the way humans are**
 
-# Nature & Culture	
+# Nature & Culture
 - Culture needs more than one person as it is cultivated and maintained in a group setting
 - Complex symbolism is characteristically human
 - Humans have natural instincts, requirements, etc. However, **culture also tends to convert those natural elements into symbolic forms**
 	- Ex: **Biological sex** is converted into a system of cultural categorization, **gender**, which varies across cultures; The **nourishment of the body** is elaborated into culture-specific **cuisines** and beliefs about food
-	- **Culture mediates nature by way of symbols****
+	- **Culture mediates nature by way of symbols**
 
 # Approaches to the Study of Symbols
 
@@ -117,7 +117,7 @@
 ## Womack: "How Symbols are Studied"
 - **NOTES PLACEHOLDER**
 
-## Geertz: “The Impact of the Concept of Culture on the Concept of Man” 
+## Geertz: “The Impact of the Concept of Culture on the Concept of Man”
 - What does Geertz mean when he says, “to be human is to be Javanese”?
 	- That to be human is to be culturally particular; and this is the core argument of Geertz’s essay
 

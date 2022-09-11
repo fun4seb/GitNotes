@@ -92,7 +92,7 @@
     - Urban **metaphors**:
         - Jungle, melting pot, mosaic, organism, machine
 
-# Reading Notes: Social Geography and the Sociospatial Dialectic - Knox and Pinch (Chapter 1)
+# Reading Notes: Social Geography and the Sociospatial Dialectic - Knox & Pinch (Chapter 1)
 - Questions addressed in this chapter:
     - Why are geographers interested in city structures?
     - What are the distinctive contributions that geographers can make to understanding these structures?
