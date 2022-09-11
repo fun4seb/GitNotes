@@ -178,13 +178,15 @@
     - What we need is an algorithm that **loops**
 
 # Conditional Loops
-> **Loop**
+``` 
+**Loop**
     Do A
     **If** condition is true **then**
         Leave the loop
     **End if**
     Do B
 **End Loop**
+```
 
 > **Loop**
     Remove a shovel-full of dirt
